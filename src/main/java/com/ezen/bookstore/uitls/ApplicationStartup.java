@@ -75,8 +75,8 @@ public class ApplicationStartup implements ApplicationRunner {
             List<SubCategoryJsonDTO> subCategoryJsonDTOs = objectMapper.readValue(resource.getInputStream(), new TypeReference<List<SubCategoryJsonDTO>>() {});
 
             for (SubCategoryJsonDTO dto : subCategoryJsonDTOs) {
-                MainCategory mainCategory = mainCategoryRepository.findById(dto.maincategoryId())
-                        .orElseThrow(() -> new RuntimeException("MainCategory not found for id: " + dto.maincategoryId()));
+                MainCategory mainCategory = mainCategoryRepository.findById(dto.main_category_id())
+                        .orElseThrow(() -> new RuntimeException("MainCategory not found for id: " + dto.main_category_id()));
                 SubCategory subCategory = new SubCategory(dto.name(), mainCategory);
                 subCategoryRepository.save(subCategory);
             }

@@ -4,6 +4,6 @@ public record SubCategoryJsonDTO(
 
         Long id,
         String name,
-        Long maincategoryId
+        Long main_category_id
 ) {}
 
