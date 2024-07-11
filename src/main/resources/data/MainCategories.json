@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "saleCmdtClstCode": "01",
+        "name": "소설"
+    },
+    {
+        "id": 1,
+        "saleCmdtClstCode": "32",
+        "name": "여행"
+    },
+    {
+        "id": 2,
+        "saleCmdtClstCode": "29",
+        "name": "과학"
+    },
+    {
+        "id": 3,
+        "saleCmdtClstCode": "11",
+        "name": "취미/실용/스포츠"
+    },
+    {
+        "id": 4,
+        "saleCmdtClstCode": "19",
+        "name": "역사/문화"
+    },
+    {
+        "id": 5,
+        "saleCmdtClstCode": "09",
+        "name": "건강"
+    },
+    {
+        "id": 6,
+        "saleCmdtClstCode": "38",
+        "name": "청소년"
+    },
+    {
+        "id": 7,
+        "saleCmdtClstCode": "47",
+        "name": "만화"
+    },
+    {
+        "id": 8,
+        "saleCmdtClstCode": "33",
+        "name": "컴퓨터/IT"
+    }
+]
