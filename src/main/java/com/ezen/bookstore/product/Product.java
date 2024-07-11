@@ -21,5 +21,8 @@ public class Product {
     @ManyToOne
     private SubCategory subCategory;
 
+
+
+
     protected Product() {}
 }
