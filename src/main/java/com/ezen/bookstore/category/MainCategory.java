@@ -11,5 +11,17 @@ public class MainCategory {
     private Long id;
     private String name;
 
+    // Constructor
     protected MainCategory() {}
+    
+    // Getter
+    public Long getId() {
+        return id;
+    }
+    
+    public String getName() {
+        return name;
+    }
+    
+    // Setter
 }
