@@ -1,5 +1,6 @@
 package com.ezen.bookstore.product;
 
+import com.ezen.bookstore.category.SubCategory;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 
@@ -18,6 +19,8 @@ public class Product {
     private Long sales;
     private String publisher;
     private String imageUrl;
+    @ManyToOne
+    private SubCategory subCategory;
 
     protected Product() {}
 
@@ -55,5 +58,21 @@ public class Product {
 
     public String getImageUrl() {
         return imageUrl;
+    }
+
+    public SubCategory getSubCategory() {
+        return subCategory;
+    }
+
+    public Product(String title, Long price, LocalDate publishDate, String author, String contentsInfo, Long sales, String publisher, String imageUrl, SubCategory subCategory) {
+        this.title = title;
+        this.price = price;
+        this.publishDate = publishDate;
+        this.author = author;
+        this.contentsInfo = contentsInfo;
+        this.sales = sales;
+        this.publisher = publisher;
+        this.imageUrl = imageUrl;
+        this.subCategory = subCategory;
     }
 }
