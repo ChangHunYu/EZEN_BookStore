@@ -1,6 +1,6 @@
 [
     {
-        "id": 0,
+        "id": 1,
         "title": "모순",
         "price": 13000.0,
         "publishDate": "20130401",
@@ -9,10 +9,10 @@
         "sales": 948,
         "publisher": "쓰다",
         "imageUrl": "img/9788998441012.jpg",
-        "sub_category_id": 0
+        "sub_category_id": 1
     },
     {
-        "id": 1,
+        "id": 2,
         "title": "죽이고 싶은 아이 2",
         "price": 14000.0,
         "publishDate": "20240701",
@@ -21,10 +21,10 @@
         "sales": 521,
         "publisher": "우리학교",
         "imageUrl": "img/9791167552723.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "나의 돈키호테",
         "price": 18000.0,
         "publishDate": "20240425",
@@ -33,10 +33,10 @@
         "sales": 689,
         "publisher": "나무옆의자",
         "imageUrl": "img/9791161571768.jpg",
-        "sub_category_id": 0
+        "sub_category_id": 1
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "언젠가 우리가 같은 별을 바라본다면",
         "price": 12000.0,
         "publishDate": "20211215",
@@ -45,10 +45,10 @@
         "sales": 946,
         "publisher": "해결책",
         "imageUrl": "img/9791191061048.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "두 사람의 인터내셔널",
         "price": 16800.0,
         "publishDate": "20240515",
@@ -57,10 +57,10 @@
         "sales": 581,
         "publisher": "문학동네",
         "imageUrl": "img/9788954697941.jpg",
-        "sub_category_id": 0
+        "sub_category_id": 1
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "리틀 라이프 1",
         "price": 14800.0,
         "publishDate": "20160616",
@@ -69,10 +69,10 @@
         "sales": 387,
         "publisher": "시공사",
         "imageUrl": "img/9788952776372.jpg",
-        "sub_category_id": 1
+        "sub_category_id": 2
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "리틀 라이프 2",
         "price": 14800.0,
         "publishDate": "20160616",
@@ -81,10 +81,10 @@
         "sales": 948,
         "publisher": "시공사",
         "imageUrl": "img/9788952776389.jpg",
-        "sub_category_id": 1
+        "sub_category_id": 2
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "흐르는 강물처럼",
         "price": 17000.0,
         "publishDate": "20240108",
@@ -93,10 +93,10 @@
         "sales": 446,
         "publisher": "다산책방",
         "imageUrl": "img/9791130649672.jpg",
-        "sub_category_id": 1
+        "sub_category_id": 2
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "이처럼 사소한 것들",
         "price": 13800.0,
         "publishDate": "20231127",
@@ -105,10 +105,10 @@
         "sales": 479,
         "publisher": "다산책방",
         "imageUrl": "img/9791130646381.jpg",
-        "sub_category_id": 1
+        "sub_category_id": 2
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "맡겨진 소녀",
         "price": 13000.0,
         "publishDate": "20230421",
@@ -117,10 +117,10 @@
         "sales": 689,
         "publisher": "다산책방",
         "imageUrl": "img/9791130698199.jpg",
-        "sub_category_id": 1
+        "sub_category_id": 2
     },
     {
-        "id": 10,
+        "id": 11,
         "title": "마녀와의 7일",
         "price": 18800.0,
         "publishDate": "20240625",
@@ -129,10 +129,10 @@
         "sales": 588,
         "publisher": "현대문학",
         "imageUrl": "img/9791167902573.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 11,
+        "id": 12,
         "title": "녹나무의 여신",
         "price": 18800.0,
         "publishDate": "20240523",
@@ -141,10 +141,10 @@
         "sales": 885,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138483049.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 12,
+        "id": 13,
         "title": "인간 실격",
         "price": 9000.0,
         "publishDate": "20120410",
@@ -153,10 +153,10 @@
         "sales": 858,
         "publisher": "민음사",
         "imageUrl": "img/9788937461033.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 13,
+        "id": 14,
         "title": "세상의 마지막 기차역(리커버 에디션)",
         "price": 14000.0,
         "publishDate": "20220509",
@@ -165,10 +165,10 @@
         "sales": 464,
         "publisher": "모모",
         "imageUrl": "img/9791191043754.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 14,
+        "id": 15,
         "title": "노르웨이의 숲",
         "price": 17000.0,
         "publishDate": "20170807",
@@ -177,10 +177,10 @@
         "sales": 515,
         "publisher": "민음사",
         "imageUrl": "img/9788937434488.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 15,
+        "id": 16,
         "title": "삼체 1~3 세트(출간 10주년 기념 특별판 양장)",
         "price": 67000.0,
         "publishDate": "20240607",
@@ -189,10 +189,10 @@
         "sales": 543,
         "publisher": "자음과모음",
         "imageUrl": "img/9788954442688.jpg",
-        "sub_category_id": 3
+        "sub_category_id": 4
     },
     {
-        "id": 16,
+        "id": 17,
         "title": "삼체 1: 삼체문제",
         "price": 17000.0,
         "publishDate": "20220215",
@@ -201,10 +201,10 @@
         "sales": 573,
         "publisher": "자음과모음",
         "imageUrl": "img/9788954442695.jpg",
-        "sub_category_id": 3
+        "sub_category_id": 4
     },
     {
-        "id": 17,
+        "id": 18,
         "title": "삼체 2: 암흑의 숲",
         "price": 25000.0,
         "publishDate": "20220215",
@@ -213,10 +213,10 @@
         "sales": 614,
         "publisher": "자음과모음",
         "imageUrl": "img/9788954442701.jpg",
-        "sub_category_id": 3
+        "sub_category_id": 4
     },
     {
-        "id": 18,
+        "id": 19,
         "title": "삼체 3: 사신의 영생",
         "price": 25000.0,
         "publishDate": "20220215",
@@ -225,10 +225,10 @@
         "sales": 323,
         "publisher": "자음과모음",
         "imageUrl": "img/9788954442718.jpg",
-        "sub_category_id": 3
+        "sub_category_id": 4
     },
     {
-        "id": 19,
+        "id": 20,
         "title": "귀신들의 땅",
         "price": 18000.0,
         "publishDate": "20231229",
@@ -237,10 +237,10 @@
         "sales": 937,
         "publisher": "민음사",
         "imageUrl": "img/9788937454820.jpg",
-        "sub_category_id": 3
+        "sub_category_id": 4
     },
     {
-        "id": 20,
+        "id": 21,
         "title": "낯선 여인의 키스",
         "price": 22000.0,
         "publishDate": "20240624",
@@ -249,10 +249,10 @@
         "sales": 17,
         "publisher": "녹색광선",
         "imageUrl": "img/9791198375322.jpg",
-        "sub_category_id": 4
+        "sub_category_id": 5
     },
     {
-        "id": 21,
+        "id": 22,
         "title": "죄와 벌 1",
         "price": 11000.0,
         "publishDate": "20120330",
@@ -261,10 +261,10 @@
         "sales": 675,
         "publisher": "민음사",
         "imageUrl": "img/9788937462849.jpg",
-        "sub_category_id": 4
+        "sub_category_id": 5
     },
     {
-        "id": 22,
+        "id": 23,
         "title": "죄와 벌 2",
         "price": 11000.0,
         "publishDate": "20120330",
@@ -273,10 +273,10 @@
         "sales": 166,
         "publisher": "민음사",
         "imageUrl": "img/9788937462856.jpg",
-        "sub_category_id": 4
+        "sub_category_id": 5
     },
     {
-        "id": 23,
+        "id": 24,
         "title": "이반 일리치의 죽음",
         "price": 12000.0,
         "publishDate": "20231208",
@@ -285,10 +285,10 @@
         "sales": 108,
         "publisher": "민음사",
         "imageUrl": "img/9788937464386.jpg",
-        "sub_category_id": 4
+        "sub_category_id": 5
     },
     {
-        "id": 24,
+        "id": 25,
         "title": "감찰관",
         "price": 15000.0,
         "publishDate": "20211030",
@@ -297,10 +297,10 @@
         "sales": 463,
         "publisher": "을유문화사",
         "imageUrl": "img/9788932405087.jpg",
-        "sub_category_id": 4
+        "sub_category_id": 5
     },
     {
-        "id": 25,
+        "id": 26,
         "title": "퀸의 대각선 1",
         "price": 16800.0,
         "publishDate": "20240625",
@@ -309,10 +309,10 @@
         "sales": 388,
         "publisher": "열린책들",
         "imageUrl": "img/9788932924397.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 26,
+        "id": 27,
         "title": "퀸의 대각선 2",
         "price": 16800.0,
         "publishDate": "20240625",
@@ -321,10 +321,10 @@
         "sales": 16,
         "publisher": "열린책들",
         "imageUrl": "img/9788932924403.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 27,
+        "id": 28,
         "title": "어린 왕자(오리지널 초판본)(무선)",
         "price": 3300.0,
         "publishDate": "20200922",
@@ -333,10 +333,10 @@
         "sales": 66,
         "publisher": "코너스톤",
         "imageUrl": "img/9791190669313.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 28,
+        "id": 29,
         "title": "이방인",
         "price": 10000.0,
         "publishDate": "20190902",
@@ -345,10 +345,10 @@
         "sales": 9,
         "publisher": "민음사",
         "imageUrl": "img/9788937443848.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 29,
+        "id": 30,
         "title": "초판본 어린왕자 미니북(1943년 오리지널 초판본 표지디자인)",
         "price": 3900.0,
         "publishDate": "20230725",
@@ -357,10 +357,10 @@
         "sales": 823,
         "publisher": "더스토리",
         "imageUrl": "img/9791164457670.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 30,
+        "id": 31,
         "title": "싯다르타",
         "price": 8000.0,
         "publishDate": "20020120",
@@ -369,10 +369,10 @@
         "sales": 878,
         "publisher": "민음사",
         "imageUrl": "img/9788937460586.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 31,
+        "id": 32,
         "title": "데미안",
         "price": 8000.0,
         "publishDate": "20090120",
@@ -381,10 +381,10 @@
         "sales": 680,
         "publisher": "민음사",
         "imageUrl": "img/9788937460449.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 32,
+        "id": 33,
         "title": "데미안: 오리지널 초판본 표지디자인",
         "price": 3300.0,
         "publishDate": "20160722",
@@ -393,10 +393,10 @@
         "sales": 867,
         "publisher": "코너스톤",
         "imageUrl": "img/9791187011590.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 33,
+        "id": 34,
         "title": "변신 시골의사",
         "price": 8500.0,
         "publishDate": "20090120",
@@ -405,10 +405,10 @@
         "sales": 447,
         "publisher": "민음사",
         "imageUrl": "img/9788937460043.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 34,
+        "id": 35,
         "title": "수레바퀴 아래서: 오리지널 초판본 표지디자인",
         "price": 3300.0,
         "publishDate": "20160610",
@@ -417,10 +417,10 @@
         "sales": 909,
         "publisher": "코너스톤",
         "imageUrl": "img/9791187011606.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 35,
+        "id": 36,
         "title": "아이가 없는 집",
         "price": 18000.0,
         "publishDate": "20240612",
@@ -429,10 +429,10 @@
         "sales": 187,
         "publisher": "필름(Feelm)",
         "imageUrl": "img/9791193262184.jpg",
-        "sub_category_id": 7
+        "sub_category_id": 8
     },
     {
-        "id": 36,
+        "id": 37,
         "title": "아침 그리고 저녁",
         "price": 12500.0,
         "publishDate": "20190726",
@@ -441,10 +441,10 @@
         "sales": 818,
         "publisher": "문학동네",
         "imageUrl": "img/9788954657129.jpg",
-        "sub_category_id": 7
+        "sub_category_id": 8
     },
     {
-        "id": 37,
+        "id": 38,
         "title": "오베라는 남자",
         "price": 16800.0,
         "publishDate": "20230309",
@@ -453,10 +453,10 @@
         "sales": 940,
         "publisher": "다산책방",
         "imageUrl": "img/9791130605210.jpg",
-        "sub_category_id": 7
+        "sub_category_id": 8
     },
     {
-        "id": 38,
+        "id": 39,
         "title": "인형의 집 유령 민중의 적 들오리",
         "price": 15000.0,
         "publishDate": "20231001",
@@ -465,10 +465,10 @@
         "sales": 679,
         "publisher": "동서문화사",
         "imageUrl": "img/9788949715315.jpg",
-        "sub_category_id": 7
+        "sub_category_id": 8
     },
     {
-        "id": 39,
+        "id": 40,
         "title": "멜랑콜리아 1-2",
         "price": 17000.0,
         "publishDate": "20231006",
@@ -477,10 +477,10 @@
         "sales": 879,
         "publisher": "민음사",
         "imageUrl": "img/9788937464317.jpg",
-        "sub_category_id": 7
+        "sub_category_id": 8
     },
     {
-        "id": 40,
+        "id": 41,
         "title": "참을 수 없는 존재의 가벼움",
         "price": 17000.0,
         "publishDate": "20180620",
@@ -489,10 +489,10 @@
         "sales": 8,
         "publisher": "민음사",
         "imageUrl": "img/9788937437564.jpg",
-        "sub_category_id": 8
+        "sub_category_id": 9
     },
     {
-        "id": 41,
+        "id": 42,
         "title": "무의미의 축제",
         "price": 15000.0,
         "publishDate": "20240624",
@@ -501,10 +501,10 @@
         "sales": 95,
         "publisher": "민음사",
         "imageUrl": "img/9788937456749.jpg",
-        "sub_category_id": 8
+        "sub_category_id": 9
     },
     {
-        "id": 42,
+        "id": 43,
         "title": "돌연한 출발",
         "price": 16000.0,
         "publishDate": "20230407",
@@ -513,10 +513,10 @@
         "sales": 173,
         "publisher": "민음사",
         "imageUrl": "img/9788937427831.jpg",
-        "sub_category_id": 8
+        "sub_category_id": 9
     },
     {
-        "id": 43,
+        "id": 44,
         "title": "신곡 세트",
         "price": 29000.0,
         "publishDate": "20130717",
@@ -525,10 +525,10 @@
         "sales": 29,
         "publisher": "민음사",
         "imageUrl": "img/9788937488061.jpg",
-        "sub_category_id": 8
+        "sub_category_id": 9
     },
     {
-        "id": 44,
+        "id": 45,
         "title": "참을 수 없는 존재의 가벼움",
         "price": 13000.0,
         "publishDate": "20091224",
@@ -537,10 +537,10 @@
         "sales": 959,
         "publisher": "민음사",
         "imageUrl": "img/9788937462344.jpg",
-        "sub_category_id": 8
+        "sub_category_id": 9
     },
     {
-        "id": 45,
+        "id": 46,
         "title": "연금술사",
         "price": 12000.0,
         "publishDate": "20181205",
@@ -549,10 +549,10 @@
         "sales": 12,
         "publisher": "문학동네",
         "imageUrl": "img/9788982814471.jpg",
-        "sub_category_id": 9
+        "sub_category_id": 10
     },
     {
-        "id": 46,
+        "id": 47,
         "title": "나의 라임 오렌지나무",
         "price": 13000.0,
         "publishDate": "20100415",
@@ -561,10 +561,10 @@
         "sales": 159,
         "publisher": "동녘",
         "imageUrl": "img/9788972976196.jpg",
-        "sub_category_id": 9
+        "sub_category_id": 10
     },
     {
-        "id": 47,
+        "id": 48,
         "title": "디 에센셜: 프란츠 카프카(교보문고 특별판)",
         "price": 19000.0,
         "publishDate": "20240315",
@@ -573,10 +573,10 @@
         "sales": 274,
         "publisher": "민음사",
         "imageUrl": "img/9788937456398.jpg",
-        "sub_category_id": 9
+        "sub_category_id": 10
     },
     {
-        "id": 48,
+        "id": 49,
         "title": "아우라",
         "price": 7000.0,
         "publishDate": "20091113",
@@ -585,10 +585,10 @@
         "sales": 967,
         "publisher": "민음사",
         "imageUrl": "img/9788937462290.jpg",
-        "sub_category_id": 9
+        "sub_category_id": 10
     },
     {
-        "id": 49,
+        "id": 50,
         "title": "눈먼 올빼미",
         "price": 13800.0,
         "publishDate": "20130501",
@@ -597,10 +597,10 @@
         "sales": 384,
         "publisher": "연금술사",
         "imageUrl": "img/9791195026104.jpg",
-        "sub_category_id": 9
+        "sub_category_id": 10
     },
     {
-        "id": 50,
+        "id": 51,
         "title": "싯다르타",
         "price": 8000.0,
         "publishDate": "20020120",
@@ -609,10 +609,10 @@
         "sales": 615,
         "publisher": "민음사",
         "imageUrl": "img/9788937460586.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 51,
+        "id": 52,
         "title": "데미안",
         "price": 8000.0,
         "publishDate": "20090120",
@@ -621,10 +621,10 @@
         "sales": 218,
         "publisher": "민음사",
         "imageUrl": "img/9788937460449.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 52,
+        "id": 53,
         "title": "인간 실격",
         "price": 9000.0,
         "publishDate": "20120410",
@@ -633,10 +633,10 @@
         "sales": 634,
         "publisher": "민음사",
         "imageUrl": "img/9788937461033.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 53,
+        "id": 54,
         "title": "어린 왕자(오리지널 초판본)(무선)",
         "price": 3300.0,
         "publishDate": "20200922",
@@ -645,10 +645,10 @@
         "sales": 23,
         "publisher": "코너스톤",
         "imageUrl": "img/9791190669313.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 54,
+        "id": 55,
         "title": "참을 수 없는 존재의 가벼움",
         "price": 17000.0,
         "publishDate": "20180620",
@@ -657,10 +657,10 @@
         "sales": 461,
         "publisher": "민음사",
         "imageUrl": "img/9788937437564.jpg",
-        "sub_category_id": 8
+        "sub_category_id": 9
     },
     {
-        "id": 55,
+        "id": 56,
         "title": "싯다르타",
         "price": 8000.0,
         "publishDate": "20020120",
@@ -669,10 +669,10 @@
         "sales": 99,
         "publisher": "민음사",
         "imageUrl": "img/9788937460586.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 56,
+        "id": 57,
         "title": "데미안",
         "price": 8000.0,
         "publishDate": "20090120",
@@ -681,10 +681,10 @@
         "sales": 187,
         "publisher": "민음사",
         "imageUrl": "img/9788937460449.jpg",
-        "sub_category_id": 6
+        "sub_category_id": 7
     },
     {
-        "id": 57,
+        "id": 58,
         "title": "인간 실격",
         "price": 9000.0,
         "publishDate": "20120410",
@@ -693,10 +693,10 @@
         "sales": 916,
         "publisher": "민음사",
         "imageUrl": "img/9788937461033.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 58,
+        "id": 59,
         "title": "이방인",
         "price": 10000.0,
         "publishDate": "20190902",
@@ -705,10 +705,10 @@
         "sales": 16,
         "publisher": "민음사",
         "imageUrl": "img/9788937443848.jpg",
-        "sub_category_id": 5
+        "sub_category_id": 6
     },
     {
-        "id": 59,
+        "id": 60,
         "title": "1984",
         "price": 11000.0,
         "publishDate": "20070330",
@@ -717,10 +717,10 @@
         "sales": 92,
         "publisher": "민음사",
         "imageUrl": "img/9788937460777.jpg",
-        "sub_category_id": 1
+        "sub_category_id": 2
     },
     {
-        "id": 60,
+        "id": 61,
         "title": "어서 오세요 실력지상주의 교실에 2학년 편 11",
         "price": 8500.0,
         "publishDate": "20240704",
@@ -729,10 +729,10 @@
         "sales": 332,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138483711.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 61,
+        "id": 62,
         "title": "스즈메의 문단속",
         "price": 13000.0,
         "publishDate": "20230113",
@@ -741,10 +741,10 @@
         "sales": 551,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791169791977.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 62,
+        "id": 63,
         "title": "마녀의 여행 18",
         "price": 9800.0,
         "publishDate": "20240626",
@@ -753,10 +753,10 @@
         "sales": 742,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138427746.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 63,
+        "id": 64,
         "title": "패배 히로인이 너무 많아! 5",
         "price": 7500.0,
         "publishDate": "20240619",
@@ -765,10 +765,10 @@
         "sales": 899,
         "publisher": "영상출판미디어(영상노트)",
         "imageUrl": "img/9791138049269.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 64,
+        "id": 65,
         "title": "86 에이티식스 13",
         "price": 8000.0,
         "publishDate": "20240605",
@@ -777,10 +777,10 @@
         "sales": 277,
         "publisher": "영상출판미디어(영상노트)",
         "imageUrl": "img/9791138047234.jpg",
-        "sub_category_id": 2
+        "sub_category_id": 3
     },
     {
-        "id": 65,
+        "id": 66,
         "title": "에이든 국내여행 가이드북(2024-2025)",
         "price": 26500.0,
         "publishDate": "20231206",
@@ -789,10 +789,10 @@
         "sales": 692,
         "publisher": "타블라라사",
         "imageUrl": "img/9791190073349.jpg",
-        "sub_category_id": 13
+        "sub_category_id": 14
     },
     {
-        "id": 66,
+        "id": 67,
         "title": "혼자서 국내 여행(2024~2025)",
         "price": 22000.0,
         "publishDate": "20240605",
@@ -801,10 +801,10 @@
         "sales": 752,
         "publisher": "디스커버리미디어",
         "imageUrl": "img/9791188829415.jpg",
-        "sub_category_id": 13
+        "sub_category_id": 14
     },
     {
-        "id": 67,
+        "id": 68,
         "title": "에이든 제주여행 가이드북(2024-2025)",
         "price": 21000.0,
         "publishDate": "20231001",
@@ -813,10 +813,10 @@
         "sales": 332,
         "publisher": "타블라라사",
         "imageUrl": "img/9791190073325.jpg",
-        "sub_category_id": 13
+        "sub_category_id": 14
     },
     {
-        "id": 68,
+        "id": 69,
         "title": "에이든 아이와 가볼만한 곳 1193(2023~2024)",
         "price": 22000.0,
         "publishDate": "20230701",
@@ -825,10 +825,10 @@
         "sales": 864,
         "publisher": "타블라라사",
         "imageUrl": "img/9791190073172.jpg",
-        "sub_category_id": 13
+        "sub_category_id": 14
     },
     {
-        "id": 69,
+        "id": 70,
         "title": "에이든 우리나라 서울 여행지도(2023-2024)",
         "price": 19800.0,
         "publishDate": "20230816",
@@ -837,10 +837,10 @@
         "sales": 870,
         "publisher": "타블라라사",
         "imageUrl": "img/9791190073202.jpg",
-        "sub_category_id": 13
+        "sub_category_id": 14
     },
     {
-        "id": 70,
+        "id": 71,
         "title": "디스 이즈 도쿄(2024~2025)",
         "price": 19800.0,
         "publishDate": "20240201",
@@ -849,10 +849,10 @@
         "sales": 811,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767116.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 71,
+        "id": 72,
         "title": "우리들의 발리 여행(2024~2025)",
         "price": 19800.0,
         "publishDate": "20240710",
@@ -861,10 +861,10 @@
         "sales": 403,
         "publisher": "노트앤노트",
         "imageUrl": "img/9791197880469.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 72,
+        "id": 73,
         "title": "디스 이즈 오사카(This is Osaka)(2024~2025)",
         "price": 19800.0,
         "publishDate": "20240205",
@@ -873,10 +873,10 @@
         "sales": 323,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767123.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 73,
+        "id": 74,
         "title": "디스 이즈 이탈리아(2024~2025)",
         "price": 21000.0,
         "publishDate": "20240315",
@@ -885,10 +885,10 @@
         "sales": 260,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767154.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 74,
+        "id": 75,
         "title": "디스 이즈 싱가포르(2024~2025)",
         "price": 19800.0,
         "publishDate": "20240410",
@@ -897,10 +897,10 @@
         "sales": 211,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767178.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 75,
+        "id": 76,
         "title": "유럽 호텔 여행",
         "price": 26000.0,
         "publishDate": "20240704",
@@ -909,10 +909,10 @@
         "sales": 668,
         "publisher": "모요사",
         "imageUrl": "img/9788997066933.jpg",
-        "sub_category_id": 15
+        "sub_category_id": 16
     },
     {
-        "id": 77,
+        "id": 78,
         "title": "마츠다 리스트",
         "price": 22000.0,
         "publishDate": "20240415",
@@ -921,10 +921,10 @@
         "sales": 489,
         "publisher": "용감한 까치",
         "imageUrl": "img/9791191994278.jpg",
-        "sub_category_id": 15
+        "sub_category_id": 16
     },
     {
-        "id": 78,
+        "id": 79,
         "title": "만약 우리의 언어가 위스키라고 한다면",
         "price": 13000.0,
         "publishDate": "20200618",
@@ -933,10 +933,10 @@
         "sales": 858,
         "publisher": "문학사상",
         "imageUrl": "img/9788970126180.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 79,
+        "id": 80,
         "title": "은퇴하고 세계여행, 삶이 묻고 여행이 답하다",
         "price": 16000.0,
         "publishDate": "20240710",
@@ -945,10 +945,10 @@
         "sales": 16,
         "publisher": "보민출판사",
         "imageUrl": "img/9791169571777.jpg",
-        "sub_category_id": 15
+        "sub_category_id": 16
     },
     {
-        "id": 81,
+        "id": 82,
         "title": "아는 만큼 보인다",
         "price": 22000.0,
         "publishDate": "20230609",
@@ -957,10 +957,10 @@
         "sales": 770,
         "publisher": "창비",
         "imageUrl": "img/9788936479381.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 83,
+        "id": 84,
         "title": "쏭내관의 재미있는 궁궐기행",
         "price": 21000.0,
         "publishDate": "20230612",
@@ -969,10 +969,10 @@
         "sales": 164,
         "publisher": "지식프레임",
         "imageUrl": "img/9791198221315.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 84,
+        "id": 85,
         "title": "나의 문화유산답사기 9: 서울편(1)",
         "price": 20000.0,
         "publishDate": "20170821",
@@ -981,10 +981,10 @@
         "sales": 916,
         "publisher": "창비",
         "imageUrl": "img/9788936474393.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 85,
+        "id": 86,
         "title": "디스 이즈 도쿄(2024~2025)",
         "price": 19800.0,
         "publishDate": "20240201",
@@ -993,10 +993,10 @@
         "sales": 453,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767116.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 86,
+        "id": 87,
         "title": "디스 이즈 오사카(This is Osaka)(2024~2025)",
         "price": 19800.0,
         "publishDate": "20240205",
@@ -1005,10 +1005,10 @@
         "sales": 684,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767123.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 87,
+        "id": 88,
         "title": "프렌즈 런던(2024~2025)",
         "price": 22000.0,
         "publishDate": "20240607",
@@ -1017,10 +1017,10 @@
         "sales": 122,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927880448.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 88,
+        "id": 89,
         "title": "리얼 도쿄(2024~2025)",
         "price": 21000.0,
         "publishDate": "20240226",
@@ -1029,10 +1029,10 @@
         "sales": 84,
         "publisher": "한빛라이프",
         "imageUrl": "img/9791193080252.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 89,
+        "id": 90,
         "title": "디스 이즈 파리(2024~2025)",
         "price": 20000.0,
         "publishDate": "20240517",
@@ -1041,10 +1041,10 @@
         "sales": 603,
         "publisher": "테라출판사(TERRA)",
         "imageUrl": "img/9791192767208.jpg",
-        "sub_category_id": 14
+        "sub_category_id": 15
     },
     {
-        "id": 90,
+        "id": 91,
         "title": "과학혁명의 구조",
         "price": 18000.0,
         "publishDate": "20130910",
@@ -1053,10 +1053,10 @@
         "sales": 960,
         "publisher": "까치",
         "imageUrl": "img/9788972915546.jpg",
-        "sub_category_id": 18
+        "sub_category_id": 19
     },
     {
-        "id": 91,
+        "id": 92,
         "title": "과학 잔혹사",
         "price": 25000.0,
         "publishDate": "20240420",
@@ -1065,10 +1065,10 @@
         "sales": 924,
         "publisher": "해나무",
         "imageUrl": "img/9791164052479.jpg",
-        "sub_category_id": 18
+        "sub_category_id": 19
     },
     {
-        "id": 92,
+        "id": 93,
         "title": "거의 모든 것의 역사(개역판)",
         "price": 25000.0,
         "publishDate": "20200410",
@@ -1077,10 +1077,10 @@
         "sales": 578,
         "publisher": "까치",
         "imageUrl": "img/9788972917113.jpg",
-        "sub_category_id": 18
+        "sub_category_id": 19
     },
     {
-        "id": 94,
+        "id": 95,
         "title": "생명 그 자체의 감각",
         "price": 38000.0,
         "publishDate": "20240207",
@@ -1089,10 +1089,10 @@
         "sales": 375,
         "publisher": "아르테(arte)",
         "imageUrl": "img/9791171173846.jpg",
-        "sub_category_id": 18
+        "sub_category_id": 19
     },
     {
-        "id": 95,
+        "id": 96,
         "title": "꽃도감",
         "price": 22000.0,
         "publishDate": "20210217",
@@ -1101,10 +1101,10 @@
         "sales": 801,
         "publisher": "한스미디어",
         "imageUrl": "img/9791160075755.jpg",
-        "sub_category_id": 19
+        "sub_category_id": 20
     },
     {
-        "id": 96,
+        "id": 97,
         "title": "한 눈에 보는 스발바르 식물",
         "price": 15000.0,
         "publishDate": "20190610",
@@ -1113,10 +1113,10 @@
         "sales": 307,
         "publisher": "지오북",
         "imageUrl": "img/9788994242644.jpg",
-        "sub_category_id": 19
+        "sub_category_id": 20
     },
     {
-        "id": 97,
+        "id": 98,
         "title": "DK 개 백과사전",
         "price": 44000.0,
         "publishDate": "20190930",
@@ -1125,10 +1125,10 @@
         "sales": 251,
         "publisher": "지식의날개",
         "imageUrl": "img/9788920992407.jpg",
-        "sub_category_id": 34
+        "sub_category_id": 35
     },
     {
-        "id": 98,
+        "id": 99,
         "title": "물속생물 도감",
         "price": 16000.0,
         "publishDate": "20170508",
@@ -1137,10 +1137,10 @@
         "sales": 248,
         "publisher": "자연과생태",
         "imageUrl": "img/9788997429752.jpg",
-        "sub_category_id": 19
+        "sub_category_id": 20
     },
     {
-        "id": 99,
+        "id": 100,
         "title": "조향사가 들려주는 향기로운 식물도감",
         "price": 35000.0,
         "publishDate": "20230531",
@@ -1149,10 +1149,10 @@
         "sales": 843,
         "publisher": "도원사",
         "imageUrl": "img/9791197158636.jpg",
-        "sub_category_id": 19
+        "sub_category_id": 20
     },
     {
-        "id": 100,
+        "id": 101,
         "title": "이기적 유전자",
         "price": 20000.0,
         "publishDate": "20230130",
@@ -1161,10 +1161,10 @@
         "sales": 946,
         "publisher": "을유문화사",
         "imageUrl": "img/9788932473901.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 101,
+        "id": 102,
         "title": "물고기는 존재하지 않는다",
         "price": 17000.0,
         "publishDate": "20211217",
@@ -1173,10 +1173,10 @@
         "sales": 912,
         "publisher": "곰출판",
         "imageUrl": "img/9791189327156.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 103,
+        "id": 104,
         "title": "레인보우 맨션",
         "price": 25000.0,
         "publishDate": "20240710",
@@ -1185,10 +1185,10 @@
         "sales": 687,
         "publisher": "쌤앤파커스",
         "imageUrl": "img/9791165349738.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 104,
+        "id": 105,
         "title": "협력의 진화(40주년 특별 기념판)",
         "price": 25000.0,
         "publishDate": "20240520",
@@ -1197,10 +1197,10 @@
         "sales": 841,
         "publisher": "시스테마",
         "imageUrl": "img/9791198695444.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 105,
+        "id": 106,
         "title": "통계 101×데이터 분석",
         "price": 22000.0,
         "publishDate": "20221031",
@@ -1209,10 +1209,10 @@
         "sales": 132,
         "publisher": "프리렉",
         "imageUrl": "img/9788965403388.jpg",
-        "sub_category_id": 21
+        "sub_category_id": 22
     },
     {
-        "id": 106,
+        "id": 107,
         "title": "미적분의 쓸모",
         "price": 19500.0,
         "publishDate": "20220521",
@@ -1221,10 +1221,10 @@
         "sales": 419,
         "publisher": "더퀘스트",
         "imageUrl": "img/9791165219550.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 107,
+        "id": 108,
         "title": "개발자를 위한 실전 선형대수학(파이썬 3.10 버전 대응, 구글 코랩 실습 가능)",
         "price": 28000.0,
         "publishDate": "20230925",
@@ -1233,10 +1233,10 @@
         "sales": 379,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169211451.jpg",
-        "sub_category_id": 105
+        "sub_category_id": 106
     },
     {
-        "id": 108,
+        "id": 109,
         "title": "어떻게 수학을 사랑하지 않을 수 있을까?",
         "price": 24800.0,
         "publishDate": "20240530",
@@ -1245,10 +1245,10 @@
         "sales": 75,
         "publisher": "윌북",
         "imageUrl": "img/9791155817254.jpg",
-        "sub_category_id": 21
+        "sub_category_id": 22
     },
     {
-        "id": 109,
+        "id": 110,
         "title": "프리드버그 선형대수학",
         "price": 35000.0,
         "publishDate": "20200605",
@@ -1257,10 +1257,10 @@
         "sales": 808,
         "publisher": "한빛아카데미",
         "imageUrl": "img/9791156644910.jpg",
-        "sub_category_id": 21
+        "sub_category_id": 22
     },
     {
-        "id": 110,
+        "id": 111,
         "title": "현대 물리학과 동양사상",
         "price": 29000.0,
         "publishDate": "20101220",
@@ -1269,10 +1269,10 @@
         "sales": 108,
         "publisher": "범양사",
         "imageUrl": "img/9788971671634.jpg",
-        "sub_category_id": 22
+        "sub_category_id": 23
     },
     {
-        "id": 112,
+        "id": 113,
         "title": "나 없이는 존재하지 않는 세상",
         "price": 18000.0,
         "publishDate": "20231201",
@@ -1281,10 +1281,10 @@
         "sales": 198,
         "publisher": "쌤앤파커스",
         "imageUrl": "img/9791165348472.jpg",
-        "sub_category_id": 22
+        "sub_category_id": 23
     },
     {
-        "id": 113,
+        "id": 114,
         "title": "떨림과 울림",
         "price": 15000.0,
         "publishDate": "20181107",
@@ -1293,10 +1293,10 @@
         "sales": 63,
         "publisher": "동아시아",
         "imageUrl": "img/9788962622508.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 114,
+        "id": 115,
         "title": "김상욱의 양자 공부",
         "price": 18000.0,
         "publishDate": "20171208",
@@ -1305,10 +1305,10 @@
         "sales": 39,
         "publisher": "사이언스북스",
         "imageUrl": "img/9788983718914.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 116,
+        "id": 117,
         "title": "줌달의 일반화학",
         "price": 56000.0,
         "publishDate": "20190218",
@@ -1317,10 +1317,10 @@
         "sales": 857,
         "publisher": "사이플러스",
         "imageUrl": "img/9788962184358.jpg",
-        "sub_category_id": 23
+        "sub_category_id": 24
     },
     {
-        "id": 117,
+        "id": 118,
         "title": "아름다운 실험",
         "price": 38000.0,
         "publishDate": "20240620",
@@ -1329,10 +1329,10 @@
         "sales": 9,
         "publisher": "소소의책",
         "imageUrl": "img/9791171650125.jpg",
-        "sub_category_id": 23
+        "sub_category_id": 24
     },
     {
-        "id": 118,
+        "id": 119,
         "title": "앳킨스의 물리화학",
         "price": 55000.0,
         "publishDate": "20240301",
@@ -1341,10 +1341,10 @@
         "sales": 397,
         "publisher": "사이플러스",
         "imageUrl": "img/9791188731435.jpg",
-        "sub_category_id": 23
+        "sub_category_id": 24
     },
     {
-        "id": 119,
+        "id": 120,
         "title": "화학의 눈으로 보면 녹색지구가 펼쳐진다",
         "price": 16000.0,
         "publishDate": "20230113",
@@ -1353,10 +1353,10 @@
         "sales": 352,
         "publisher": "갈매나무",
         "imageUrl": "img/9791197637957.jpg",
-        "sub_category_id": 23
+        "sub_category_id": 24
     },
     {
-        "id": 121,
+        "id": 122,
         "title": "면역",
         "price": 35000.0,
         "publishDate": "20221124",
@@ -1365,10 +1365,10 @@
         "sales": 538,
         "publisher": "사이언스북스",
         "imageUrl": "img/9791192107271.jpg",
-        "sub_category_id": 24
+        "sub_category_id": 25
     },
     {
-        "id": 122,
+        "id": 123,
         "title": "세포의 노래",
         "price": 29800.0,
         "publishDate": "20240226",
@@ -1377,10 +1377,10 @@
         "sales": 168,
         "publisher": "까치",
         "imageUrl": "img/9788972918189.jpg",
-        "sub_category_id": 24
+        "sub_category_id": 25
     },
     {
-        "id": 123,
+        "id": 124,
         "title": "10퍼센트 인간",
         "price": 22000.0,
         "publishDate": "20160215",
@@ -1389,10 +1389,10 @@
         "sales": 664,
         "publisher": "시공사",
         "imageUrl": "img/9788952775757.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 125,
+        "id": 126,
         "title": "폭염 살인",
         "price": 23000.0,
         "publishDate": "20240603",
@@ -1401,10 +1401,10 @@
         "sales": 355,
         "publisher": "웅진지식하우스",
         "imageUrl": "img/9788901283470.jpg",
-        "sub_category_id": 25
+        "sub_category_id": 26
     },
     {
-        "id": 126,
+        "id": 127,
         "title": "블루 머신",
         "price": 22000.0,
         "publishDate": "20240531",
@@ -1413,10 +1413,10 @@
         "sales": 795,
         "publisher": "쌤앤파커스",
         "imageUrl": "img/9791165349622.jpg",
-        "sub_category_id": 25
+        "sub_category_id": 26
     },
     {
-        "id": 127,
+        "id": 128,
         "title": "나는 풍요로웠고, 지구는 달라졌다",
         "price": 16800.0,
         "publishDate": "20200904",
@@ -1425,10 +1425,10 @@
         "sales": 716,
         "publisher": "김영사",
         "imageUrl": "img/9788934990307.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 129,
+        "id": 130,
         "title": "기후 책",
         "price": 33000.0,
         "publishDate": "20230620",
@@ -1437,10 +1437,10 @@
         "sales": 620,
         "publisher": "김영사",
         "imageUrl": "img/9788934964100.jpg",
-        "sub_category_id": 25
+        "sub_category_id": 26
     },
     {
-        "id": 130,
+        "id": 131,
         "title": "코스모스",
         "price": 19900.0,
         "publishDate": "20100120",
@@ -1449,10 +1449,10 @@
         "sales": 476,
         "publisher": "사이언스북스",
         "imageUrl": "img/9788983711892.jpg",
-        "sub_category_id": 26
+        "sub_category_id": 27
     },
     {
-        "id": 131,
+        "id": 132,
         "title": "코스모스",
         "price": 50000.0,
         "publishDate": "20221215",
@@ -1461,10 +1461,10 @@
         "sales": 324,
         "publisher": "사이언스북스",
         "imageUrl": "img/9788983711540.jpg",
-        "sub_category_id": 26
+        "sub_category_id": 27
     },
     {
-        "id": 134,
+        "id": 135,
         "title": "창백한 푸른점",
         "price": 33000.0,
         "publishDate": "20200315",
@@ -1473,10 +1473,10 @@
         "sales": 632,
         "publisher": "사이언스북스",
         "imageUrl": "img/9788983719201.jpg",
-        "sub_category_id": 26
+        "sub_category_id": 27
     },
     {
-        "id": 137,
+        "id": 138,
         "title": "게으른 자를 위한 수상한 화학책",
         "price": 17500.0,
         "publishDate": "20240325",
@@ -1485,10 +1485,10 @@
         "sales": 439,
         "publisher": "블랙피쉬",
         "imageUrl": "img/9788968334498.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 139,
+        "id": 140,
         "title": "과학 재판을 시작합니다",
         "price": 15000.0,
         "publishDate": "20240318",
@@ -1497,10 +1497,10 @@
         "sales": 335,
         "publisher": "다른",
         "imageUrl": "img/9791156336044.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 141,
+        "id": 142,
         "title": "섹스의 진화",
         "price": 16500.0,
         "publishDate": "20050712",
@@ -1509,10 +1509,10 @@
         "sales": 396,
         "publisher": "사이언스북스",
         "imageUrl": "img/9788983719416.jpg",
-        "sub_category_id": 28
+        "sub_category_id": 29
     },
     {
-        "id": 142,
+        "id": 143,
         "title": "마음의 진화",
         "price": 15000.0,
         "publishDate": "20160701",
@@ -1521,10 +1521,10 @@
         "sales": 255,
         "publisher": "사이언스북스",
         "imageUrl": "img/9788983719492.jpg",
-        "sub_category_id": 28
+        "sub_category_id": 29
     },
     {
-        "id": 145,
+        "id": 146,
         "title": "현대 물리학과 동양사상",
         "price": 29000.0,
         "publishDate": "20101220",
@@ -1533,10 +1533,10 @@
         "sales": 91,
         "publisher": "범양사",
         "imageUrl": "img/9788971671634.jpg",
-        "sub_category_id": 22
+        "sub_category_id": 23
     },
     {
-        "id": 146,
+        "id": 147,
         "title": "프리드버그 선형대수학",
         "price": 35000.0,
         "publishDate": "20200605",
@@ -1545,10 +1545,10 @@
         "sales": 79,
         "publisher": "한빛아카데미",
         "imageUrl": "img/9791156644910.jpg",
-        "sub_category_id": 21
+        "sub_category_id": 22
     },
     {
-        "id": 147,
+        "id": 148,
         "title": "일반물리학 1",
         "price": 29000.0,
         "publishDate": "20210225",
@@ -1557,10 +1557,10 @@
         "sales": 657,
         "publisher": "텍스트북",
         "imageUrl": "img/9791197305429.jpg",
-        "sub_category_id": 22
+        "sub_category_id": 23
     },
     {
-        "id": 148,
+        "id": 149,
         "title": "줌달의 일반화학",
         "price": 56000.0,
         "publishDate": "20190218",
@@ -1569,10 +1569,10 @@
         "sales": 230,
         "publisher": "사이플러스",
         "imageUrl": "img/9788962184358.jpg",
-        "sub_category_id": 23
+        "sub_category_id": 24
     },
     {
-        "id": 149,
+        "id": 150,
         "title": "일반물리학 2",
         "price": 29000.0,
         "publishDate": "20210315",
@@ -1581,10 +1581,10 @@
         "sales": 320,
         "publisher": "텍스트북스",
         "imageUrl": "img/9791197305436.jpg",
-        "sub_category_id": 22
+        "sub_category_id": 23
     },
     {
-        "id": 150,
+        "id": 151,
         "title": "드루이드가 되고 싶은 당신을 위한 안내서",
         "price": 24000.0,
         "publishDate": "20230920",
@@ -1593,10 +1593,10 @@
         "sales": 619,
         "publisher": "드루이드아일랜드",
         "imageUrl": "img/9791198441508.jpg",
-        "sub_category_id": 30
+        "sub_category_id": 31
     },
     {
-        "id": 151,
+        "id": 152,
         "title": "케이라플레르 꽃다발 마스터 클래스",
         "price": 32000.0,
         "publishDate": "20240528",
@@ -1605,10 +1605,10 @@
         "sales": 485,
         "publisher": "한스미디어",
         "imageUrl": "img/9791193712320.jpg",
-        "sub_category_id": 30
+        "sub_category_id": 31
     },
     {
-        "id": 152,
+        "id": 153,
         "title": "가드너 다이어리",
         "price": 18000.0,
         "publishDate": "20150424",
@@ -1617,10 +1617,10 @@
         "sales": 916,
         "publisher": "지오북",
         "imageUrl": "img/9788994242354.jpg",
-        "sub_category_id": 30
+        "sub_category_id": 31
     },
     {
-        "id": 153,
+        "id": 154,
         "title": "플라워 북 바이 르자당(Flower Book by Lejardin)",
         "price": 30000.0,
         "publishDate": "20240425",
@@ -1629,10 +1629,10 @@
         "sales": 899,
         "publisher": "영진닷컴",
         "imageUrl": "img/9788931467451.jpg",
-        "sub_category_id": 30
+        "sub_category_id": 31
     },
     {
-        "id": 154,
+        "id": 155,
         "title": "처음 시작하는 이끼 인테리어",
         "price": 18000.0,
         "publishDate": "20240520",
@@ -1641,10 +1641,10 @@
         "sales": 242,
         "publisher": "시그마북스",
         "imageUrl": "img/9791168622395.jpg",
-        "sub_category_id": 30
+        "sub_category_id": 31
     },
     {
-        "id": 155,
+        "id": 156,
         "title": "평면의 재발견",
         "price": 32000.0,
         "publishDate": "20240628",
@@ -1653,10 +1653,10 @@
         "sales": 632,
         "publisher": "독이어북스",
         "imageUrl": "img/9791197839214.jpg",
-        "sub_category_id": 31
+        "sub_category_id": 32
     },
     {
-        "id": 156,
+        "id": 157,
         "title": "일생에 한 번 내 집을 고친다면",
         "price": 22000.0,
         "publishDate": "20230920",
@@ -1665,10 +1665,10 @@
         "sales": 371,
         "publisher": "터치아트",
         "imageUrl": "img/9791187936572.jpg",
-        "sub_category_id": 31
+        "sub_category_id": 32
     },
     {
-        "id": 157,
+        "id": 158,
         "title": "심플 인테리어(Simple Interior)",
         "price": 5000.0,
         "publishDate": "20160525",
@@ -1677,10 +1677,10 @@
         "sales": 827,
         "publisher": "디자인이음",
         "imageUrl": "img/9788994796604.jpg",
-        "sub_category_id": 31
+        "sub_category_id": 32
     },
     {
-        "id": 158,
+        "id": 159,
         "title": "감 매거진(GARM Magazine) 22: 단열 INSULATION",
         "price": 21000.0,
         "publishDate": "20240313",
@@ -1689,10 +1689,10 @@
         "sales": 976,
         "publisher": "감씨(garmSSI)",
         "imageUrl": "img/9791189485238.jpg",
-        "sub_category_id": 31
+        "sub_category_id": 32
     },
     {
-        "id": 159,
+        "id": 160,
         "title": "감매거진(Garm Magazine) 20 조경Ⅰ: 실외조경",
         "price": 21000.0,
         "publishDate": "20230320",
@@ -1701,10 +1701,10 @@
         "sales": 730,
         "publisher": "감씨(garmSSI)",
         "imageUrl": "img/9791189485207.jpg",
-        "sub_category_id": 31
+        "sub_category_id": 32
     },
     {
-        "id": 160,
+        "id": 161,
         "title": "털실타래 Vol 8(2024년 여름호)",
         "price": 22000.0,
         "publishDate": "20240627",
@@ -1713,10 +1713,10 @@
         "sales": 477,
         "publisher": "한스미디어",
         "imageUrl": "img/9791193712382.jpg",
-        "sub_category_id": 32
+        "sub_category_id": 33
     },
     {
-        "id": 162,
+        "id": 163,
         "title": "쉽게 배우는 뜨개 도안의 기초",
         "price": 20000.0,
         "publishDate": "20240418",
@@ -1725,10 +1725,10 @@
         "sales": 934,
         "publisher": "한스미디어",
         "imageUrl": "img/9791193712252.jpg",
-        "sub_category_id": 32
+        "sub_category_id": 33
     },
     {
-        "id": 163,
+        "id": 164,
         "title": "어른스러운 손뜨개 가방과 모자",
         "price": 16000.0,
         "publishDate": "20240710",
@@ -1737,10 +1737,10 @@
         "sales": 132,
         "publisher": "오롯한날",
         "imageUrl": "img/9791198645920.jpg",
-        "sub_category_id": 32
+        "sub_category_id": 33
     },
     {
-        "id": 164,
+        "id": 165,
         "title": "뜨개인의 열두 달",
         "price": 22000.0,
         "publishDate": "20240601",
@@ -1749,10 +1749,10 @@
         "sales": 947,
         "publisher": "윌스타일(WILLSTYLE)",
         "imageUrl": "img/9791185676760.jpg",
-        "sub_category_id": 32
+        "sub_category_id": 33
     },
     {
-        "id": 166,
+        "id": 167,
         "title": "킨포크(Kinfolk) Vol 41",
         "price": 5000.0,
         "publishDate": "20211103",
@@ -1761,10 +1761,10 @@
         "sales": 966,
         "publisher": "디자인이음",
         "imageUrl": "img/9791192066004.jpg",
-        "sub_category_id": 33
+        "sub_category_id": 34
     },
     {
-        "id": 167,
+        "id": 168,
         "title": "킨포크(Kinfolk) Vol 42",
         "price": 5000.0,
         "publishDate": "20211210",
@@ -1773,10 +1773,10 @@
         "sales": 306,
         "publisher": "디자인이음",
         "imageUrl": "img/9791192066011.jpg",
-        "sub_category_id": 33
+        "sub_category_id": 34
     },
     {
-        "id": 168,
+        "id": 169,
         "title": "킨포크 KINFOLK vol 43",
         "price": 5000.0,
         "publishDate": "20220323",
@@ -1785,10 +1785,10 @@
         "sales": 876,
         "publisher": "디자인이음",
         "imageUrl": "img/9791192066080.jpg",
-        "sub_category_id": 33
+        "sub_category_id": 34
     },
     {
-        "id": 169,
+        "id": 170,
         "title": "킨포크(Kinfolk) Vol 19",
         "price": 5000.0,
         "publishDate": "20160302",
@@ -1797,10 +1797,10 @@
         "sales": 985,
         "publisher": "디자인이음",
         "imageUrl": "img/9788994796581.jpg",
-        "sub_category_id": 33
+        "sub_category_id": 34
     },
     {
-        "id": 170,
+        "id": 171,
         "title": "2024 SD에듀 반려동물행동지도사 한권으로 끝내기",
         "price": 28000.0,
         "publishDate": "20240220",
@@ -1809,10 +1809,10 @@
         "sales": 977,
         "publisher": "시대고시기획",
         "imageUrl": "img/9791138364027.jpg",
-        "sub_category_id": 34
+        "sub_category_id": 35
     },
     {
-        "id": 171,
+        "id": 172,
         "title": "말하지 않고 동물과 대화하는 법",
         "price": 7900.0,
         "publishDate": "20200408",
@@ -1821,10 +1821,10 @@
         "sales": 552,
         "publisher": "김영사",
         "imageUrl": "img/9788934995500.jpg",
-        "sub_category_id": 34
+        "sub_category_id": 35
     },
     {
-        "id": 172,
+        "id": 173,
         "title": "2024 반려동물행동지도사 필기 한권 완전정복",
         "price": 25000.0,
         "publishDate": "20240710",
@@ -1833,10 +1833,10 @@
         "sales": 327,
         "publisher": "박영스토리",
         "imageUrl": "img/9791165199418.jpg",
-        "sub_category_id": 34
+        "sub_category_id": 35
     },
     {
-        "id": 173,
+        "id": 174,
         "title": "무엇이 개를 힘들게 하는가!",
         "price": 20000.0,
         "publishDate": "20230330",
@@ -1845,10 +1845,10 @@
         "sales": 212,
         "publisher": "좋은땅",
         "imageUrl": "img/9791138817363.jpg",
-        "sub_category_id": 34
+        "sub_category_id": 35
     },
     {
-        "id": 174,
+        "id": 175,
         "title": "노견을 위한 도그 마사지의 힘",
         "price": 16800.0,
         "publishDate": "20240122",
@@ -1857,10 +1857,10 @@
         "sales": 635,
         "publisher": "블루무스",
         "imageUrl": "img/9791193407073.jpg",
-        "sub_category_id": 34
+        "sub_category_id": 35
     },
     {
-        "id": 175,
+        "id": 176,
         "title": "등산교실",
         "price": 19800.0,
         "publishDate": "20060904",
@@ -1869,10 +1869,10 @@
         "sales": 365,
         "publisher": "해냄출판사",
         "imageUrl": "img/9788973377671.jpg",
-        "sub_category_id": 35
+        "sub_category_id": 36
     },
     {
-        "id": 176,
+        "id": 177,
         "title": "스포츠 클라이밍 실전 교과서",
         "price": 16000.0,
         "publishDate": "20220228",
@@ -1881,10 +1881,10 @@
         "sales": 962,
         "publisher": "혜지원",
         "imageUrl": "img/9791167640109.jpg",
-        "sub_category_id": 35
+        "sub_category_id": 36
     },
     {
-        "id": 177,
+        "id": 178,
         "title": "현대 바다낚시",
         "price": 30000.0,
         "publishDate": "20240520",
@@ -1893,10 +1893,10 @@
         "sales": 824,
         "publisher": "태을출판사",
         "imageUrl": "img/9788949306803.jpg",
-        "sub_category_id": 35
+        "sub_category_id": 36
     },
     {
-        "id": 178,
+        "id": 179,
         "title": "뚜르 드 몽블랑 360",
         "price": 20000.0,
         "publishDate": "20210420",
@@ -1905,10 +1905,10 @@
         "sales": 176,
         "publisher": "신구문화사",
         "imageUrl": "img/9788976682611.jpg",
-        "sub_category_id": 16
+        "sub_category_id": 17
     },
     {
-        "id": 179,
+        "id": 180,
         "title": "클라이밍 교과서",
         "price": 13800.0,
         "publishDate": "20160810",
@@ -1917,10 +1917,10 @@
         "sales": 932,
         "publisher": "보누스",
         "imageUrl": "img/9788964942659.jpg",
-        "sub_category_id": 35
+        "sub_category_id": 36
     },
     {
-        "id": 180,
+        "id": 181,
         "title": "벤 호건 골프의 기본",
         "price": 20000.0,
         "publishDate": "20220310",
@@ -1929,10 +1929,10 @@
         "sales": 207,
         "publisher": "한국경제신문",
         "imageUrl": "img/9788947547994.jpg",
-        "sub_category_id": 36
+        "sub_category_id": 37
     },
     {
-        "id": 181,
+        "id": 182,
         "title": "나병관 프로의 탈골 스윙",
         "price": 28000.0,
         "publishDate": "20240603",
@@ -1941,10 +1941,10 @@
         "sales": 426,
         "publisher": "싸이프레스",
         "imageUrl": "img/9791160322255.jpg",
-        "sub_category_id": 36
+        "sub_category_id": 37
     },
     {
-        "id": 182,
+        "id": 183,
         "title": "파크골프 표준교재(2024)",
         "price": 14000.0,
         "publishDate": "20240222",
@@ -1953,10 +1953,10 @@
         "sales": 884,
         "publisher": "대한파크골프협회",
         "imageUrl": "img/9788993245509.jpg",
-        "sub_category_id": 36
+        "sub_category_id": 37
     },
     {
-        "id": 183,
+        "id": 184,
         "title": "모던골프(벤 호건)",
         "price": 7000.0,
         "publishDate": "19940401",
@@ -1965,10 +1965,10 @@
         "sales": 581,
         "publisher": "전원문화사",
         "imageUrl": "img/9788933301241.jpg",
-        "sub_category_id": 36
+        "sub_category_id": 37
     },
     {
-        "id": 184,
+        "id": 185,
         "title": "이세돌 바둑 첫걸음",
         "price": 16500.0,
         "publishDate": "20160815",
@@ -1977,10 +1977,10 @@
         "sales": 579,
         "publisher": "동양북스",
         "imageUrl": "img/9791157031924.jpg",
-        "sub_category_id": 36
+        "sub_category_id": 37
     },
     {
-        "id": 185,
+        "id": 186,
         "title": "절권도(상)",
         "price": 17000.0,
         "publishDate": "20131130",
@@ -1989,10 +1989,10 @@
         "sales": 442,
         "publisher": "서림문화사",
         "imageUrl": "img/9788971861950.jpg",
-        "sub_category_id": 37
+        "sub_category_id": 38
     },
     {
-        "id": 186,
+        "id": 187,
         "title": "절권도(하)",
         "price": 17000.0,
         "publishDate": "20150330",
@@ -2001,10 +2001,10 @@
         "sales": 845,
         "publisher": "서림문화사",
         "imageUrl": "img/9788971861967.jpg",
-        "sub_category_id": 37
+        "sub_category_id": 38
     },
     {
-        "id": 187,
+        "id": 188,
         "title": "검도교본",
         "price": 15000.0,
         "publishDate": "20150828",
@@ -2013,10 +2013,10 @@
         "sales": 956,
         "publisher": "삼호미디어",
         "imageUrl": "img/9788978495240.jpg",
-        "sub_category_id": 37
+        "sub_category_id": 38
     },
     {
-        "id": 188,
+        "id": 189,
         "title": "Brazilian Jiu-Jitsu:  Lee Bros208 Techniques",
         "price": 25000.0,
         "publishDate": "20190319",
@@ -2025,10 +2025,10 @@
         "sales": 736,
         "publisher": "혜성출판사",
         "imageUrl": "img/9791186345382.jpg",
-        "sub_category_id": 37
+        "sub_category_id": 38
     },
     {
-        "id": 189,
+        "id": 190,
         "title": "중세 유럽의 무술",
         "price": 32000.0,
         "publishDate": "20230605",
@@ -2037,10 +2037,10 @@
         "sales": 760,
         "publisher": "에이케이커뮤니케이션즈",
         "imageUrl": "img/9791127462611.jpg",
-        "sub_category_id": 37
+        "sub_category_id": 38
     },
     {
-        "id": 190,
+        "id": 191,
         "title": "다니엘스의 러닝 포뮬러",
         "price": 22000.0,
         "publishDate": "20240410",
@@ -2049,10 +2049,10 @@
         "sales": 831,
         "publisher": "인간희극",
         "imageUrl": "img/9788993784817.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 191,
+        "id": 192,
         "title": "2024 프로야구 가이드북",
         "price": 27000.0,
         "publishDate": "20240329",
@@ -2061,10 +2061,10 @@
         "sales": 826,
         "publisher": "브레인스토어",
         "imageUrl": "img/9791169780285.jpg",
-        "sub_category_id": 38
+        "sub_category_id": 39
     },
     {
-        "id": 192,
+        "id": 193,
         "title": "달리기의 과학",
         "price": 25000.0,
         "publishDate": "20210101",
@@ -2073,10 +2073,10 @@
         "sales": 561,
         "publisher": "사이언스북스",
         "imageUrl": "img/9791190403405.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 193,
+        "id": 194,
         "title": "20인의 스타플레이어에게 배우는 슈퍼스타 축구 기술",
         "price": 18800.0,
         "publishDate": "20200501",
@@ -2085,10 +2085,10 @@
         "sales": 401,
         "publisher": "라의눈",
         "imageUrl": "img/9791188726493.jpg",
-        "sub_category_id": 38
+        "sub_category_id": 39
     },
     {
-        "id": 194,
+        "id": 195,
         "title": "The Champion 2023-2024(더 챔피언): 유럽축구 가이드북",
         "price": 33000.0,
         "publishDate": "20230918",
@@ -2097,10 +2097,10 @@
         "sales": 660,
         "publisher": "맥스미디어",
         "imageUrl": "img/9791155719435.jpg",
-        "sub_category_id": 38
+        "sub_category_id": 39
     },
     {
-        "id": 195,
+        "id": 196,
         "title": "당신은 사건 현장에 있습니다",
         "price": 28000.0,
         "publishDate": "20220530",
@@ -2109,10 +2109,10 @@
         "sales": 960,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927812975.jpg",
-        "sub_category_id": 39
+        "sub_category_id": 40
     },
     {
-        "id": 196,
+        "id": 197,
         "title": "당신은 사건 현장에 있습니다 시즌 2",
         "price": 28000.0,
         "publishDate": "20230403",
@@ -2121,10 +2121,10 @@
         "sales": 345,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927879718.jpg",
-        "sub_category_id": 39
+        "sub_category_id": 40
     },
     {
-        "id": 197,
+        "id": 198,
         "title": "당신은 사건 현장에 있습니다 1~2 박스 세트(스페셜 에디션)",
         "price": 56000.0,
         "publishDate": "20230927",
@@ -2133,10 +2133,10 @@
         "sales": 800,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927880011.jpg",
-        "sub_category_id": 39
+        "sub_category_id": 40
     },
     {
-        "id": 198,
+        "id": 199,
         "title": "체스 챔피언:이기는 체스 게임의 법칙",
         "price": 22000.0,
         "publishDate": "20220805",
@@ -2145,10 +2145,10 @@
         "sales": 947,
         "publisher": "성안당",
         "imageUrl": "img/9788931558920.jpg",
-        "sub_category_id": 39
+        "sub_category_id": 40
     },
     {
-        "id": 200,
+        "id": 201,
         "title": "스프링북 스도쿠 1(초급 중급)",
         "price": 7500.0,
         "publishDate": "20180108",
@@ -2157,10 +2157,10 @@
         "sales": 407,
         "publisher": "시간과공간사",
         "imageUrl": "img/9788971429914.jpg",
-        "sub_category_id": 40
+        "sub_category_id": 41
     },
     {
-        "id": 201,
+        "id": 202,
         "title": "크라임 퍼즐",
         "price": 19500.0,
         "publishDate": "20230811",
@@ -2169,10 +2169,10 @@
         "sales": 987,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927879947.jpg",
-        "sub_category_id": 40
+        "sub_category_id": 41
     },
     {
-        "id": 202,
+        "id": 203,
         "title": "어른을 위한 두뇌 피트니스",
         "price": 16800.0,
         "publishDate": "20240325",
@@ -2181,10 +2181,10 @@
         "sales": 483,
         "publisher": "피카 라이프(FIKA LIFE)",
         "imageUrl": "img/9791193866009.jpg",
-        "sub_category_id": 40
+        "sub_category_id": 41
     },
     {
-        "id": 203,
+        "id": 204,
         "title": "스프링북 스도쿠 2(고급 고수)",
         "price": 7500.0,
         "publishDate": "20180108",
@@ -2193,10 +2193,10 @@
         "sales": 56,
         "publisher": "시간과공간사",
         "imageUrl": "img/9788971429921.jpg",
-        "sub_category_id": 40
+        "sub_category_id": 41
     },
     {
-        "id": 204,
+        "id": 205,
         "title": "스도쿠 2(중급/고급)",
         "price": 7000.0,
         "publishDate": "20190527",
@@ -2205,10 +2205,10 @@
         "sales": 254,
         "publisher": "수피아(supia)",
         "imageUrl": "img/9791196535049.jpg",
-        "sub_category_id": 40
+        "sub_category_id": 41
     },
     {
-        "id": 205,
+        "id": 206,
         "title": "생명의 몸, 과정의 몸, 변혁의 몸",
         "price": 29000.0,
         "publishDate": "20240620",
@@ -2217,10 +2217,10 @@
         "sales": 842,
         "publisher": "푸른사상",
         "imageUrl": "img/9791130821481.jpg",
-        "sub_category_id": 41
+        "sub_category_id": 42
     },
     {
-        "id": 206,
+        "id": 207,
         "title": "발레 바 워크 핸드북",
         "price": 22000.0,
         "publishDate": "20240708",
@@ -2229,10 +2229,10 @@
         "sales": 469,
         "publisher": "북피움",
         "imageUrl": "img/9791198762900.jpg",
-        "sub_category_id": 41
+        "sub_category_id": 42
     },
     {
-        "id": 207,
+        "id": 208,
         "title": "발레의 용어와 기술",
         "price": 30000.0,
         "publishDate": "20240515",
@@ -2241,10 +2241,10 @@
         "sales": 413,
         "publisher": "우물이있는집",
         "imageUrl": "img/9791190631853.jpg",
-        "sub_category_id": 41
+        "sub_category_id": 42
     },
     {
-        "id": 208,
+        "id": 209,
         "title": "발레 스트레칭",
         "price": 20000.0,
         "publishDate": "20240704",
@@ -2253,10 +2253,10 @@
         "sales": 478,
         "publisher": "북피움",
         "imageUrl": "img/9791197404399.jpg",
-        "sub_category_id": 41
+        "sub_category_id": 42
     },
     {
-        "id": 209,
+        "id": 210,
         "title": "발레 근육 핸드북",
         "price": 20000.0,
         "publishDate": "20230508",
@@ -2265,10 +2265,10 @@
         "sales": 403,
         "publisher": "동글디자인",
         "imageUrl": "img/9791191925128.jpg",
-        "sub_category_id": 41
+        "sub_category_id": 42
     },
     {
-        "id": 210,
+        "id": 211,
         "title": "스포츠의학 전문가가 알려주는 움직임 핸드북",
         "price": 18000.0,
         "publishDate": "20240701",
@@ -2277,10 +2277,10 @@
         "sales": 614,
         "publisher": "현익출판",
         "imageUrl": "img/9791193217641.jpg",
-        "sub_category_id": 42
+        "sub_category_id": 43
     },
     {
-        "id": 211,
+        "id": 212,
         "title": "NASM 퍼스널 피트니스 트레이닝",
         "price": 50000.0,
         "publishDate": "20230117",
@@ -2289,10 +2289,10 @@
         "sales": 649,
         "publisher": "한미의학",
         "imageUrl": "img/9791190322485.jpg",
-        "sub_category_id": 42
+        "sub_category_id": 43
     },
     {
-        "id": 212,
+        "id": 213,
         "title": "스포츠경영관리사 실기 키포인트(2024)",
         "price": 28000.0,
         "publishDate": "20240520",
@@ -2301,10 +2301,10 @@
         "sales": 469,
         "publisher": "지식닷컴",
         "imageUrl": "img/9791191834345.jpg",
-        "sub_category_id": 42
+        "sub_category_id": 43
     },
     {
-        "id": 214,
+        "id": 215,
         "title": "스포츠 이야기",
         "price": 13000.0,
         "publishDate": "20190531",
@@ -2313,10 +2313,10 @@
         "sales": 851,
         "publisher": "철수와영희",
         "imageUrl": "img/9791188215232.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 215,
+        "id": 216,
         "title": "New 미꽃체 손글씨 노트",
         "price": 16700.0,
         "publishDate": "20230627",
@@ -2325,10 +2325,10 @@
         "sales": 669,
         "publisher": "시원북스",
         "imageUrl": "img/9791161507200.jpg",
-        "sub_category_id": 43
+        "sub_category_id": 44
     },
     {
-        "id": 216,
+        "id": 217,
         "title": "NEW 미꽃체 필사 노트",
         "price": 19800.0,
         "publishDate": "20240528",
@@ -2337,10 +2337,10 @@
         "sales": 134,
         "publisher": "시원북스",
         "imageUrl": "img/9791161508467.jpg",
-        "sub_category_id": 43
+        "sub_category_id": 44
     },
     {
-        "id": 217,
+        "id": 218,
         "title": "이토록 멋진 영어 필기체 손글씨",
         "price": 16700.0,
         "publishDate": "20230918",
@@ -2349,10 +2349,10 @@
         "sales": 263,
         "publisher": "시원북스",
         "imageUrl": "img/9791161507668.jpg",
-        "sub_category_id": 43
+        "sub_category_id": 44
     },
     {
-        "id": 218,
+        "id": 219,
         "title": "암기할 필요 없는 타로 웨이트 카드 세트",
         "price": 20000.0,
         "publishDate": "20231219",
@@ -2361,10 +2361,10 @@
         "sales": 382,
         "publisher": "한스미디어",
         "imageUrl": "img/9791160079876.jpg",
-        "sub_category_id": 43
+        "sub_category_id": 44
     },
     {
-        "id": 219,
+        "id": 220,
         "title": "놀면서 스마트해지는 두뇌 자극 플레이북 딴짓거리: Easy",
         "price": 12500.0,
         "publishDate": "20190710",
@@ -2373,10 +2373,10 @@
         "sales": 846,
         "publisher": "동양북스",
         "imageUrl": "img/9791157685103.jpg",
-        "sub_category_id": 43
+        "sub_category_id": 44
     },
     {
-        "id": 220,
+        "id": 221,
         "title": "교보문고 시그니처 독서대(월넛)",
         "price": 78000.0,
         "publishDate": "20220801",
@@ -2385,10 +2385,10 @@
         "sales": 932,
         "publisher": "교보문고",
         "imageUrl": "img/2090000115765.jpg",
-        "sub_category_id": 0
+        "sub_category_id": 1
     },
     {
-        "id": 221,
+        "id": 222,
         "title": "김경필의 짠테크 가계부(2024)",
         "price": 12800.0,
         "publishDate": "20231108",
@@ -2397,10 +2397,10 @@
         "sales": 274,
         "publisher": "김영사",
         "imageUrl": "img/9788934957669.jpg",
-        "sub_category_id": 44
+        "sub_category_id": 45
     },
     {
-        "id": 222,
+        "id": 223,
         "title": "초록담쟁이 365 하루에세이",
         "price": 23000.0,
         "publishDate": "20221205",
@@ -2409,10 +2409,10 @@
         "sales": 710,
         "publisher": "도트북",
         "imageUrl": "img/9791197741227.jpg",
-        "sub_category_id": 44
+        "sub_category_id": 45
     },
     {
-        "id": 223,
+        "id": 224,
         "title": "맘마미아 가계부(2024)",
         "price": 12000.0,
         "publishDate": "20230920",
@@ -2421,10 +2421,10 @@
         "sales": 587,
         "publisher": "진서원",
         "imageUrl": "img/8809479180150.jpg",
-        "sub_category_id": 44
+        "sub_category_id": 45
     },
     {
-        "id": 225,
+        "id": 226,
         "title": "세계를 움직인 열 가지 프레임",
         "price": 20000.0,
         "publishDate": "20240607",
@@ -2433,10 +2433,10 @@
         "sales": 85,
         "publisher": "북하우스",
         "imageUrl": "img/9791164052547.jpg",
-        "sub_category_id": 45
+        "sub_category_id": 46
     },
     {
-        "id": 226,
+        "id": 227,
         "title": "총 균 쇠",
         "price": 29800.0,
         "publishDate": "20230511",
@@ -2445,10 +2445,10 @@
         "sales": 981,
         "publisher": "김영사",
         "imageUrl": "img/9788934942467.jpg",
-        "sub_category_id": 45
+        "sub_category_id": 46
     },
     {
-        "id": 229,
+        "id": 230,
         "title": "총 균 쇠(출간 25주년 기념 양장판)",
         "price": 35800.0,
         "publishDate": "20230810",
@@ -2457,10 +2457,10 @@
         "sales": 940,
         "publisher": "김영사",
         "imageUrl": "img/9788934951711.jpg",
-        "sub_category_id": 45
+        "sub_category_id": 46
     },
     {
-        "id": 230,
+        "id": 231,
         "title": "거꾸로 읽는 세계사",
         "price": 17500.0,
         "publishDate": "20211029",
@@ -2469,10 +2469,10 @@
         "sales": 850,
         "publisher": "돌베개",
         "imageUrl": "img/9791191438406.jpg",
-        "sub_category_id": 46
+        "sub_category_id": 47
     },
     {
-        "id": 231,
+        "id": 232,
         "title": "요즘 어른을 위한 최소한의 세계사",
         "price": 18800.0,
         "publishDate": "20230922",
@@ -2481,10 +2481,10 @@
         "sales": 838,
         "publisher": "빅피시",
         "imageUrl": "img/9791193128428.jpg",
-        "sub_category_id": 46
+        "sub_category_id": 47
     },
     {
-        "id": 232,
+        "id": 233,
         "title": "벌거벗은 세계사: 사건편 2",
         "price": 23000.0,
         "publishDate": "20240617",
@@ -2493,10 +2493,10 @@
         "sales": 65,
         "publisher": "교보문고",
         "imageUrl": "img/9791170611448.jpg",
-        "sub_category_id": 46
+        "sub_category_id": 47
     },
     {
-        "id": 233,
+        "id": 234,
         "title": "역사를 보다",
         "price": 23000.0,
         "publishDate": "20240710",
@@ -2505,10 +2505,10 @@
         "sales": 14,
         "publisher": "믹스커피",
         "imageUrl": "img/9791170435488.jpg",
-        "sub_category_id": 46
+        "sub_category_id": 47
     },
     {
-        "id": 234,
+        "id": 235,
         "title": "벌거벗은 세계사: 사건편",
         "price": 23000.0,
         "publishDate": "20220125",
@@ -2517,10 +2517,10 @@
         "sales": 788,
         "publisher": "교보문고",
         "imageUrl": "img/9791159095887.jpg",
-        "sub_category_id": 46
+        "sub_category_id": 47
     },
     {
-        "id": 237,
+        "id": 238,
         "title": "분열하는 제국",
         "price": 24000.0,
         "publishDate": "20170705",
@@ -2529,10 +2529,10 @@
         "sales": 555,
         "publisher": "글항아리",
         "imageUrl": "img/9788967354329.jpg",
-        "sub_category_id": 47
+        "sub_category_id": 48
     },
     {
-        "id": 238,
+        "id": 239,
         "title": "검은 감자",
         "price": 12000.0,
         "publishDate": "20140421",
@@ -2541,10 +2541,10 @@
         "sales": 290,
         "publisher": "돌베개",
         "imageUrl": "img/9788971995983.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 240,
+        "id": 241,
         "title": "팔레스타인 100년 전쟁",
         "price": 25000.0,
         "publishDate": "20211105",
@@ -2553,10 +2553,10 @@
         "sales": 247,
         "publisher": "열린책들",
         "imageUrl": "img/9788932921488.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 241,
+        "id": 242,
         "title": "썬킴의 거침없는 중국사",
         "price": 18000.0,
         "publishDate": "20230410",
@@ -2565,10 +2565,10 @@
         "sales": 355,
         "publisher": "지식의숲",
         "imageUrl": "img/9791166835384.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 243,
+        "id": 244,
         "title": "오늘의 베트남",
         "price": 20000.0,
         "publishDate": "20240530",
@@ -2577,10 +2577,10 @@
         "sales": 287,
         "publisher": "세종서적",
         "imageUrl": "img/9788984073197.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 244,
+        "id": 245,
         "title": "일본사 시민강좌",
         "price": 33000.0,
         "publishDate": "20240630",
@@ -2589,10 +2589,10 @@
         "sales": 243,
         "publisher": "연립서가",
         "imageUrl": "img/9791193598016.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 245,
+        "id": 246,
         "title": "박태균의 이슈 한국사",
         "price": 15000.0,
         "publishDate": "20150625",
@@ -2601,10 +2601,10 @@
         "sales": 597,
         "publisher": "창비",
         "imageUrl": "img/9788936482756.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 246,
+        "id": 247,
         "title": "최소한의 한국사",
         "price": 18000.0,
         "publishDate": "20230621",
@@ -2613,10 +2613,10 @@
         "sales": 880,
         "publisher": "프런트페이지",
         "imageUrl": "img/9791198243430.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 247,
+        "id": 248,
         "title": "요즘 어른을 위한 최소한의 한국사",
         "price": 18800.0,
         "publishDate": "20240620",
@@ -2625,10 +2625,10 @@
         "sales": 199,
         "publisher": "빅피시",
         "imageUrl": "img/9791193128992.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 248,
+        "id": 249,
         "title": "버치문서와 해방정국",
         "price": 18500.0,
         "publishDate": "20211029",
@@ -2637,10 +2637,10 @@
         "sales": 729,
         "publisher": "역사비평사",
         "imageUrl": "img/9788976964489.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 249,
+        "id": 250,
         "title": "소현세자는 말이 없다",
         "price": 15000.0,
         "publishDate": "20240630",
@@ -2649,10 +2649,10 @@
         "sales": 679,
         "publisher": "푸른역사",
         "imageUrl": "img/9791156122784.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 251,
+        "id": 252,
         "title": "김헌의 그리스 로마 신화",
         "price": 20000.0,
         "publishDate": "20220330",
@@ -2661,10 +2661,10 @@
         "sales": 629,
         "publisher": "을유문화사",
         "imageUrl": "img/9788932474649.jpg",
-        "sub_category_id": 50
+        "sub_category_id": 51
     },
     {
-        "id": 252,
+        "id": 253,
         "title": "이윤기의 그리스 로마 신화(특별합본판)",
         "price": 39800.0,
         "publishDate": "20200501",
@@ -2673,10 +2673,10 @@
         "sales": 353,
         "publisher": "웅진지식하우스",
         "imageUrl": "img/9788901241739.jpg",
-        "sub_category_id": 50
+        "sub_category_id": 51
     },
     {
-        "id": 253,
+        "id": 254,
         "title": "북유럽 신화",
         "price": 16800.0,
         "publishDate": "20190225",
@@ -2685,10 +2685,10 @@
         "sales": 845,
         "publisher": "나무의철학",
         "imageUrl": "img/9791158511180.jpg",
-        "sub_category_id": 50
+        "sub_category_id": 51
     },
     {
-        "id": 255,
+        "id": 256,
         "title": "한글 대동여지도",
         "price": 20000.0,
         "publishDate": "20171031",
@@ -2697,10 +2697,10 @@
         "sales": 103,
         "publisher": "진선출판사",
         "imageUrl": "img/9788972219903.jpg",
-        "sub_category_id": 57
+        "sub_category_id": 58
     },
     {
-        "id": 256,
+        "id": 257,
         "title": "옛 그림으로 본 서울",
         "price": 37000.0,
         "publishDate": "20200405",
@@ -2709,10 +2709,10 @@
         "sales": 123,
         "publisher": "혜화1117",
         "imageUrl": "img/9791196363277.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 257,
+        "id": 258,
         "title": "제사와 축문",
         "price": 17000.0,
         "publishDate": "20211210",
@@ -2721,10 +2721,10 @@
         "sales": 813,
         "publisher": "북랩",
         "imageUrl": "img/9791168360563.jpg",
-        "sub_category_id": 51
+        "sub_category_id": 52
     },
     {
-        "id": 258,
+        "id": 259,
         "title": "옛 그림으로 본 제주",
         "price": 38500.0,
         "publishDate": "20210426",
@@ -2733,10 +2733,10 @@
         "sales": 312,
         "publisher": "혜화1117",
         "imageUrl": "img/9791191133028.jpg",
-        "sub_category_id": 51
+        "sub_category_id": 52
     },
     {
-        "id": 259,
+        "id": 260,
         "title": "학예사를 위한 민속학입문",
         "price": 22000.0,
         "publishDate": "20240210",
@@ -2745,10 +2745,10 @@
         "sales": 737,
         "publisher": "예문사",
         "imageUrl": "img/9788927453611.jpg",
-        "sub_category_id": 51
+        "sub_category_id": 52
     },
     {
-        "id": 260,
+        "id": 261,
         "title": "식탁 위의 세계사",
         "price": 14000.0,
         "publishDate": "20221229",
@@ -2757,10 +2757,10 @@
         "sales": 405,
         "publisher": "창비",
         "imageUrl": "img/9788936452056.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 261,
+        "id": 262,
         "title": "푸드 지오그래피",
         "price": 20000.0,
         "publishDate": "20240617",
@@ -2769,10 +2769,10 @@
         "sales": 722,
         "publisher": "푸른길",
         "imageUrl": "img/9788962910971.jpg",
-        "sub_category_id": 52
+        "sub_category_id": 53
     },
     {
-        "id": 262,
+        "id": 263,
         "title": "안목",
         "price": 20000.0,
         "publishDate": "20170131",
@@ -2781,10 +2781,10 @@
         "sales": 186,
         "publisher": "눌와",
         "imageUrl": "img/9788990620866.jpg",
-        "sub_category_id": 52
+        "sub_category_id": 53
     },
     {
-        "id": 263,
+        "id": 264,
         "title": "옷장 속의 세계사",
         "price": 14000.0,
         "publishDate": "20130628",
@@ -2793,10 +2793,10 @@
         "sales": 451,
         "publisher": "창비",
         "imageUrl": "img/9788936452100.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 264,
+        "id": 265,
         "title": "국토박물관 순례 1: 선사시대에서 고구려까지",
         "price": 20000.0,
         "publishDate": "20231120",
@@ -2805,10 +2805,10 @@
         "sales": 282,
         "publisher": "창비",
         "imageUrl": "img/9788936480073.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 265,
+        "id": 266,
         "title": "아는데 모르는 나라, 일본",
         "price": 20000.0,
         "publishDate": "20230730",
@@ -2817,10 +2817,10 @@
         "sales": 437,
         "publisher": "따비",
         "imageUrl": "img/9791192169279.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 266,
+        "id": 267,
         "title": "중화, 사라진 문명의 기준",
         "price": 37900.0,
         "publishDate": "20240629",
@@ -2829,10 +2829,10 @@
         "sales": 692,
         "publisher": "푸른역사",
         "imageUrl": "img/9791156122777.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 267,
+        "id": 268,
         "title": "우리의 링컨을 기다리며",
         "price": 19800.0,
         "publishDate": "20240229",
@@ -2841,10 +2841,10 @@
         "sales": 137,
         "publisher": "제산평생학습",
         "imageUrl": "img/9791198615077.jpg",
-        "sub_category_id": 47
+        "sub_category_id": 48
     },
     {
-        "id": 268,
+        "id": 269,
         "title": "중국 도자기의 상징미학",
         "price": 18000.0,
         "publishDate": "20230309",
@@ -2853,10 +2853,10 @@
         "sales": 308,
         "publisher": "북랩",
         "imageUrl": "img/9791168367692.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 269,
+        "id": 270,
         "title": "측정의 세계",
         "price": 22000.0,
         "publishDate": "20231215",
@@ -2865,10 +2865,10 @@
         "sales": 531,
         "publisher": "까치",
         "imageUrl": "img/9788972918172.jpg",
-        "sub_category_id": 47
+        "sub_category_id": 48
     },
     {
-        "id": 270,
+        "id": 271,
         "title": "소현세자는 말이 없다",
         "price": 15000.0,
         "publishDate": "20240630",
@@ -2877,10 +2877,10 @@
         "sales": 492,
         "publisher": "푸른역사",
         "imageUrl": "img/9791156122784.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 271,
+        "id": 272,
         "title": "안중근 재판정 참관기",
         "price": 13500.0,
         "publishDate": "20150814",
@@ -2889,10 +2889,10 @@
         "sales": 721,
         "publisher": "서해문집",
         "imageUrl": "img/9788974837389.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 272,
+        "id": 273,
         "title": "세종은 과연 성군인가",
         "price": 12000.0,
         "publishDate": "20180305",
@@ -2901,10 +2901,10 @@
         "sales": 678,
         "publisher": "백년동안",
         "imageUrl": "img/9791186061589.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 273,
+        "id": 274,
         "title": "벌거벗은 세계사: 인물편",
         "price": 23000.0,
         "publishDate": "20220210",
@@ -2913,10 +2913,10 @@
         "sales": 146,
         "publisher": "교보문고",
         "imageUrl": "img/9791159095894.jpg",
-        "sub_category_id": 46
+        "sub_category_id": 47
     },
     {
-        "id": 274,
+        "id": 275,
         "title": "마오주의",
         "price": 43000.0,
         "publishDate": "20240630",
@@ -2925,10 +2925,10 @@
         "sales": 940,
         "publisher": "유월서가",
         "imageUrl": "img/9791198794307.jpg",
-        "sub_category_id": 48
+        "sub_category_id": 49
     },
     {
-        "id": 275,
+        "id": 276,
         "title": "아는 만큼 보인다",
         "price": 22000.0,
         "publishDate": "20230609",
@@ -2937,10 +2937,10 @@
         "sales": 767,
         "publisher": "창비",
         "imageUrl": "img/9788936479381.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 277,
+        "id": 278,
         "title": "쏭내관의 재미있는 궁궐기행",
         "price": 21000.0,
         "publishDate": "20230612",
@@ -2949,10 +2949,10 @@
         "sales": 114,
         "publisher": "지식프레임",
         "imageUrl": "img/9791198221315.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 278,
+        "id": 279,
         "title": "나의 문화유산답사기 9: 서울편(1)",
         "price": 20000.0,
         "publishDate": "20170821",
@@ -2961,10 +2961,10 @@
         "sales": 883,
         "publisher": "창비",
         "imageUrl": "img/9788936474393.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 279,
+        "id": 280,
         "title": "용산 미군기지와 도시산책",
         "price": 16000.0,
         "publishDate": "20240430",
@@ -2973,10 +2973,10 @@
         "sales": 732,
         "publisher": "아임스토리",
         "imageUrl": "img/9791198159946.jpg",
-        "sub_category_id": 55
+        "sub_category_id": 56
     },
     {
-        "id": 280,
+        "id": 281,
         "title": "10대를 위한 총균쇠 수업",
         "price": 16000.0,
         "publishDate": "20230815",
@@ -2985,10 +2985,10 @@
         "sales": 818,
         "publisher": "넥스트씨",
         "imageUrl": "img/9791198026811.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 281,
+        "id": 282,
         "title": "식탁 위의 세계사",
         "price": 14000.0,
         "publishDate": "20221229",
@@ -2997,10 +2997,10 @@
         "sales": 81,
         "publisher": "창비",
         "imageUrl": "img/9788936452056.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 282,
+        "id": 283,
         "title": "세계를 바꾼 연설과 선언",
         "price": 11900.0,
         "publishDate": "20060115",
@@ -3009,10 +3009,10 @@
         "sales": 147,
         "publisher": "서해문집",
         "imageUrl": "img/9788974832711.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 284,
+        "id": 285,
         "title": "곰브리치 세계사(예일대 특별판)",
         "price": 30000.0,
         "publishDate": "20230912",
@@ -3021,10 +3021,10 @@
         "sales": 496,
         "publisher": "비룡소",
         "imageUrl": "img/9788949189536.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 285,
+        "id": 286,
         "title": "한글 대동여지도",
         "price": 20000.0,
         "publishDate": "20171031",
@@ -3033,10 +3033,10 @@
         "sales": 815,
         "publisher": "진선출판사",
         "imageUrl": "img/9788972219903.jpg",
-        "sub_category_id": 57
+        "sub_category_id": 58
     },
     {
-        "id": 286,
+        "id": 287,
         "title": "문학 속의 지리 이야기",
         "price": 15000.0,
         "publishDate": "20140522",
@@ -3045,10 +3045,10 @@
         "sales": 883,
         "publisher": "사계절",
         "imageUrl": "img/9788958287285.jpg",
-        "sub_category_id": 57
+        "sub_category_id": 58
     },
     {
-        "id": 287,
+        "id": 288,
         "title": "지리로 읽는 세계사 지식 55",
         "price": 16800.0,
         "publishDate": "20220410",
@@ -3057,10 +3057,10 @@
         "sales": 26,
         "publisher": "반니",
         "imageUrl": "img/9791167960238.jpg",
-        "sub_category_id": 57
+        "sub_category_id": 58
     },
     {
-        "id": 288,
+        "id": 289,
         "title": "인문지리학의 시선",
         "price": 25000.0,
         "publishDate": "20170911",
@@ -3069,10 +3069,10 @@
         "sales": 547,
         "publisher": "사회평론아카데미",
         "imageUrl": "img/9791188108299.jpg",
-        "sub_category_id": 57
+        "sub_category_id": 58
     },
     {
-        "id": 290,
+        "id": 291,
         "title": "해독 혁명",
         "price": 18500.0,
         "publishDate": "20240630",
@@ -3081,10 +3081,10 @@
         "sales": 44,
         "publisher": "웅진지식하우스",
         "imageUrl": "img/9788901285146.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 291,
+        "id": 292,
         "title": "느리게 나이 드는 습관",
         "price": 18000.0,
         "publishDate": "20231211",
@@ -3093,10 +3093,10 @@
         "sales": 225,
         "publisher": "한빛라이프",
         "imageUrl": "img/9791193080146.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 292,
+        "id": 293,
         "title": "세포 혁명",
         "price": 19800.0,
         "publishDate": "20240627",
@@ -3105,10 +3105,10 @@
         "sales": 802,
         "publisher": "인플루엔셜",
         "imageUrl": "img/9791168342033.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 293,
+        "id": 294,
         "title": "백년목 1",
         "price": 22000.0,
         "publishDate": "20240625",
@@ -3117,10 +3117,10 @@
         "sales": 505,
         "publisher": "언탱글링",
         "imageUrl": "img/9791197437373.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 294,
+        "id": 295,
         "title": "다니엘스의 러닝 포뮬러",
         "price": 22000.0,
         "publishDate": "20240410",
@@ -3129,10 +3129,10 @@
         "sales": 73,
         "publisher": "인간희극",
         "imageUrl": "img/9788993784817.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 295,
+        "id": 296,
         "title": "ADHD 우울증 치매 이렇게 고쳐라",
         "price": 22000.0,
         "publishDate": "20230731",
@@ -3141,10 +3141,10 @@
         "sales": 264,
         "publisher": "정말중요한",
         "imageUrl": "img/9791186745588.jpg",
-        "sub_category_id": 59
+        "sub_category_id": 60
     },
     {
-        "id": 296,
+        "id": 297,
         "title": "천재의 식단",
         "price": 19500.0,
         "publishDate": "20210430",
@@ -3153,10 +3153,10 @@
         "sales": 739,
         "publisher": "앵글북스",
         "imageUrl": "img/9791187512516.jpg",
-        "sub_category_id": 62
+        "sub_category_id": 63
     },
     {
-        "id": 297,
+        "id": 298,
         "title": "건강의 뇌과학",
         "price": 19900.0,
         "publishDate": "20220712",
@@ -3165,10 +3165,10 @@
         "sales": 161,
         "publisher": "현대지성",
         "imageUrl": "img/9791139706673.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 298,
+        "id": 299,
         "title": "운동화를 신은 뇌 + 맨발로 뛰는 뇌 세트",
         "price": 32000.0,
         "publishDate": "20231001",
@@ -3177,10 +3177,10 @@
         "sales": 354,
         "publisher": "녹색지팡이",
         "imageUrl": "img/9791186552803.jpg",
-        "sub_category_id": 59
+        "sub_category_id": 60
     },
     {
-        "id": 299,
+        "id": 300,
         "title": "너무 놀라운 작은 뇌세포 이야기",
         "price": 19800.0,
         "publishDate": "20210428",
@@ -3189,10 +3189,10 @@
         "sales": 756,
         "publisher": "브론스테인",
         "imageUrl": "img/9791135497964.jpg",
-        "sub_category_id": 59
+        "sub_category_id": 60
     },
     {
-        "id": 300,
+        "id": 301,
         "title": "태양인의 나라 대한민국",
         "price": 19500.0,
         "publishDate": "20240701",
@@ -3201,10 +3201,10 @@
         "sales": 22,
         "publisher": "8체질연구소",
         "imageUrl": "img/9791198798800.jpg",
-        "sub_category_id": 60
+        "sub_category_id": 61
     },
     {
-        "id": 301,
+        "id": 302,
         "title": "경락·경혈 치료 교과서",
         "price": 19800.0,
         "publishDate": "20240510",
@@ -3213,10 +3213,10 @@
         "sales": 630,
         "publisher": "보누스",
         "imageUrl": "img/9788964946725.jpg",
-        "sub_category_id": 60
+        "sub_category_id": 61
     },
     {
-        "id": 302,
+        "id": 303,
         "title": "주머니속 약초여행 포켓북",
         "price": 15000.0,
         "publishDate": "20160815",
@@ -3225,10 +3225,10 @@
         "sales": 419,
         "publisher": "단샘",
         "imageUrl": "img/9788996635987.jpg",
-        "sub_category_id": 60
+        "sub_category_id": 61
     },
     {
-        "id": 304,
+        "id": 305,
         "title": "8체질 총서",
         "price": 22000.0,
         "publishDate": "20230620",
@@ -3237,10 +3237,10 @@
         "sales": 3,
         "publisher": "세림출판",
         "imageUrl": "img/9791169840262.jpg",
-        "sub_category_id": 60
+        "sub_category_id": 61
     },
     {
-        "id": 306,
+        "id": 307,
         "title": "암을 고치는 생활 습관",
         "price": 16000.0,
         "publishDate": "20230927",
@@ -3249,10 +3249,10 @@
         "sales": 683,
         "publisher": "알마",
         "imageUrl": "img/9791159923869.jpg",
-        "sub_category_id": 61
+        "sub_category_id": 62
     },
     {
-        "id": 307,
+        "id": 308,
         "title": "치유와 회복",
         "price": 19500.0,
         "publishDate": "20160125",
@@ -3261,10 +3261,10 @@
         "sales": 357,
         "publisher": "판미동",
         "imageUrl": "img/9791158880750.jpg",
-        "sub_category_id": 61
+        "sub_category_id": 62
     },
     {
-        "id": 308,
+        "id": 309,
         "title": "비우고 낮추면 반드시 낫는다",
         "price": 15000.0,
         "publishDate": "20131111",
@@ -3273,10 +3273,10 @@
         "sales": 36,
         "publisher": "에디터",
         "imageUrl": "img/9788967440190.jpg",
-        "sub_category_id": 61
+        "sub_category_id": 62
     },
     {
-        "id": 309,
+        "id": 310,
         "title": "나는 질병없이 살기로 했다",
         "price": 18000.0,
         "publishDate": "20170415",
@@ -3285,10 +3285,10 @@
         "sales": 310,
         "publisher": "사이몬북스",
         "imageUrl": "img/9791187330011.jpg",
-        "sub_category_id": 58
+        "sub_category_id": 59
     },
     {
-        "id": 310,
+        "id": 311,
         "title": "설탕 중독",
         "price": 18000.0,
         "publishDate": "20240628",
@@ -3297,10 +3297,10 @@
         "sales": 644,
         "publisher": "부키",
         "imageUrl": "img/9791193528150.jpg",
-        "sub_category_id": 62
+        "sub_category_id": 63
     },
     {
-        "id": 311,
+        "id": 312,
         "title": "태초 먹거리",
         "price": 15000.0,
         "publishDate": "20230616",
@@ -3309,10 +3309,10 @@
         "sales": 561,
         "publisher": "한국분석기술연구소",
         "imageUrl": "img/9791198348708.jpg",
-        "sub_category_id": 62
+        "sub_category_id": 63
     },
     {
-        "id": 312,
+        "id": 313,
         "title": "글루코스 혁명",
         "price": 18000.0,
         "publishDate": "20220712",
@@ -3321,10 +3321,10 @@
         "sales": 781,
         "publisher": "아침사과",
         "imageUrl": "img/9791159433405.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 313,
+        "id": 314,
         "title": "건강과 다이어트를 동시에 잡는 7대 3의 법칙 채소·과일식(10만 부 기념 스페셜 에디션)",
         "price": 19000.0,
         "publishDate": "20221020",
@@ -3333,10 +3333,10 @@
         "sales": 927,
         "publisher": "바이북스",
         "imageUrl": "img/9791158773120.jpg",
-        "sub_category_id": 62
+        "sub_category_id": 63
     },
     {
-        "id": 314,
+        "id": 315,
         "title": "완전 소화",
         "price": 20000.0,
         "publishDate": "20240314",
@@ -3345,10 +3345,10 @@
         "sales": 458,
         "publisher": "다산라이프",
         "imageUrl": "img/9791130651415.jpg",
-        "sub_category_id": 62
+        "sub_category_id": 63
     },
     {
-        "id": 315,
+        "id": 316,
         "title": "백년허리 2: 치료편",
         "price": 18500.0,
         "publishDate": "20210513",
@@ -3357,10 +3357,10 @@
         "sales": 958,
         "publisher": "언탱글링",
         "imageUrl": "img/9791197437311.jpg",
-        "sub_category_id": 63
+        "sub_category_id": 64
     },
     {
-        "id": 316,
+        "id": 317,
         "title": "백년허리 1: 진단편",
         "price": 18500.0,
         "publishDate": "20210415",
@@ -3369,10 +3369,10 @@
         "sales": 942,
         "publisher": "언탱글링",
         "imageUrl": "img/9791197437304.jpg",
-        "sub_category_id": 63
+        "sub_category_id": 64
     },
     {
-        "id": 317,
+        "id": 318,
         "title": "백년운동",
         "price": 19500.0,
         "publishDate": "20191031",
@@ -3381,10 +3381,10 @@
         "sales": 223,
         "publisher": "아티잔",
         "imageUrl": "img/9791196834005.jpg",
-        "sub_category_id": 65
+        "sub_category_id": 66
     },
     {
-        "id": 318,
+        "id": 319,
         "title": "비만코드",
         "price": 16000.0,
         "publishDate": "20181101",
@@ -3393,10 +3393,10 @@
         "sales": 486,
         "publisher": "시그마북스",
         "imageUrl": "img/9791189199500.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 319,
+        "id": 320,
         "title": "우리는 왜 잠을 자야 할까",
         "price": 23000.0,
         "publishDate": "20190225",
@@ -3405,10 +3405,10 @@
         "sales": 672,
         "publisher": "열린책들",
         "imageUrl": "img/9788932919584.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 320,
+        "id": 321,
         "title": "내 몸 혁명",
         "price": 19500.0,
         "publishDate": "20240110",
@@ -3417,10 +3417,10 @@
         "sales": 757,
         "publisher": "루미너스",
         "imageUrl": "img/9791198553317.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 321,
+        "id": 322,
         "title": "페건 다이어트",
         "price": 19800.0,
         "publishDate": "20240630",
@@ -3429,10 +3429,10 @@
         "sales": 328,
         "publisher": "정말중요한",
         "imageUrl": "img/9791186745687.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 322,
+        "id": 323,
         "title": "지방 대사 켜는 스위치온 다이어트",
         "price": 16000.0,
         "publishDate": "20180325",
@@ -3441,10 +3441,10 @@
         "sales": 20,
         "publisher": "루미너스",
         "imageUrl": "img/9791196334703.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 323,
+        "id": 324,
         "title": "다이어트 사이언스(2022)",
         "price": 22000.0,
         "publishDate": "20220323",
@@ -3453,10 +3453,10 @@
         "sales": 285,
         "publisher": "린체인저스",
         "imageUrl": "img/9791197834202.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 324,
+        "id": 325,
         "title": "글루코스 혁명",
         "price": 18000.0,
         "publishDate": "20220712",
@@ -3465,10 +3465,10 @@
         "sales": 179,
         "publisher": "아침사과",
         "imageUrl": "img/9791159433405.jpg",
-        "sub_category_id": 64
+        "sub_category_id": 65
     },
     {
-        "id": 325,
+        "id": 326,
         "title": "세상에서 가장 알기 쉬운 근육연결도감",
         "price": 17500.0,
         "publishDate": "20240327",
@@ -3477,10 +3477,10 @@
         "sales": 850,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927880325.jpg",
-        "sub_category_id": 65
+        "sub_category_id": 66
     },
     {
-        "id": 326,
+        "id": 327,
         "title": "백년운동",
         "price": 19500.0,
         "publishDate": "20191031",
@@ -3489,10 +3489,10 @@
         "sales": 648,
         "publisher": "아티잔",
         "imageUrl": "img/9791196834005.jpg",
-        "sub_category_id": 65
+        "sub_category_id": 66
     },
     {
-        "id": 327,
+        "id": 328,
         "title": "무릎이 아파요",
         "price": 15800.0,
         "publishDate": "20201020",
@@ -3501,10 +3501,10 @@
         "sales": 592,
         "publisher": "골든타임",
         "imageUrl": "img/9791197167805.jpg",
-        "sub_category_id": 65
+        "sub_category_id": 66
     },
     {
-        "id": 328,
+        "id": 329,
         "title": "놓아버림",
         "price": 19000.0,
         "publishDate": "20131010",
@@ -3513,10 +3513,10 @@
         "sales": 662,
         "publisher": "판미동",
         "imageUrl": "img/9788960179110.jpg",
-        "sub_category_id": 65
+        "sub_category_id": 66
     },
     {
-        "id": 329,
+        "id": 330,
         "title": "요가 디피카",
         "price": 28000.0,
         "publishDate": "20141215",
@@ -3525,10 +3525,10 @@
         "sales": 688,
         "publisher": "선요가",
         "imageUrl": "img/9788995797020.jpg",
-        "sub_category_id": 65
+        "sub_category_id": 66
     },
     {
-        "id": 331,
+        "id": 332,
         "title": "내 손으로 시작하는 아로마 테라피",
         "price": 20000.0,
         "publishDate": "20240621",
@@ -3537,10 +3537,10 @@
         "sales": 357,
         "publisher": "클레버니스",
         "imageUrl": "img/9791198777058.jpg",
-        "sub_category_id": 66
+        "sub_category_id": 67
     },
     {
-        "id": 332,
+        "id": 333,
         "title": "에센셜 아로마테라피",
         "price": 30000.0,
         "publishDate": "20240226",
@@ -3549,10 +3549,10 @@
         "sales": 301,
         "publisher": "의학서원",
         "imageUrl": "img/9791163080787.jpg",
-        "sub_category_id": 66
+        "sub_category_id": 67
     },
     {
-        "id": 333,
+        "id": 334,
         "title": "피부에 헛돈 쓰지 마라",
         "price": 15000.0,
         "publishDate": "20150629",
@@ -3561,10 +3561,10 @@
         "sales": 882,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927806639.jpg",
-        "sub_category_id": 66
+        "sub_category_id": 67
     },
     {
-        "id": 335,
+        "id": 336,
         "title": "생기부 필독서 100",
         "price": 22000.0,
         "publishDate": "20230320",
@@ -3573,10 +3573,10 @@
         "sales": 612,
         "publisher": "센시오",
         "imageUrl": "img/9791166570957.jpg",
-        "sub_category_id": 67
+        "sub_category_id": 68
     },
     {
-        "id": 338,
+        "id": 339,
         "title": "생기부 인문 사회 필독서 50",
         "price": 19000.0,
         "publishDate": "20240419",
@@ -3585,10 +3585,10 @@
         "sales": 118,
         "publisher": "센시오",
         "imageUrl": "img/9791166571510.jpg",
-        "sub_category_id": 67
+        "sub_category_id": 68
     },
     {
-        "id": 339,
+        "id": 340,
         "title": "국어 교과서 작품 읽기: 중1 소설",
         "price": 12000.0,
         "publishDate": "20171227",
@@ -3597,10 +3597,10 @@
         "sales": 825,
         "publisher": "창비",
         "imageUrl": "img/9788936458669.jpg",
-        "sub_category_id": 67
+        "sub_category_id": 68
     },
     {
-        "id": 340,
+        "id": 341,
         "title": "이토록 공부가 재미있어지는 순간(50만 부 기념 우리들 에디션)",
         "price": 18000.0,
         "publishDate": "20230801",
@@ -3609,10 +3609,10 @@
         "sales": 141,
         "publisher": "다산북스",
         "imageUrl": "img/9791130604626.jpg",
-        "sub_category_id": 73
+        "sub_category_id": 74
     },
     {
-        "id": 341,
+        "id": 342,
         "title": "공부가 설렘이 되는 순간",
         "price": 18800.0,
         "publishDate": "20240221",
@@ -3621,10 +3621,10 @@
         "sales": 631,
         "publisher": "포레스트북스",
         "imageUrl": "img/9791193506363.jpg",
-        "sub_category_id": 68
+        "sub_category_id": 69
     },
     {
-        "id": 343,
+        "id": 344,
         "title": "생기부 과학 필독서 40",
         "price": 21000.0,
         "publishDate": "20240426",
@@ -3633,10 +3633,10 @@
         "sales": 199,
         "publisher": "센시오",
         "imageUrl": "img/9791166571503.jpg",
-        "sub_category_id": 68
+        "sub_category_id": 69
     },
     {
-        "id": 344,
+        "id": 345,
         "title": "중등 필독 신문",
         "price": 17800.0,
         "publishDate": "20240227",
@@ -3645,10 +3645,10 @@
         "sales": 416,
         "publisher": "체인지업",
         "imageUrl": "img/9791191378498.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 345,
+        "id": 346,
         "title": "AI 인공지능 미래직업카드",
         "price": 17500.0,
         "publishDate": "20220314",
@@ -3657,10 +3657,10 @@
         "sales": 172,
         "publisher": "한국콘텐츠미디어",
         "imageUrl": "img/9791165825232.jpg",
-        "sub_category_id": 69
+        "sub_category_id": 70
     },
     {
-        "id": 346,
+        "id": 347,
         "title": "그린잡",
         "price": 14000.0,
         "publishDate": "20160415",
@@ -3669,10 +3669,10 @@
         "sales": 300,
         "publisher": "양철북",
         "imageUrl": "img/9788963721996.jpg",
-        "sub_category_id": 72
+        "sub_category_id": 73
     },
     {
-        "id": 347,
+        "id": 348,
         "title": "꿈을 찾아주는 내비게이터",
         "price": 13000.0,
         "publishDate": "20120325",
@@ -3681,10 +3681,10 @@
         "sales": 367,
         "publisher": "마리북스",
         "imageUrl": "img/9788994011264.jpg",
-        "sub_category_id": 69
+        "sub_category_id": 70
     },
     {
-        "id": 348,
+        "id": 349,
         "title": "십대, 나를 위한 진로 글쓰기",
         "price": 16000.0,
         "publishDate": "20230905",
@@ -3693,10 +3693,10 @@
         "sales": 962,
         "publisher": "특별한서재",
         "imageUrl": "img/9791167030863.jpg",
-        "sub_category_id": 69
+        "sub_category_id": 70
     },
     {
-        "id": 349,
+        "id": 350,
         "title": "14살부터 시작하는 나의 첫 진로 수업",
         "price": 15000.0,
         "publishDate": "20210423",
@@ -3705,10 +3705,10 @@
         "sales": 92,
         "publisher": "뜨인돌출판사",
         "imageUrl": "img/9788958078043.jpg",
-        "sub_category_id": 69
+        "sub_category_id": 70
     },
     {
-        "id": 350,
+        "id": 351,
         "title": "아이비 웨이",
         "price": 19800.0,
         "publishDate": "20231101",
@@ -3717,10 +3717,10 @@
         "sales": 178,
         "publisher": "버터북스",
         "imageUrl": "img/9791191803204.jpg",
-        "sub_category_id": 70
+        "sub_category_id": 71
     },
     {
-        "id": 353,
+        "id": 354,
         "title": "임준희 대표의 미국 보딩스쿨",
         "price": 22000.0,
         "publishDate": "20230714",
@@ -3729,10 +3729,10 @@
         "sales": 274,
         "publisher": "다산글방",
         "imageUrl": "img/9791160782790.jpg",
-        "sub_category_id": 70
+        "sub_category_id": 71
     },
     {
-        "id": 354,
+        "id": 355,
         "title": "미국 명문 보딩스쿨 합격 전략",
         "price": 33000.0,
         "publishDate": "20231010",
@@ -3741,10 +3741,10 @@
         "sales": 58,
         "publisher": "좋은땅",
         "imageUrl": "img/9791138823623.jpg",
-        "sub_category_id": 70
+        "sub_category_id": 71
     },
     {
-        "id": 355,
+        "id": 356,
         "title": "아우성 빨간책: 여자 청소년 편",
         "price": 13500.0,
         "publishDate": "20180409",
@@ -3753,10 +3753,10 @@
         "sales": 313,
         "publisher": "올리브엠앤비",
         "imageUrl": "img/9788990673374.jpg",
-        "sub_category_id": 71
+        "sub_category_id": 72
     },
     {
-        "id": 356,
+        "id": 357,
         "title": "아우성 빨간책: 남자 청소년 편",
         "price": 13500.0,
         "publishDate": "20171130",
@@ -3765,10 +3765,10 @@
         "sales": 239,
         "publisher": "올리브엠앤비",
         "imageUrl": "img/9788990673367.jpg",
-        "sub_category_id": 71
+        "sub_category_id": 72
     },
     {
-        "id": 357,
+        "id": 358,
         "title": "몸 교과서",
         "price": 12000.0,
         "publishDate": "20210927",
@@ -3777,10 +3777,10 @@
         "sales": 799,
         "publisher": "김영사",
         "imageUrl": "img/9788934971849.jpg",
-        "sub_category_id": 71
+        "sub_category_id": 72
     },
     {
-        "id": 359,
+        "id": 360,
         "title": "나를 나답게! 자기방어 수업",
         "price": 13000.0,
         "publishDate": "20231117",
@@ -3789,10 +3789,10 @@
         "sales": 159,
         "publisher": "창비",
         "imageUrl": "img/9788936431198.jpg",
-        "sub_category_id": 71
+        "sub_category_id": 72
     },
     {
-        "id": 360,
+        "id": 361,
         "title": "그린잡",
         "price": 14000.0,
         "publishDate": "20160415",
@@ -3801,10 +3801,10 @@
         "sales": 995,
         "publisher": "양철북",
         "imageUrl": "img/9788963721996.jpg",
-        "sub_category_id": 72
+        "sub_category_id": 73
     },
     {
-        "id": 361,
+        "id": 362,
         "title": "나의 첫 돈 공부",
         "price": 16800.0,
         "publishDate": "20240331",
@@ -3813,10 +3813,10 @@
         "sales": 11,
         "publisher": "뜨인돌출판사",
         "imageUrl": "img/9788958070085.jpg",
-        "sub_category_id": 81
+        "sub_category_id": 82
     },
     {
-        "id": 362,
+        "id": 363,
         "title": "그대들 어떻게 살 것인가",
         "price": 12000.0,
         "publishDate": "20120628",
@@ -3825,10 +3825,10 @@
         "sales": 205,
         "publisher": "양철북",
         "imageUrl": "img/9788963720654.jpg",
-        "sub_category_id": 72
+        "sub_category_id": 73
     },
     {
-        "id": 363,
+        "id": 364,
         "title": "정승제 선생님이야!(한정판 스페셜 에디션)",
         "price": 14800.0,
         "publishDate": "20190410",
@@ -3837,10 +3837,10 @@
         "sales": 516,
         "publisher": "이지퍼블리싱",
         "imageUrl": "img/9791196633516.jpg",
-        "sub_category_id": 72
+        "sub_category_id": 73
     },
     {
-        "id": 364,
+        "id": 365,
         "title": "나에게 나다움을 주기로 했다",
         "price": 12500.0,
         "publishDate": "20200730",
@@ -3849,10 +3849,10 @@
         "sales": 344,
         "publisher": "리듬문고",
         "imageUrl": "img/9788965136149.jpg",
-        "sub_category_id": 72
+        "sub_category_id": 73
     },
     {
-        "id": 365,
+        "id": 366,
         "title": "이토록 공부가 재미있어지는 순간(50만 부 기념 우리들 에디션)",
         "price": 18000.0,
         "publishDate": "20230801",
@@ -3861,10 +3861,10 @@
         "sales": 851,
         "publisher": "다산북스",
         "imageUrl": "img/9791130604626.jpg",
-        "sub_category_id": 73
+        "sub_category_id": 74
     },
     {
-        "id": 366,
+        "id": 367,
         "title": "나보다 널 더 사랑해",
         "price": 16000.0,
         "publishDate": "20240621",
@@ -3873,10 +3873,10 @@
         "sales": 4,
         "publisher": "불광출판사",
         "imageUrl": "img/9791172610074.jpg",
-        "sub_category_id": 73
+        "sub_category_id": 74
     },
     {
-        "id": 367,
+        "id": 368,
         "title": "강원국의 진짜 공부",
         "price": 17000.0,
         "publishDate": "20230801",
@@ -3885,10 +3885,10 @@
         "sales": 380,
         "publisher": "창비교육",
         "imageUrl": "img/9791165702205.jpg",
-        "sub_category_id": 68
+        "sub_category_id": 69
     },
     {
-        "id": 368,
+        "id": 369,
         "title": "들숨에 긍정 날숨에 용기",
         "price": 15800.0,
         "publishDate": "20230303",
@@ -3897,10 +3897,10 @@
         "sales": 888,
         "publisher": "자음과모음",
         "imageUrl": "img/9788954448727.jpg",
-        "sub_category_id": 73
+        "sub_category_id": 74
     },
     {
-        "id": 369,
+        "id": 370,
         "title": "문학을 열다 세트",
         "price": 75000.0,
         "publishDate": "20200910",
@@ -3909,10 +3909,10 @@
         "sales": 318,
         "publisher": "스푼북",
         "imageUrl": "img/9791165810269.jpg",
-        "sub_category_id": 73
+        "sub_category_id": 74
     },
     {
-        "id": 370,
+        "id": 371,
         "title": "죽이고 싶은 아이 2",
         "price": 14000.0,
         "publishDate": "20240701",
@@ -3921,10 +3921,10 @@
         "sales": 419,
         "publisher": "우리학교",
         "imageUrl": "img/9791167552723.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 371,
+        "id": 372,
         "title": "언젠가 우리가 같은 별을 바라본다면",
         "price": 12000.0,
         "publishDate": "20211215",
@@ -3933,10 +3933,10 @@
         "sales": 363,
         "publisher": "해결책",
         "imageUrl": "img/9791191061048.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 372,
+        "id": 373,
         "title": "여름을 한 입 베어 물었더니",
         "price": 12500.0,
         "publishDate": "20230818",
@@ -3945,10 +3945,10 @@
         "sales": 783,
         "publisher": "문학동네",
         "imageUrl": "img/9788954694575.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 373,
+        "id": 374,
         "title": "죽이고 싶은 아이",
         "price": 12500.0,
         "publishDate": "20210607",
@@ -3957,10 +3957,10 @@
         "sales": 467,
         "publisher": "우리학교",
         "imageUrl": "img/9791190337755.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 374,
+        "id": 375,
         "title": "고요한 우연",
         "price": 12500.0,
         "publishDate": "20230220",
@@ -3969,10 +3969,10 @@
         "sales": 376,
         "publisher": "문학동네",
         "imageUrl": "img/9788954691154.jpg",
-        "sub_category_id": 74
+        "sub_category_id": 75
     },
     {
-        "id": 375,
+        "id": 376,
         "title": "마음의 일",
         "price": 10000.0,
         "publishDate": "20201005",
@@ -3981,10 +3981,10 @@
         "sales": 674,
         "publisher": "창비교육",
         "imageUrl": "img/9791165700201.jpg",
-        "sub_category_id": 75
+        "sub_category_id": 76
     },
     {
-        "id": 376,
+        "id": 377,
         "title": "이육사를 읽다",
         "price": 12000.0,
         "publishDate": "20210405",
@@ -3993,10 +3993,10 @@
         "sales": 431,
         "publisher": "휴머니스트",
         "imageUrl": "img/9791160806243.jpg",
-        "sub_category_id": 75
+        "sub_category_id": 76
     },
     {
-        "id": 377,
+        "id": 378,
         "title": "윤동주 시집",
         "price": 13800.0,
         "publishDate": "20181122",
@@ -4005,10 +4005,10 @@
         "sales": 861,
         "publisher": "미니책방",
         "imageUrl": "img/9791189604127.jpg",
-        "sub_category_id": 75
+        "sub_category_id": 76
     },
     {
-        "id": 378,
+        "id": 379,
         "title": "시가 내게로 왔다 2",
         "price": 6500.0,
         "publishDate": "20040305",
@@ -4017,10 +4017,10 @@
         "sales": 257,
         "publisher": "마음산책",
         "imageUrl": "img/9788989351528.jpg",
-        "sub_category_id": 75
+        "sub_category_id": 76
     },
     {
-        "id": 379,
+        "id": 380,
         "title": "너를 만나는 시 1: 내가 네 이름을 부를 때",
         "price": 11000.0,
         "publishDate": "20230601",
@@ -4029,10 +4029,10 @@
         "sales": 547,
         "publisher": "창비교육",
         "imageUrl": "img/9791165702045.jpg",
-        "sub_category_id": 75
+        "sub_category_id": 76
     },
     {
-        "id": 380,
+        "id": 381,
         "title": "쉽게 읽는 고전소설 1: 홍길동전, 최고운전",
         "price": 14000.0,
         "publishDate": "20221220",
@@ -4041,10 +4041,10 @@
         "sales": 492,
         "publisher": "천재교육",
         "imageUrl": "img/9791125965978.jpg",
-        "sub_category_id": 76
+        "sub_category_id": 77
     },
     {
-        "id": 381,
+        "id": 382,
         "title": "쉽게 읽는 고전소설 2: 춘향전, 운영전",
         "price": 15000.0,
         "publishDate": "20221220",
@@ -4053,10 +4053,10 @@
         "sales": 75,
         "publisher": "천재교육",
         "imageUrl": "img/9791125965985.jpg",
-        "sub_category_id": 76
+        "sub_category_id": 77
     },
     {
-        "id": 382,
+        "id": 383,
         "title": "고전의 숲",
         "price": 17500.0,
         "publishDate": "20230605",
@@ -4065,10 +4065,10 @@
         "sales": 354,
         "publisher": "포레스트북스",
         "imageUrl": "img/9791192625485.jpg",
-        "sub_category_id": 76
+        "sub_category_id": 77
     },
     {
-        "id": 383,
+        "id": 384,
         "title": "국어시간에 옛글읽기",
         "price": 15000.0,
         "publishDate": "20201221",
@@ -4077,10 +4077,10 @@
         "sales": 84,
         "publisher": "휴머니스트",
         "imageUrl": "img/9791160805253.jpg",
-        "sub_category_id": 76
+        "sub_category_id": 77
     },
     {
-        "id": 384,
+        "id": 385,
         "title": "운영전",
         "price": 12000.0,
         "publishDate": "20130114",
@@ -4089,10 +4089,10 @@
         "sales": 866,
         "publisher": "휴머니스트",
         "imageUrl": "img/9788958625704.jpg",
-        "sub_category_id": 76
+        "sub_category_id": 77
     },
     {
-        "id": 385,
+        "id": 386,
         "title": "철학의 숲",
         "price": 16000.0,
         "publishDate": "20200826",
@@ -4101,10 +4101,10 @@
         "sales": 144,
         "publisher": "포레스트북스",
         "imageUrl": "img/9791189584795.jpg",
-        "sub_category_id": 77
+        "sub_category_id": 78
     },
     {
-        "id": 386,
+        "id": 387,
         "title": "나는 왜 남의 시선을 의식할까?",
         "price": 12000.0,
         "publishDate": "20211005",
@@ -4113,10 +4113,10 @@
         "sales": 142,
         "publisher": "풀과바람",
         "imageUrl": "img/9788983899231.jpg",
-        "sub_category_id": 77
+        "sub_category_id": 78
     },
     {
-        "id": 387,
+        "id": 388,
         "title": "장자",
         "price": 13000.0,
         "publishDate": "20050611",
@@ -4125,10 +4125,10 @@
         "sales": 623,
         "publisher": "풀빛",
         "imageUrl": "img/9788974745301.jpg",
-        "sub_category_id": 77
+        "sub_category_id": 78
     },
     {
-        "id": 388,
+        "id": 389,
         "title": "자유론",
         "price": 12000.0,
         "publishDate": "20110425",
@@ -4137,10 +4137,10 @@
         "sales": 398,
         "publisher": "풀빛",
         "imageUrl": "img/9788974745615.jpg",
-        "sub_category_id": 77
+        "sub_category_id": 78
     },
     {
-        "id": 389,
+        "id": 390,
         "title": "백일 편지",
         "price": 17800.0,
         "publishDate": "20240610",
@@ -4149,10 +4149,10 @@
         "sales": 257,
         "publisher": "펜타클",
         "imageUrl": "img/9791198757005.jpg",
-        "sub_category_id": 77
+        "sub_category_id": 78
     },
     {
-        "id": 390,
+        "id": 391,
         "title": "10대를 위한 총균쇠 수업",
         "price": 16000.0,
         "publishDate": "20230815",
@@ -4161,10 +4161,10 @@
         "sales": 678,
         "publisher": "넥스트씨",
         "imageUrl": "img/9791198026811.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 391,
+        "id": 392,
         "title": "식탁 위의 세계사",
         "price": 14000.0,
         "publishDate": "20221229",
@@ -4173,10 +4173,10 @@
         "sales": 849,
         "publisher": "창비",
         "imageUrl": "img/9788936452056.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 392,
+        "id": 393,
         "title": "세계를 바꾼 연설과 선언",
         "price": 11900.0,
         "publishDate": "20060115",
@@ -4185,10 +4185,10 @@
         "sales": 499,
         "publisher": "서해문집",
         "imageUrl": "img/9788974832711.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 394,
+        "id": 395,
         "title": "곰브리치 세계사(예일대 특별판)",
         "price": 30000.0,
         "publishDate": "20230912",
@@ -4197,10 +4197,10 @@
         "sales": 968,
         "publisher": "비룡소",
         "imageUrl": "img/9788949189536.jpg",
-        "sub_category_id": 78
+        "sub_category_id": 79
     },
     {
-        "id": 395,
+        "id": 396,
         "title": "한 폭의 한국사",
         "price": 12000.0,
         "publishDate": "20121210",
@@ -4209,10 +4209,10 @@
         "sales": 190,
         "publisher": "창비",
         "imageUrl": "img/9788936452087.jpg",
-        "sub_category_id": 79
+        "sub_category_id": 80
     },
     {
-        "id": 396,
+        "id": 397,
         "title": "예술에 대한 여덟 가지 답변의 역사",
         "price": 17000.0,
         "publishDate": "20200520",
@@ -4221,10 +4221,10 @@
         "sales": 68,
         "publisher": "우리학교",
         "imageUrl": "img/9791190337342.jpg",
-        "sub_category_id": 79
+        "sub_category_id": 80
     },
     {
-        "id": 397,
+        "id": 398,
         "title": "수상한 화가들",
         "price": 15000.0,
         "publishDate": "20120427",
@@ -4233,10 +4233,10 @@
         "sales": 965,
         "publisher": "사계절",
         "imageUrl": "img/9788958286110.jpg",
-        "sub_category_id": 79
+        "sub_category_id": 80
     },
     {
-        "id": 399,
+        "id": 400,
         "title": "세상에서 가장 쉬운 교육영화 수업",
         "price": 17000.0,
         "publishDate": "20240120",
@@ -4245,10 +4245,10 @@
         "sales": 683,
         "publisher": "푸른칠판",
         "imageUrl": "img/9791191638189.jpg",
-        "sub_category_id": 79
+        "sub_category_id": 80
     },
     {
-        "id": 400,
+        "id": 401,
         "title": "신화의 숲",
         "price": 18000.0,
         "publishDate": "20240520",
@@ -4257,10 +4257,10 @@
         "sales": 150,
         "publisher": "포레스트북스",
         "imageUrl": "img/9791193506448.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 401,
+        "id": 402,
         "title": "어느 외계인의 인류학 보고서",
         "price": 12800.0,
         "publishDate": "20130930",
@@ -4269,10 +4269,10 @@
         "sales": 608,
         "publisher": "사계절",
         "imageUrl": "img/9788958286882.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 402,
+        "id": 403,
         "title": "인공지능 윤리를 부탁해",
         "price": 16000.0,
         "publishDate": "20240620",
@@ -4281,10 +4281,10 @@
         "sales": 901,
         "publisher": "나무야",
         "imageUrl": "img/9791188717361.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 403,
+        "id": 404,
         "title": "촉법소년, 살인해도 될까요?",
         "price": 13000.0,
         "publishDate": "20230525",
@@ -4293,10 +4293,10 @@
         "sales": 739,
         "publisher": "천개의바람",
         "imageUrl": "img/9791165734145.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 404,
+        "id": 405,
         "title": "중등 필독 신문",
         "price": 17800.0,
         "publishDate": "20240227",
@@ -4305,10 +4305,10 @@
         "sales": 440,
         "publisher": "체인지업",
         "imageUrl": "img/9791191378498.jpg",
-        "sub_category_id": 80
+        "sub_category_id": 81
     },
     {
-        "id": 405,
+        "id": 406,
         "title": "청소년을 위한 김난도 교수의 트렌드 수업 1",
         "price": 15000.0,
         "publishDate": "20240709",
@@ -4317,10 +4317,10 @@
         "sales": 620,
         "publisher": "미래의창",
         "imageUrl": "img/9791193638286.jpg",
-        "sub_category_id": 81
+        "sub_category_id": 82
     },
     {
-        "id": 406,
+        "id": 407,
         "title": "바빌론의 부자 멘토와 꼬마 제자",
         "price": 18500.0,
         "publishDate": "20240525",
@@ -4329,10 +4329,10 @@
         "sales": 757,
         "publisher": "퍼스트펭귄",
         "imageUrl": "img/9791198682529.jpg",
-        "sub_category_id": 81
+        "sub_category_id": 82
     },
     {
-        "id": 407,
+        "id": 408,
         "title": "경제수학, 위기의 편의점을 살려라!",
         "price": 15000.0,
         "publishDate": "20240211",
@@ -4341,10 +4341,10 @@
         "sales": 194,
         "publisher": "생각학교",
         "imageUrl": "img/9791191360998.jpg",
-        "sub_category_id": 81
+        "sub_category_id": 82
     },
     {
-        "id": 408,
+        "id": 409,
         "title": "자본주의 할래? 사회주의 할래?",
         "price": 13000.0,
         "publishDate": "20201012",
@@ -4353,10 +4353,10 @@
         "sales": 272,
         "publisher": "우리학교",
         "imageUrl": "img/9791190337489.jpg",
-        "sub_category_id": 81
+        "sub_category_id": 82
     },
     {
-        "id": 409,
+        "id": 410,
         "title": "시장과 가격 쫌 아는 10대",
         "price": 13000.0,
         "publishDate": "20190920",
@@ -4365,10 +4365,10 @@
         "sales": 36,
         "publisher": "풀빛",
         "imageUrl": "img/9791161727332.jpg",
-        "sub_category_id": 81
+        "sub_category_id": 82
     },
     {
-        "id": 410,
+        "id": 411,
         "title": "동경일일 3(완결)",
         "price": 11000.0,
         "publishDate": "20240621",
@@ -4377,10 +4377,10 @@
         "sales": 169,
         "publisher": "문학동네",
         "imageUrl": "img/9791141600761.jpg",
-        "sub_category_id": 82
+        "sub_category_id": 83
     },
     {
-        "id": 411,
+        "id": 412,
         "title": "동경일일 1",
         "price": 11000.0,
         "publishDate": "20231124",
@@ -4389,10 +4389,10 @@
         "sales": 274,
         "publisher": "문학동네",
         "imageUrl": "img/9788954696517.jpg",
-        "sub_category_id": 82
+        "sub_category_id": 83
     },
     {
-        "id": 412,
+        "id": 413,
         "title": "동경일일 2",
         "price": 11000.0,
         "publishDate": "20231124",
@@ -4401,10 +4401,10 @@
         "sales": 523,
         "publisher": "문학동네",
         "imageUrl": "img/9788954696524.jpg",
-        "sub_category_id": 82
+        "sub_category_id": 83
     },
     {
-        "id": 413,
+        "id": 414,
         "title": "지브리 입체건축전 도록(복각판)",
         "price": 30000.0,
         "publishDate": "20230706",
@@ -4413,10 +4413,10 @@
         "sales": 212,
         "publisher": "학산문화사",
         "imageUrl": "img/9791141108601.jpg",
-        "sub_category_id": 82
+        "sub_category_id": 83
     },
     {
-        "id": 414,
+        "id": 415,
         "title": "만화로 쉽게 이해하는 해부생리학",
         "price": 28000.0,
         "publishDate": "20231222",
@@ -4425,10 +4425,10 @@
         "sales": 379,
         "publisher": "신흥메드싸이언스",
         "imageUrl": "img/9788964980842.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 415,
+        "id": 416,
         "title": "100도씨",
         "price": 15000.0,
         "publishDate": "20171229",
@@ -4437,10 +4437,10 @@
         "sales": 228,
         "publisher": "창비",
         "imageUrl": "img/9788936473655.jpg",
-        "sub_category_id": 83
+        "sub_category_id": 84
     },
     {
-        "id": 416,
+        "id": 417,
         "title": "쥐(합본판)",
         "price": 21000.0,
         "publishDate": "20190308",
@@ -4449,10 +4449,10 @@
         "sales": 275,
         "publisher": "아름드리미디어",
         "imageUrl": "img/9788955824933.jpg",
-        "sub_category_id": 102
+        "sub_category_id": 103
     },
     {
-        "id": 417,
+        "id": 418,
         "title": "최태성의 만화 한국사 1: 전근대편",
         "price": 18000.0,
         "publishDate": "20201111",
@@ -4461,10 +4461,10 @@
         "sales": 531,
         "publisher": "메가스터디북스",
         "imageUrl": "img/9791129706812.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 418,
+        "id": 419,
         "title": "박시백의 고려사 5: 개혁의 실패와 망국으로의 길",
         "price": 15500.0,
         "publishDate": "20240325",
@@ -4473,10 +4473,10 @@
         "sales": 452,
         "publisher": "휴머니스트",
         "imageUrl": "img/9791170871088.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 419,
+        "id": 420,
         "title": "최태성의 만화 한국사 2: 근현대편",
         "price": 18000.0,
         "publishDate": "20201111",
@@ -4485,10 +4485,10 @@
         "sales": 901,
         "publisher": "메가스터디북스",
         "imageUrl": "img/9791129706829.jpg",
-        "sub_category_id": 49
+        "sub_category_id": 50
     },
     {
-        "id": 420,
+        "id": 421,
         "title": "출동 119구조대 구국의 오렌지 6",
         "price": 6000.0,
         "publishDate": "20240531",
@@ -4497,10 +4497,10 @@
         "sales": 819,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172039707.jpg",
-        "sub_category_id": 84
+        "sub_category_id": 85
     },
     {
-        "id": 421,
+        "id": 422,
         "title": "아이돌리쉬 세븐: 트리거 before The Radiant Glory(BOX)",
         "price": 28000.0,
         "publishDate": "20240430",
@@ -4509,10 +4509,10 @@
         "sales": 2,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172036140.jpg",
-        "sub_category_id": 84
+        "sub_category_id": 85
     },
     {
-        "id": 423,
+        "id": 424,
         "title": "신의 물방울 세트(1-44권)",
         "price": 176000.0,
         "publishDate": "20201201",
@@ -4521,10 +4521,10 @@
         "sales": 674,
         "publisher": "학산문화사",
         "imageUrl": "img/9788925885216.jpg",
-        "sub_category_id": 84
+        "sub_category_id": 85
     },
     {
-        "id": 424,
+        "id": 425,
         "title": "이세린 가이드",
         "price": 15000.0,
         "publishDate": "20210201",
@@ -4533,10 +4533,10 @@
         "sales": 354,
         "publisher": "코난북스",
         "imageUrl": "img/9791188605170.jpg",
-        "sub_category_id": 87
+        "sub_category_id": 88
     },
     {
-        "id": 425,
+        "id": 426,
         "title": "패밀리 레스토랑 가자(상)",
         "price": 8500.0,
         "publishDate": "20240401",
@@ -4545,10 +4545,10 @@
         "sales": 304,
         "publisher": "문학동네",
         "imageUrl": "img/9788954698726.jpg",
-        "sub_category_id": 85
+        "sub_category_id": 86
     },
     {
-        "id": 426,
+        "id": 427,
         "title": "룩 백",
         "price": 6000.0,
         "publishDate": "20220325",
@@ -4557,10 +4557,10 @@
         "sales": 152,
         "publisher": "학산문화사",
         "imageUrl": "img/9791168761841.jpg",
-        "sub_category_id": 85
+        "sub_category_id": 86
     },
     {
-        "id": 427,
+        "id": 428,
         "title": "가라오케 가자!",
         "price": 8500.0,
         "publishDate": "20220414",
@@ -4569,10 +4569,10 @@
         "sales": 900,
         "publisher": "문학동네",
         "imageUrl": "img/9788954685696.jpg",
-        "sub_category_id": 85
+        "sub_category_id": 86
     },
     {
-        "id": 428,
+        "id": 429,
         "title": "유루캠 15",
         "price": 5500.0,
         "publishDate": "20240630",
@@ -4581,10 +4581,10 @@
         "sales": 549,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172039998.jpg",
-        "sub_category_id": 85
+        "sub_category_id": 86
     },
     {
-        "id": 429,
+        "id": 430,
         "title": "봇치ㆍ더ㆍ록! 앤솔러지 코믹 1(특별판)",
         "price": 18000.0,
         "publishDate": "20240529",
@@ -4593,10 +4593,10 @@
         "sales": 271,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172039424.jpg",
-        "sub_category_id": 85
+        "sub_category_id": 86
     },
     {
-        "id": 430,
+        "id": 431,
         "title": "삼색 고양이 모부는 캔 부자가 되고 싶어",
         "price": 11800.0,
         "publishDate": "20240410",
@@ -4605,10 +4605,10 @@
         "sales": 813,
         "publisher": "에이케이커뮤니케이션즈",
         "imageUrl": "img/9791127473822.jpg",
-        "sub_category_id": 86
+        "sub_category_id": 87
     },
     {
-        "id": 431,
+        "id": 432,
         "title": "야무진 고양이는 오늘도 우울 8",
         "price": 8000.0,
         "publishDate": "20240403",
@@ -4617,10 +4617,10 @@
         "sales": 893,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138425704.jpg",
-        "sub_category_id": 86
+        "sub_category_id": 87
     },
     {
-        "id": 432,
+        "id": 433,
         "title": "고양이 단편 만화",
         "price": 16000.0,
         "publishDate": "20210726",
@@ -4629,10 +4629,10 @@
         "sales": 581,
         "publisher": "서사원",
         "imageUrl": "img/9791190179881.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 433,
+        "id": 434,
         "title": "뽀짜툰 1",
         "price": 13000.0,
         "publishDate": "20140224",
@@ -4641,10 +4641,10 @@
         "sales": 104,
         "publisher": "북폴리오",
         "imageUrl": "img/9788937834448.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 434,
+        "id": 435,
         "title": "뽀짜툰 6",
         "price": 13000.0,
         "publishDate": "20171026",
@@ -4653,10 +4653,10 @@
         "sales": 943,
         "publisher": "북폴리오",
         "imageUrl": "img/9788937844553.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 435,
+        "id": 436,
         "title": "심야식당 28",
         "price": 9500.0,
         "publishDate": "20240531",
@@ -4665,10 +4665,10 @@
         "sales": 930,
         "publisher": "미우",
         "imageUrl": "img/9791172032883.jpg",
-        "sub_category_id": 87
+        "sub_category_id": 88
     },
     {
-        "id": 436,
+        "id": 437,
         "title": "아빠는 요리사 164",
         "price": 6000.0,
         "publishDate": "20240627",
@@ -4677,10 +4677,10 @@
         "sales": 381,
         "publisher": "학산문화사",
         "imageUrl": "img/9791141129262.jpg",
-        "sub_category_id": 87
+        "sub_category_id": 88
     },
     {
-        "id": 437,
+        "id": 438,
         "title": "어제 뭐 먹었어? 22",
         "price": 6000.0,
         "publishDate": "20240227",
@@ -4689,10 +4689,10 @@
         "sales": 422,
         "publisher": "삼양출판사",
         "imageUrl": "img/9791128372131.jpg",
-        "sub_category_id": 87
+        "sub_category_id": 88
     },
     {
-        "id": 438,
+        "id": 439,
         "title": "심야식당 27",
         "price": 9500.0,
         "publishDate": "20231115",
@@ -4701,10 +4701,10 @@
         "sales": 198,
         "publisher": "미우",
         "imageUrl": "img/9791171249572.jpg",
-        "sub_category_id": 87
+        "sub_category_id": 88
     },
     {
-        "id": 439,
+        "id": 440,
         "title": "오무라이스 잼잼 1(10주년 기념 스페셜 리커버)",
         "price": 20000.0,
         "publishDate": "20200117",
@@ -4713,10 +4713,10 @@
         "sales": 208,
         "publisher": "송송책방",
         "imageUrl": "img/9791196866259.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 440,
+        "id": 441,
         "title": "텍사스 홀덤 Vol 1",
         "price": 16000.0,
         "publishDate": "20221231",
@@ -4725,10 +4725,10 @@
         "sales": 577,
         "publisher": "스타비즈",
         "imageUrl": "img/9791191355963.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 441,
+        "id": 442,
         "title": "텍사스 홀덤 Vol 2",
         "price": 16000.0,
         "publishDate": "20221231",
@@ -4737,10 +4737,10 @@
         "sales": 741,
         "publisher": "스타비즈",
         "imageUrl": "img/9791191355970.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 442,
+        "id": 443,
         "title": "도박묵시록 카이지 9",
         "price": 3500.0,
         "publishDate": "20041130",
@@ -4749,10 +4749,10 @@
         "sales": 631,
         "publisher": "학산문화사",
         "imageUrl": "img/2007104004260.jpg",
-        "sub_category_id": 88
+        "sub_category_id": 89
     },
     {
-        "id": 443,
+        "id": 444,
         "title": "도박묵시록 카이지 10",
         "price": 3500.0,
         "publishDate": "20040930",
@@ -4761,10 +4761,10 @@
         "sales": 64,
         "publisher": "학산문화사",
         "imageUrl": "img/2007104004277.jpg",
-        "sub_category_id": 88
+        "sub_category_id": 89
     },
     {
-        "id": 444,
+        "id": 445,
         "title": "마작의 제왕 테쯔야 13",
         "price": 3000.0,
         "publishDate": "20010825",
@@ -4773,10 +4773,10 @@
         "sales": 792,
         "publisher": "학산문화사",
         "imageUrl": "img/2007104004543.jpg",
-        "sub_category_id": 88
+        "sub_category_id": 89
     },
     {
-        "id": 445,
+        "id": 446,
         "title": "인간실격 1(무삭제판)",
         "price": 16000.0,
         "publishDate": "20200827",
@@ -4785,10 +4785,10 @@
         "sales": 357,
         "publisher": "미우",
         "imageUrl": "img/9791136242327.jpg",
-        "sub_category_id": 89
+        "sub_category_id": 90
     },
     {
-        "id": 446,
+        "id": 447,
         "title": "고우영 십팔사략(일반판) 세트",
         "price": 100000.0,
         "publishDate": "20210801",
@@ -4797,10 +4797,10 @@
         "sales": 651,
         "publisher": "문학동네",
         "imageUrl": "img/9788954678421.jpg",
-        "sub_category_id": 89
+        "sub_category_id": 90
     },
     {
-        "id": 447,
+        "id": 448,
         "title": "인간실격 2(무삭제판)",
         "price": 16000.0,
         "publishDate": "20200827",
@@ -4809,10 +4809,10 @@
         "sales": 524,
         "publisher": "미우",
         "imageUrl": "img/9791136242334.jpg",
-        "sub_category_id": 89
+        "sub_category_id": 90
     },
     {
-        "id": 448,
+        "id": 449,
         "title": "인간실격 3(무삭제판)",
         "price": 16000.0,
         "publishDate": "20200827",
@@ -4821,10 +4821,10 @@
         "sales": 870,
         "publisher": "미우",
         "imageUrl": "img/9791136242341.jpg",
-        "sub_category_id": 89
+        "sub_category_id": 90
     },
     {
-        "id": 449,
+        "id": 450,
         "title": "만화 수호지 세트",
         "price": 55000.0,
         "publishDate": "20210924",
@@ -4833,10 +4833,10 @@
         "sales": 637,
         "publisher": "에이케이커뮤니케이션즈",
         "imageUrl": "img/9791127447946.jpg",
-        "sub_category_id": 89
+        "sub_category_id": 90
     },
     {
-        "id": 450,
+        "id": 451,
         "title": "베르세르크 42",
         "price": 6000.0,
         "publishDate": "20240630",
@@ -4845,10 +4845,10 @@
         "sales": 510,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172453978.jpg",
-        "sub_category_id": 90
+        "sub_category_id": 91
     },
     {
-        "id": 451,
+        "id": 452,
         "title": "베르세르크 41",
         "price": 6000.0,
         "publishDate": "20220429",
@@ -4857,10 +4857,10 @@
         "sales": 128,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791136294548.jpg",
-        "sub_category_id": 90
+        "sub_category_id": 91
     },
     {
-        "id": 452,
+        "id": 453,
         "title": "히즈 리틀 앰버 상, 하 특장판 세트",
         "price": 18000.0,
         "publishDate": "20240702",
@@ -4869,10 +4869,10 @@
         "sales": 823,
         "publisher": "조은세상",
         "imageUrl": "img/9791139135220.jpg",
-        "sub_category_id": 90
+        "sub_category_id": 91
     },
     {
-        "id": 453,
+        "id": 454,
         "title": "개수일촉 5",
         "price": 8000.0,
         "publishDate": "20240625",
@@ -4881,10 +4881,10 @@
         "sales": 854,
         "publisher": "학산문화사",
         "imageUrl": "img/9791141116521.jpg",
-        "sub_category_id": 90
+        "sub_category_id": 91
     },
     {
-        "id": 454,
+        "id": 455,
         "title": "베르세르크 26",
         "price": 5500.0,
         "publishDate": "20220510",
@@ -4893,10 +4893,10 @@
         "sales": 704,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791136298935.jpg",
-        "sub_category_id": 90
+        "sub_category_id": 91
     },
     {
-        "id": 455,
+        "id": 456,
         "title": "나를 사랑하지 않아도 7",
         "price": 15000.0,
         "publishDate": "20240628",
@@ -4905,10 +4905,10 @@
         "sales": 600,
         "publisher": "영컴",
         "imageUrl": "img/9791167794406.jpg",
-        "sub_category_id": 91
+        "sub_category_id": 92
     },
     {
-        "id": 456,
+        "id": 457,
         "title": "인 디즈 워즈(In These Words) 4",
         "price": 9000.0,
         "publishDate": "20240615",
@@ -4917,10 +4917,10 @@
         "sales": 630,
         "publisher": "MM코믹스",
         "imageUrl": "img/9791167692184.jpg",
-        "sub_category_id": 91
+        "sub_category_id": 92
     },
     {
-        "id": 457,
+        "id": 458,
         "title": "스케치 시즌2 A 풀패키지 Sympathy",
         "price": 65000.0,
         "publishDate": "20240326",
@@ -4929,10 +4929,10 @@
         "sales": 112,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172035525.jpg",
-        "sub_category_id": 91
+        "sub_category_id": 92
     },
     {
-        "id": 458,
+        "id": 459,
         "title": "지 디펜드(G Defend) 73",
         "price": 6000.0,
         "publishDate": "20240630",
@@ -4941,10 +4941,10 @@
         "sales": 125,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136788467.jpg",
-        "sub_category_id": 91
+        "sub_category_id": 92
     },
     {
-        "id": 459,
+        "id": 460,
         "title": "타시로, 너란 녀석은 3",
         "price": 5500.0,
         "publishDate": "20221229",
@@ -4953,10 +4953,10 @@
         "sales": 132,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136760142.jpg",
-        "sub_category_id": 91
+        "sub_category_id": 92
     },
     {
-        "id": 460,
+        "id": 461,
         "title": "반딧불이의 혼례 2",
         "price": 8500.0,
         "publishDate": "20240630",
@@ -4965,10 +4965,10 @@
         "sales": 237,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136788092.jpg",
-        "sub_category_id": 92
+        "sub_category_id": 93
     },
     {
-        "id": 461,
+        "id": 462,
         "title": "반딧불이의 혼례 1",
         "price": 8500.0,
         "publishDate": "20240430",
@@ -4977,10 +4977,10 @@
         "sales": 341,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136784773.jpg",
-        "sub_category_id": 92
+        "sub_category_id": 93
     },
     {
-        "id": 462,
+        "id": 463,
         "title": "봄의 폭풍과 몬스터 4",
         "price": 6000.0,
         "publishDate": "20240625",
@@ -4989,10 +4989,10 @@
         "sales": 571,
         "publisher": "학산문화사",
         "imageUrl": "img/9791141131340.jpg",
-        "sub_category_id": 92
+        "sub_category_id": 93
     },
     {
-        "id": 463,
+        "id": 464,
         "title": "반딧불이의 혼례 2(한정판)",
         "price": 22000.0,
         "publishDate": "20240630",
@@ -5001,10 +5001,10 @@
         "sales": 10,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136788436.jpg",
-        "sub_category_id": 92
+        "sub_category_id": 93
     },
     {
-        "id": 464,
+        "id": 465,
         "title": "숨막힐 정도의 사랑을 줄게 3",
         "price": 6000.0,
         "publishDate": "20240715",
@@ -5013,10 +5013,10 @@
         "sales": 573,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172452674.jpg",
-        "sub_category_id": 92
+        "sub_category_id": 93
     },
     {
-        "id": 465,
+        "id": 466,
         "title": "하이큐!! 매거진 2024 MAY",
         "price": 20000.0,
         "publishDate": "20240514",
@@ -5025,10 +5025,10 @@
         "sales": 918,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172450021.jpg",
-        "sub_category_id": 93
+        "sub_category_id": 94
     },
     {
-        "id": 466,
+        "id": 467,
         "title": "극장판 하이큐!!: 쓰레기장의 결전(소설판)",
         "price": 9000.0,
         "publishDate": "20240630",
@@ -5037,10 +5037,10 @@
         "sales": 541,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172455293.jpg",
-        "sub_category_id": 93
+        "sub_category_id": 94
     },
     {
-        "id": 467,
+        "id": 468,
         "title": "하이큐!! 챔프 쓰레기장의 결전",
         "price": 15000.0,
         "publishDate": "20240514",
@@ -5049,10 +5049,10 @@
         "sales": 182,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172039417.jpg",
-        "sub_category_id": 93
+        "sub_category_id": 94
     },
     {
-        "id": 468,
+        "id": 469,
         "title": "슬램덩크 1: 강백호(신장재편판)",
         "price": 7000.0,
         "publishDate": "20180831",
@@ -5061,10 +5061,10 @@
         "sales": 368,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791133487516.jpg",
-        "sub_category_id": 93
+        "sub_category_id": 94
     },
     {
-        "id": 469,
+        "id": 470,
         "title": "슬램덩크 2: 풋내기 슛(신장재편판)",
         "price": 6500.0,
         "publishDate": "20180831",
@@ -5073,10 +5073,10 @@
         "sales": 180,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791133487523.jpg",
-        "sub_category_id": 93
+        "sub_category_id": 94
     },
     {
-        "id": 470,
+        "id": 471,
         "title": "주술회전 26: 남쪽으로",
         "price": 6000.0,
         "publishDate": "20240620",
@@ -5085,10 +5085,10 @@
         "sales": 248,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136788429.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 471,
+        "id": 472,
         "title": "쿠이 료코 낙서집 데이드림 아워(한정판)",
         "price": 58000.0,
         "publishDate": "20240604",
@@ -5097,10 +5097,10 @@
         "sales": 645,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138483261.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 472,
+        "id": 473,
         "title": "원피스 108: 죽는 편이 나은 세계",
         "price": 5500.0,
         "publishDate": "20240531",
@@ -5109,10 +5109,10 @@
         "sales": 203,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172039448.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 473,
+        "id": 474,
         "title": "나의 히어로 아카데미아 40",
         "price": 6000.0,
         "publishDate": "20240531",
@@ -5121,10 +5121,10 @@
         "sales": 161,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136787279.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 474,
+        "id": 475,
         "title": "나 혼자만 레벨업 11(만화)",
         "price": 16000.0,
         "publishDate": "20240604",
@@ -5133,10 +5133,10 @@
         "sales": 634,
         "publisher": "디앤씨미디어",
         "imageUrl": "img/9791193821206.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 475,
+        "id": 476,
         "title": "주술회전 26: 남쪽으로",
         "price": 6000.0,
         "publishDate": "20240620",
@@ -5145,10 +5145,10 @@
         "sales": 553,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136788429.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 476,
+        "id": 477,
         "title": "사카모토 데이즈 5: 사형수",
         "price": 6000.0,
         "publishDate": "20220731",
@@ -5157,10 +5157,10 @@
         "sales": 93,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791169184007.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 477,
+        "id": 478,
         "title": "열혈강호 90",
         "price": 5500.0,
         "publishDate": "20240319",
@@ -5169,10 +5169,10 @@
         "sales": 820,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172033491.jpg",
-        "sub_category_id": 95
+        "sub_category_id": 96
     },
     {
-        "id": 478,
+        "id": 479,
         "title": "사카모토 데이즈 7: 별말씀을",
         "price": 6000.0,
         "publishDate": "20221128",
@@ -5181,10 +5181,10 @@
         "sales": 978,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791169444064.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 479,
+        "id": 480,
         "title": "사카모토 데이즈 8: 3차 시험",
         "price": 6000.0,
         "publishDate": "20221228",
@@ -5193,10 +5193,10 @@
         "sales": 783,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791169446730.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 480,
+        "id": 481,
         "title": "스파이 패밀리 13",
         "price": 6000.0,
         "publishDate": "20240625",
@@ -5205,10 +5205,10 @@
         "sales": 156,
         "publisher": "학산문화사",
         "imageUrl": "img/9791141134402.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 481,
+        "id": 482,
         "title": "사카모토 데이즈 16: 해후",
         "price": 6000.0,
         "publishDate": "20240630",
@@ -5217,10 +5217,10 @@
         "sales": 934,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172453497.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 482,
+        "id": 483,
         "title": "사카모토 데이즈 15",
         "price": 6000.0,
         "publishDate": "20240430",
@@ -5229,10 +5229,10 @@
         "sales": 701,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172037376.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 483,
+        "id": 484,
         "title": "사카모토 데이즈 1: 전설의 킬러",
         "price": 6000.0,
         "publishDate": "20211001",
@@ -5241,10 +5241,10 @@
         "sales": 74,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791136286673.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 484,
+        "id": 485,
         "title": "사카모토 데이즈 16 + 사카모토 데이즈(소설판)",
         "price": 14000.0,
         "publishDate": "20240627",
@@ -5253,10 +5253,10 @@
         "sales": 698,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172453503.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 485,
+        "id": 486,
         "title": "명탐정 코난 104",
         "price": 6000.0,
         "publishDate": "20240424",
@@ -5265,10 +5265,10 @@
         "sales": 465,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136784469.jpg",
-        "sub_category_id": 97
+        "sub_category_id": 98
     },
     {
-        "id": 486,
+        "id": 487,
         "title": "명탐정 코난 104(특장판)",
         "price": 10000.0,
         "publishDate": "20240424",
@@ -5277,10 +5277,10 @@
         "sales": 342,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136784483.jpg",
-        "sub_category_id": 97
+        "sub_category_id": 98
     },
     {
-        "id": 487,
+        "id": 488,
         "title": "약사의 혼잣말 18",
         "price": 6000.0,
         "publishDate": "20240630",
@@ -5289,10 +5289,10 @@
         "sales": 656,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136787231.jpg",
-        "sub_category_id": 97
+        "sub_category_id": 98
     },
     {
-        "id": 488,
+        "id": 489,
         "title": "김전일 37세의 사건부 15",
         "price": 5500.0,
         "publishDate": "20240523",
@@ -5301,10 +5301,10 @@
         "sales": 17,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/9791136787033.jpg",
-        "sub_category_id": 97
+        "sub_category_id": 98
     },
     {
-        "id": 489,
+        "id": 490,
         "title": "이상한 집 1",
         "price": 8500.0,
         "publishDate": "20240626",
@@ -5313,10 +5313,10 @@
         "sales": 495,
         "publisher": "리드비",
         "imageUrl": "img/9791192738291.jpg",
-        "sub_category_id": 97
+        "sub_category_id": 98
     },
     {
-        "id": 490,
+        "id": 491,
         "title": "진격의 거인 후회없는 선택 세트(1-2권)",
         "price": 7200.0,
         "publishDate": "20161104",
@@ -5325,10 +5325,10 @@
         "sales": 223,
         "publisher": "학산문화사",
         "imageUrl": "img/9791125603429.jpg",
-        "sub_category_id": 94
+        "sub_category_id": 95
     },
     {
-        "id": 491,
+        "id": 492,
         "title": "히카루가 죽은 여름 1",
         "price": 6000.0,
         "publishDate": "20230320",
@@ -5337,10 +5337,10 @@
         "sales": 629,
         "publisher": "디앤씨미디어",
         "imageUrl": "img/9791127867799.jpg",
-        "sub_category_id": 98
+        "sub_category_id": 99
     },
     {
-        "id": 492,
+        "id": 493,
         "title": "히카루가 죽은 여름 3",
         "price": 6000.0,
         "publishDate": "20231208",
@@ -5349,10 +5349,10 @@
         "sales": 351,
         "publisher": "디앤씨미디어",
         "imageUrl": "img/9791127872717.jpg",
-        "sub_category_id": 98
+        "sub_category_id": 99
     },
     {
-        "id": 493,
+        "id": 494,
         "title": "히카루가 죽은 여름 2",
         "price": 6000.0,
         "publishDate": "20230720",
@@ -5361,10 +5361,10 @@
         "sales": 314,
         "publisher": "디앤씨미디어",
         "imageUrl": "img/9791127869441.jpg",
-        "sub_category_id": 98
+        "sub_category_id": 99
     },
     {
-        "id": 494,
+        "id": 495,
         "title": "게게게의 기타로 요괴 파일: 세계편",
         "price": 20000.0,
         "publishDate": "20240628",
@@ -5373,10 +5373,10 @@
         "sales": 25,
         "publisher": "므큐",
         "imageUrl": "img/9791172173036.jpg",
-        "sub_category_id": 98
+        "sub_category_id": 99
     },
     {
-        "id": 495,
+        "id": 496,
         "title": "킬블루 2: 노렌은 못 줘",
         "price": 6000.0,
         "publishDate": "20240630",
@@ -5385,10 +5385,10 @@
         "sales": 220,
         "publisher": "대원씨아이",
         "imageUrl": "img/9791172453572.jpg",
-        "sub_category_id": 99
+        "sub_category_id": 100
     },
     {
-        "id": 496,
+        "id": 497,
         "title": "학생회에도 구멍은 있다! 1",
         "price": 6000.0,
         "publishDate": "20230809",
@@ -5397,10 +5397,10 @@
         "sales": 766,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138479431.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 497,
+        "id": 498,
         "title": "내 마음의 위험한 녀석 9",
         "price": 6000.0,
         "publishDate": "20240417",
@@ -5409,10 +5409,10 @@
         "sales": 338,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138482547.jpg",
-        "sub_category_id": 99
+        "sub_category_id": 100
     },
     {
-        "id": 498,
+        "id": 499,
         "title": "학생회에도 구멍은 있다! 2",
         "price": 6000.0,
         "publishDate": "20230809",
@@ -5421,10 +5421,10 @@
         "sales": 317,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138479493.jpg",
-        "sub_category_id": 96
+        "sub_category_id": 97
     },
     {
-        "id": 499,
+        "id": 500,
         "title": "내 마음의 위험한 녀석 1",
         "price": 5500.0,
         "publishDate": "20200213",
@@ -5433,10 +5433,10 @@
         "sales": 18,
         "publisher": "소미미디어",
         "imageUrl": "img/9791165073220.jpg",
-        "sub_category_id": 99
+        "sub_category_id": 100
     },
     {
-        "id": 500,
+        "id": 501,
         "title": "헬터 스켈터(Helter Skelter)",
         "price": 22000.0,
         "publishDate": "20200301",
@@ -5445,10 +5445,10 @@
         "sales": 109,
         "publisher": "고트",
         "imageUrl": "img/9791189519124.jpg",
-        "sub_category_id": 100
+        "sub_category_id": 101
     },
     {
-        "id": 501,
+        "id": 502,
         "title": "3그램",
         "price": 18000.0,
         "publishDate": "20150720",
@@ -5457,10 +5457,10 @@
         "sales": 872,
         "publisher": "미메시스",
         "imageUrl": "img/9788990641779.jpg",
-        "sub_category_id": 100
+        "sub_category_id": 101
     },
     {
-        "id": 502,
+        "id": 503,
         "title": "Artists In Korea (아티스트 인 코리아) 2024",
         "price": 30000.0,
         "publishDate": "20240131",
@@ -5469,10 +5469,10 @@
         "sales": 498,
         "publisher": "소미미디어",
         "imageUrl": "img/9791138424301.jpg",
-        "sub_category_id": 100
+        "sub_category_id": 101
     },
     {
-        "id": 503,
+        "id": 504,
         "title": "스터디그룹 세트(1-3)",
         "price": 46500.0,
         "publishDate": "20231229",
@@ -5481,10 +5481,10 @@
         "sales": 580,
         "publisher": "와이랩",
         "imageUrl": "img/9791160624717.jpg",
-        "sub_category_id": 100
+        "sub_category_id": 101
     },
     {
-        "id": 504,
+        "id": 505,
         "title": "야마모토 귀 파주는 가게",
         "price": 8500.0,
         "publishDate": "20101215",
@@ -5493,10 +5493,10 @@
         "sales": 11,
         "publisher": "미우",
         "imageUrl": "img/9788925270579.jpg",
-        "sub_category_id": 100
+        "sub_category_id": 101
     },
     {
-        "id": 506,
+        "id": 507,
         "title": "나 혼자만 레벨업 10(만화)",
         "price": 16000.0,
         "publishDate": "20240418",
@@ -5505,10 +5505,10 @@
         "sales": 664,
         "publisher": "디앤씨미디어",
         "imageUrl": "img/9791193549810.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 507,
+        "id": 508,
         "title": "틴틴팅클!",
         "price": 16800.0,
         "publishDate": "20210419",
@@ -5517,10 +5517,10 @@
         "sales": 543,
         "publisher": "중앙북스",
         "imageUrl": "img/9788927812128.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 508,
+        "id": 509,
         "title": "나 혼자만 레벨업 9(만화)",
         "price": 16000.0,
         "publishDate": "20240229",
@@ -5529,10 +5529,10 @@
         "sales": 572,
         "publisher": "디앤씨미디어",
         "imageUrl": "img/9791193821053.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 509,
+        "id": 510,
         "title": "순정빌런 1",
         "price": 15000.0,
         "publishDate": "20240628",
@@ -5541,10 +5541,10 @@
         "sales": 63,
         "publisher": "영컴",
         "imageUrl": "img/9791167794390.jpg",
-        "sub_category_id": 101
+        "sub_category_id": 102
     },
     {
-        "id": 512,
+        "id": 513,
         "title": "쥐(합본판)",
         "price": 21000.0,
         "publishDate": "20190308",
@@ -5553,10 +5553,10 @@
         "sales": 864,
         "publisher": "아름드리미디어",
         "imageUrl": "img/9788955824933.jpg",
-        "sub_category_id": 102
+        "sub_category_id": 103
     },
     {
-        "id": 513,
+        "id": 514,
         "title": "로봇 드림",
         "price": 19800.0,
         "publishDate": "20240327",
@@ -5565,10 +5565,10 @@
         "sales": 895,
         "publisher": "놀",
         "imageUrl": "img/9791130651309.jpg",
-        "sub_category_id": 102
+        "sub_category_id": 103
     },
     {
-        "id": 515,
+        "id": 516,
         "title": "명탐정 코난 엽서북 100",
         "price": 35000.0,
         "publishDate": "20231107",
@@ -5577,10 +5577,10 @@
         "sales": 969,
         "publisher": "아르누보",
         "imageUrl": "img/8809914422661.jpg",
-        "sub_category_id": 103
+        "sub_category_id": 104
     },
     {
-        "id": 516,
+        "id": 517,
         "title": "스파이 패밀리 포스트카드 콜렉션",
         "price": 20000.0,
         "publishDate": "20240520",
@@ -5589,10 +5589,10 @@
         "sales": 698,
         "publisher": "서울미디어코믹스(서울문화사)",
         "imageUrl": "img/8809170011425.jpg",
-        "sub_category_id": 103
+        "sub_category_id": 104
     },
     {
-        "id": 517,
+        "id": 518,
         "title": "스파이 패밀리 플레잉 카드",
         "price": 18000.0,
         "publishDate": "20240301",
@@ -5601,10 +5601,10 @@
         "sales": 240,
         "publisher": "서울문화사",
         "imageUrl": "img/8809170011418.jpg",
-        "sub_category_id": 103
+        "sub_category_id": 104
     },
     {
-        "id": 518,
+        "id": 519,
         "title": "봇치더록 포스터 컬렉션",
         "price": 7000.0,
         "publishDate": "20240227",
@@ -5613,10 +5613,10 @@
         "sales": 0,
         "publisher": "대원앤북",
         "imageUrl": "img/8809894542564.jpg",
-        "sub_category_id": 103
+        "sub_category_id": 104
     },
     {
-        "id": 519,
+        "id": 520,
         "title": "귀멸의 칼날 직소퍼즐 500조각 렌고쿠 화염",
         "price": 20000.0,
         "publishDate": "20210630",
@@ -5625,10 +5625,10 @@
         "sales": 44,
         "publisher": "고은문화사",
         "imageUrl": "img/8809660520420.jpg",
-        "sub_category_id": 103
+        "sub_category_id": 104
     },
     {
-        "id": 525,
+        "id": 526,
         "title": "최고의 프롬프트 엔지니어링 강의",
         "price": 24000.0,
         "publishDate": "20240610",
@@ -5637,10 +5637,10 @@
         "sales": 319,
         "publisher": "리코멘드",
         "imageUrl": "img/9791194084006.jpg",
-        "sub_category_id": 105
+        "sub_category_id": 106
     },
     {
-        "id": 526,
+        "id": 527,
         "title": "제가 만든 GPT는 당신이 만든 GPT와 전혀 다릅니다",
         "price": 22000.0,
         "publishDate": "20240610",
@@ -5649,10 +5649,10 @@
         "sales": 342,
         "publisher": "리코멘드",
         "imageUrl": "img/9791198364296.jpg",
-        "sub_category_id": 105
+        "sub_category_id": 106
     },
     {
-        "id": 527,
+        "id": 528,
         "title": "비전공자도 이해할 수 있는 AI 지식(챗GPT 수록 개정판)",
         "price": 19800.0,
         "publishDate": "20230410",
@@ -5661,10 +5661,10 @@
         "sales": 623,
         "publisher": "반니",
         "imageUrl": "img/9791167960917.jpg",
-        "sub_category_id": 20
+        "sub_category_id": 21
     },
     {
-        "id": 528,
+        "id": 529,
         "title": "혼자 공부하는 컴퓨터 구조+운영체제",
         "price": 28000.0,
         "publishDate": "20220816",
@@ -5673,10 +5673,10 @@
         "sales": 338,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791162243091.jpg",
-        "sub_category_id": 105
+        "sub_category_id": 106
     },
     {
-        "id": 529,
+        "id": 530,
         "title": "AI 영상 제작",
         "price": 25000.0,
         "publishDate": "20240628",
@@ -5685,10 +5685,10 @@
         "sales": 992,
         "publisher": "길벗",
         "imageUrl": "img/9791140709502.jpg",
-        "sub_category_id": 105
+        "sub_category_id": 106
     },
     {
-        "id": 530,
+        "id": 531,
         "title": "나만의 GPTs 앱으로 생산성 10배 늘리기",
         "price": 20000.0,
         "publishDate": "20240603",
@@ -5697,10 +5697,10 @@
         "sales": 108,
         "publisher": "루비페이퍼",
         "imageUrl": "img/9791193083178.jpg",
-        "sub_category_id": 106
+        "sub_category_id": 107
     },
     {
-        "id": 531,
+        "id": 532,
         "title": "된다! 하루 만에 끝내는 챗GPT 활용법",
         "price": 17000.0,
         "publishDate": "20240129",
@@ -5709,10 +5709,10 @@
         "sales": 967,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163035459.jpg",
-        "sub_category_id": 106
+        "sub_category_id": 107
     },
     {
-        "id": 532,
+        "id": 533,
         "title": "Clean Code(클린 코드)",
         "price": 33000.0,
         "publishDate": "20131224",
@@ -5721,10 +5721,10 @@
         "sales": 35,
         "publisher": "인사이트",
         "imageUrl": "img/9788966260959.jpg",
-        "sub_category_id": 106
+        "sub_category_id": 107
     },
     {
-        "id": 533,
+        "id": 534,
         "title": "컴퓨터 밑바닥의 비밀",
         "price": 33000.0,
         "publishDate": "20240311",
@@ -5733,10 +5733,10 @@
         "sales": 99,
         "publisher": "길벗",
         "imageUrl": "img/9791140708819.jpg",
-        "sub_category_id": 105
+        "sub_category_id": 106
     },
     {
-        "id": 534,
+        "id": 535,
         "title": "비전공자를 위한 이해할 수 있는 IT 지식",
         "price": 16800.0,
         "publishDate": "20200714",
@@ -5745,10 +5745,10 @@
         "sales": 219,
         "publisher": "티더블유아이지",
         "imageUrl": "img/9791196918033.jpg",
-        "sub_category_id": 106
+        "sub_category_id": 107
     },
     {
-        "id": 535,
+        "id": 536,
         "title": "데스모스로 수학 수업 만들기",
         "price": 22000.0,
         "publishDate": "20240101",
@@ -5757,10 +5757,10 @@
         "sales": 502,
         "publisher": "지오북스",
         "imageUrl": "img/9791191346787.jpg",
-        "sub_category_id": 107
+        "sub_category_id": 108
     },
     {
-        "id": 536,
+        "id": 537,
         "title": "세컨드 브레인은 옵시디언",
         "price": 25000.0,
         "publishDate": "20240614",
@@ -5769,10 +5769,10 @@
         "sales": 534,
         "publisher": "골든래빗(주)",
         "imageUrl": "img/9791191905823.jpg",
-        "sub_category_id": 107
+        "sub_category_id": 108
     },
     {
-        "id": 537,
+        "id": 538,
         "title": "일잘러의 비밀, 구글 스프레드시트 제대로 파헤치기",
         "price": 28000.0,
         "publishDate": "20240603",
@@ -5781,10 +5781,10 @@
         "sales": 566,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212304.jpg",
-        "sub_category_id": 107
+        "sub_category_id": 108
     },
     {
-        "id": 538,
+        "id": 539,
         "title": "하이테크 에듀테크 미래교육 실전활용법",
         "price": 18800.0,
         "publishDate": "20240610",
@@ -5793,10 +5793,10 @@
         "sales": 232,
         "publisher": "앤써북",
         "imageUrl": "img/9791193059272.jpg",
-        "sub_category_id": 107
+        "sub_category_id": 108
     },
     {
-        "id": 540,
+        "id": 541,
         "title": "ADP 필기 데이터 분석 전문가 : 올패키지",
         "price": 53000.0,
         "publishDate": "20230421",
@@ -5805,10 +5805,10 @@
         "sales": 573,
         "publisher": "데이터에듀",
         "imageUrl": "img/9791197889516.jpg",
-        "sub_category_id": 108
+        "sub_category_id": 109
     },
     {
-        "id": 541,
+        "id": 542,
         "title": "개발자를 위한 필수 수학",
         "price": 30000.0,
         "publishDate": "20240603",
@@ -5817,10 +5817,10 @@
         "sales": 530,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212502.jpg",
-        "sub_category_id": 108
+        "sub_category_id": 109
     },
     {
-        "id": 542,
+        "id": 543,
         "title": "코딩 없이(Low code) 클릭으로 한 번에 빅데이터 분석하기",
         "price": 15000.0,
         "publishDate": "20230531",
@@ -5829,10 +5829,10 @@
         "sales": 328,
         "publisher": "ORP Press",
         "imageUrl": "img/9791195800865.jpg",
-        "sub_category_id": 108
+        "sub_category_id": 109
     },
     {
-        "id": 543,
+        "id": 544,
         "title": "만들면서 배우는 생성 AI",
         "price": 39000.0,
         "publishDate": "20230915",
@@ -5841,10 +5841,10 @@
         "sales": 550,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169211437.jpg",
-        "sub_category_id": 108
+        "sub_category_id": 109
     },
     {
-        "id": 545,
+        "id": 546,
         "title": "2024 이기적 리눅스마스터 1급 기본서",
         "price": 37000.0,
         "publishDate": "20240305",
@@ -5853,10 +5853,10 @@
         "sales": 117,
         "publisher": "영진닷컴",
         "imageUrl": "img/9788931468359.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     },
     {
-        "id": 546,
+        "id": 547,
         "title": "이것이 우분투 리눅스다",
         "price": 32000.0,
         "publishDate": "20201102",
@@ -5865,10 +5865,10 @@
         "sales": 814,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791162243589.jpg",
-        "sub_category_id": 109
+        "sub_category_id": 110
     },
     {
-        "id": 547,
+        "id": 548,
         "title": "이것이 Windows Server다",
         "price": 43000.0,
         "publishDate": "20230116",
@@ -5877,10 +5877,10 @@
         "sales": 619,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169210522.jpg",
-        "sub_category_id": 109
+        "sub_category_id": 110
     },
     {
-        "id": 548,
+        "id": 549,
         "title": "2024 이기적 리눅스마스터 2급 기본서",
         "price": 28000.0,
         "publishDate": "20240220",
@@ -5889,10 +5889,10 @@
         "sales": 984,
         "publisher": "영진닷컴",
         "imageUrl": "img/9788931468366.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     },
     {
-        "id": 549,
+        "id": 550,
         "title": "이것이 리눅스다",
         "price": 36000.0,
         "publishDate": "20230224",
@@ -5901,10 +5901,10 @@
         "sales": 265,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169210706.jpg",
-        "sub_category_id": 109
+        "sub_category_id": 110
     },
     {
-        "id": 550,
+        "id": 551,
         "title": "혼자 공부하는 네트워크",
         "price": 28000.0,
         "publishDate": "20240412",
@@ -5913,10 +5913,10 @@
         "sales": 232,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212144.jpg",
-        "sub_category_id": 110
+        "sub_category_id": 111
     },
     {
-        "id": 551,
+        "id": 552,
         "title": "컴퓨터 네트워킹 하향식 접근",
         "price": 39000.0,
         "publishDate": "20220701",
@@ -5925,10 +5925,10 @@
         "sales": 789,
         "publisher": "퍼스트북",
         "imageUrl": "img/9789813350212.jpg",
-        "sub_category_id": 110
+        "sub_category_id": 111
     },
     {
-        "id": 552,
+        "id": 553,
         "title": "그림으로 이해하는 서버 구조와 기술",
         "price": 22000.0,
         "publishDate": "20240618",
@@ -5937,10 +5937,10 @@
         "sales": 259,
         "publisher": "길벗",
         "imageUrl": "img/9791140713998.jpg",
-        "sub_category_id": 110
+        "sub_category_id": 111
     },
     {
-        "id": 553,
+        "id": 554,
         "title": "업무에 바로 쓰는 AWS 입문",
         "price": 27000.0,
         "publishDate": "20230110",
@@ -5949,10 +5949,10 @@
         "sales": 380,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169210652.jpg",
-        "sub_category_id": 119
+        "sub_category_id": 120
     },
     {
-        "id": 554,
+        "id": 555,
         "title": "모두의 네트워크 기초",
         "price": 24000.0,
         "publishDate": "20240131",
@@ -5961,10 +5961,10 @@
         "sales": 574,
         "publisher": "길벗",
         "imageUrl": "img/9791140707218.jpg",
-        "sub_category_id": 110
+        "sub_category_id": 111
     },
     {
-        "id": 555,
+        "id": 556,
         "title": "보이지 않는 위협",
         "price": 18800.0,
         "publishDate": "20230815",
@@ -5973,10 +5973,10 @@
         "sales": 693,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169211314.jpg",
-        "sub_category_id": 111
+        "sub_category_id": 112
     },
     {
-        "id": 556,
+        "id": 557,
         "title": "정보보안개론",
         "price": 30000.0,
         "publishDate": "20210630",
@@ -5985,10 +5985,10 @@
         "sales": 432,
         "publisher": "한빛아카데미",
         "imageUrl": "img/9791156645443.jpg",
-        "sub_category_id": 111
+        "sub_category_id": 112
     },
     {
-        "id": 557,
+        "id": 558,
         "title": "클라우드X보안 실무 가이드",
         "price": 28000.0,
         "publishDate": "20240328",
@@ -5997,10 +5997,10 @@
         "sales": 859,
         "publisher": "프리렉",
         "imageUrl": "img/9788965403845.jpg",
-        "sub_category_id": 111
+        "sub_category_id": 112
     },
     {
-        "id": 558,
+        "id": 559,
         "title": "스프링 시큐리티 인 액션",
         "price": 35000.0,
         "publishDate": "20220831",
@@ -6009,10 +6009,10 @@
         "sales": 115,
         "publisher": "위키북스",
         "imageUrl": "img/9791158393519.jpg",
-        "sub_category_id": 111
+        "sub_category_id": 112
     },
     {
-        "id": 559,
+        "id": 560,
         "title": "보안리더들의 업무 노하우",
         "price": 25000.0,
         "publishDate": "20240525",
@@ -6021,10 +6021,10 @@
         "sales": 662,
         "publisher": "다락원",
         "imageUrl": "img/9788927773856.jpg",
-        "sub_category_id": 111
+        "sub_category_id": 112
     },
     {
-        "id": 560,
+        "id": 561,
         "title": "2025 SQLD 모든 것",
         "price": 24000.0,
         "publishDate": "20240601",
@@ -6033,10 +6033,10 @@
         "sales": 479,
         "publisher": "아이리포",
         "imageUrl": "img/9791193747018.jpg",
-        "sub_category_id": 112
+        "sub_category_id": 113
     },
     {
-        "id": 561,
+        "id": 562,
         "title": "2024 SD에듀 유선배 SQL개발자(SQLD) 과외노트",
         "price": 24000.0,
         "publishDate": "20240205",
@@ -6045,10 +6045,10 @@
         "sales": 417,
         "publisher": "시대고시기획",
         "imageUrl": "img/9791138362573.jpg",
-        "sub_category_id": 112
+        "sub_category_id": 113
     },
     {
-        "id": 562,
+        "id": 563,
         "title": "통계 101×데이터 분석",
         "price": 22000.0,
         "publishDate": "20221031",
@@ -6057,10 +6057,10 @@
         "sales": 121,
         "publisher": "프리렉",
         "imageUrl": "img/9788965403388.jpg",
-        "sub_category_id": 21
+        "sub_category_id": 22
     },
     {
-        "id": 563,
+        "id": 564,
         "title": "친절한 SQL 튜닝",
         "price": 38000.0,
         "publishDate": "20180601",
@@ -6069,10 +6069,10 @@
         "sales": 451,
         "publisher": "디비안(주)(DBian)",
         "imageUrl": "img/9791196395704.jpg",
-        "sub_category_id": 112
+        "sub_category_id": 113
     },
     {
-        "id": 564,
+        "id": 565,
         "title": "Real MySQL 8.0 (1권)",
         "price": 30000.0,
         "publishDate": "20210908",
@@ -6081,10 +6081,10 @@
         "sales": 580,
         "publisher": "위키북스",
         "imageUrl": "img/9791158392703.jpg",
-        "sub_category_id": 112
+        "sub_category_id": 113
     },
     {
-        "id": 565,
+        "id": 566,
         "title": "그림과 실습으로 배우는 도커 & 쿠버네티스",
         "price": 28000.0,
         "publishDate": "20220405",
@@ -6093,10 +6093,10 @@
         "sales": 289,
         "publisher": "위키북스",
         "imageUrl": "img/9791158393038.jpg",
-        "sub_category_id": 113
+        "sub_category_id": 114
     },
     {
-        "id": 566,
+        "id": 567,
         "title": "제품의 탄생",
         "price": 25000.0,
         "publishDate": "20221208",
@@ -6105,10 +6105,10 @@
         "sales": 577,
         "publisher": "책만",
         "imageUrl": "img/9791189909499.jpg",
-        "sub_category_id": 113
+        "sub_category_id": 114
     },
     {
-        "id": 567,
+        "id": 568,
         "title": "코틀린 디자인 패턴",
         "price": 35000.0,
         "publishDate": "20230831",
@@ -6117,10 +6117,10 @@
         "sales": 64,
         "publisher": "에이콘출판",
         "imageUrl": "img/9791161757810.jpg",
-        "sub_category_id": 113
+        "sub_category_id": 114
     },
     {
-        "id": 568,
+        "id": 569,
         "title": "개발자 기술 면접 노트",
         "price": 22000.0,
         "publishDate": "20240325",
@@ -6129,10 +6129,10 @@
         "sales": 728,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212199.jpg",
-        "sub_category_id": 106
+        "sub_category_id": 107
     },
     {
-        "id": 569,
+        "id": 570,
         "title": "팀 개발을 위한 Git, GitHub 시작하기",
         "price": 20000.0,
         "publishDate": "20230512",
@@ -6141,10 +6141,10 @@
         "sales": 260,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169210607.jpg",
-        "sub_category_id": 113
+        "sub_category_id": 114
     },
     {
-        "id": 570,
+        "id": 571,
         "title": "언리얼 엔진 5로 만드는 나만의 3D 영화 세트",
         "price": 50000.0,
         "publishDate": "20230728",
@@ -6153,10 +6153,10 @@
         "sales": 715,
         "publisher": "에이콘출판",
         "imageUrl": "img/9791161757698.jpg",
-        "sub_category_id": 114
+        "sub_category_id": 115
     },
     {
-        "id": 571,
+        "id": 572,
         "title": "언리얼 엔진5로 배우는 오픈월드 레벨디자인",
         "price": 33000.0,
         "publishDate": "20240625",
@@ -6165,10 +6165,10 @@
         "sales": 579,
         "publisher": "비엘북스",
         "imageUrl": "img/9791186573730.jpg",
-        "sub_category_id": 114
+        "sub_category_id": 115
     },
     {
-        "id": 572,
+        "id": 573,
         "title": "게임 기획의 정석",
         "price": 30000.0,
         "publishDate": "20240430",
@@ -6177,10 +6177,10 @@
         "sales": 679,
         "publisher": "스타비즈",
         "imageUrl": "img/9791192820095.jpg",
-        "sub_category_id": 114
+        "sub_category_id": 115
     },
     {
-        "id": 573,
+        "id": 574,
         "title": "게임 시나리오 기획자를 위한 안내서",
         "price": 26000.0,
         "publishDate": "20240531",
@@ -6189,10 +6189,10 @@
         "sales": 530,
         "publisher": "에이콘출판",
         "imageUrl": "img/9791161758510.jpg",
-        "sub_category_id": 114
+        "sub_category_id": 115
     },
     {
-        "id": 574,
+        "id": 575,
         "title": "레트로의 유니티 게임 프로그래밍 에센스",
         "price": 60000.0,
         "publishDate": "20220201",
@@ -6201,10 +6201,10 @@
         "sales": 289,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791162245149.jpg",
-        "sub_category_id": 114
+        "sub_category_id": 115
     },
     {
-        "id": 575,
+        "id": 576,
         "title": "모던 리액트 Deep Dive",
         "price": 48000.0,
         "publishDate": "20231107",
@@ -6213,10 +6213,10 @@
         "sales": 499,
         "publisher": "위키북스",
         "imageUrl": "img/9791158394646.jpg",
-        "sub_category_id": 115
+        "sub_category_id": 116
     },
     {
-        "id": 576,
+        "id": 577,
         "title": "완성된 웹사이트로 배우는 자바스크립트",
         "price": 27000.0,
         "publishDate": "20240403",
@@ -6225,10 +6225,10 @@
         "sales": 649,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212205.jpg",
-        "sub_category_id": 115
+        "sub_category_id": 116
     },
     {
-        "id": 577,
+        "id": 578,
         "title": "Do it! HTML+CSS+자바스크립트 웹 표준의 정석",
         "price": 30000.0,
         "publishDate": "20210122",
@@ -6237,10 +6237,10 @@
         "sales": 873,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163032212.jpg",
-        "sub_category_id": 115
+        "sub_category_id": 116
     },
     {
-        "id": 578,
+        "id": 579,
         "title": "코딩 자율학습 HTML + CSS + 자바스크립트",
         "price": 27000.0,
         "publishDate": "20220425",
@@ -6249,10 +6249,10 @@
         "sales": 175,
         "publisher": "길벗",
         "imageUrl": "img/9791165219468.jpg",
-        "sub_category_id": 115
+        "sub_category_id": 116
     },
     {
-        "id": 579,
+        "id": 580,
         "title": "모던 자바스크립트 Deep Dive",
         "price": 45000.0,
         "publishDate": "20200925",
@@ -6261,10 +6261,10 @@
         "sales": 347,
         "publisher": "위키북스",
         "imageUrl": "img/9791158392239.jpg",
-        "sub_category_id": 115
+        "sub_category_id": 116
     },
     {
-        "id": 580,
+        "id": 581,
         "title": "Do it! 점프 투 파이썬",
         "price": 22000.0,
         "publishDate": "20230615",
@@ -6273,10 +6273,10 @@
         "sales": 594,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163034735.jpg",
-        "sub_category_id": 116
+        "sub_category_id": 117
     },
     {
-        "id": 581,
+        "id": 582,
         "title": "면접을 위한 CS 전공지식 노트",
         "price": 24000.0,
         "publishDate": "20220428",
@@ -6285,10 +6285,10 @@
         "sales": 58,
         "publisher": "길벗",
         "imageUrl": "img/9791165219529.jpg",
-        "sub_category_id": 116
+        "sub_category_id": 117
     },
     {
-        "id": 582,
+        "id": 583,
         "title": "파이썬 머신러닝 완벽 가이드",
         "price": 40000.0,
         "publishDate": "20220421",
@@ -6297,10 +6297,10 @@
         "sales": 293,
         "publisher": "위키북스",
         "imageUrl": "img/9791158393229.jpg",
-        "sub_category_id": 116
+        "sub_category_id": 117
     },
     {
-        "id": 583,
+        "id": 584,
         "title": "혼자 공부하는 파이썬",
         "price": 22000.0,
         "publishDate": "20220601",
@@ -6309,10 +6309,10 @@
         "sales": 13,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791162245651.jpg",
-        "sub_category_id": 116
+        "sub_category_id": 117
     },
     {
-        "id": 584,
+        "id": 585,
         "title": "코딩 없이(Low code) 클릭으로 한 번에 빅데이터 분석하기",
         "price": 15000.0,
         "publishDate": "20230531",
@@ -6321,10 +6321,10 @@
         "sales": 290,
         "publisher": "ORP Press",
         "imageUrl": "img/9791195800865.jpg",
-        "sub_category_id": 108
+        "sub_category_id": 109
     },
     {
-        "id": 586,
+        "id": 587,
         "title": "Do it! 플러터 앱 개발&출시하기",
         "price": 33000.0,
         "publishDate": "20240628",
@@ -6333,10 +6333,10 @@
         "sales": 478,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163036135.jpg",
-        "sub_category_id": 117
+        "sub_category_id": 118
     },
     {
-        "id": 587,
+        "id": 588,
         "title": "Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린",
         "price": 40000.0,
         "publishDate": "20240530",
@@ -6345,10 +6345,10 @@
         "sales": 431,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163036012.jpg",
-        "sub_category_id": 117
+        "sub_category_id": 118
     },
     {
-        "id": 588,
+        "id": 589,
         "title": "Must Have 코드팩토리의 플러터 프로그래밍",
         "price": 44000.0,
         "publishDate": "20240201",
@@ -6357,10 +6357,10 @@
         "sales": 690,
         "publisher": "골든래빗(주)",
         "imageUrl": "img/9791191905618.jpg",
-        "sub_category_id": 117
+        "sub_category_id": 118
     },
     {
-        "id": 589,
+        "id": 590,
         "title": "Kotlin in Action",
         "price": 36000.0,
         "publishDate": "20171031",
@@ -6369,10 +6369,10 @@
         "sales": 222,
         "publisher": "에이콘출판",
         "imageUrl": "img/9791161750712.jpg",
-        "sub_category_id": 117
+        "sub_category_id": 118
     },
     {
-        "id": 590,
+        "id": 591,
         "title": "회사는 엑셀을 가르쳐주지 않아요",
         "price": 18000.0,
         "publishDate": "20220920",
@@ -6381,10 +6381,10 @@
         "sales": 41,
         "publisher": "메가스터디북스",
         "imageUrl": "img/9791129708328.jpg",
-        "sub_category_id": 118
+        "sub_category_id": 119
     },
     {
-        "id": 591,
+        "id": 592,
         "title": "진짜 쓰는 실무 엑셀",
         "price": 21000.0,
         "publishDate": "20220215",
@@ -6393,10 +6393,10 @@
         "sales": 491,
         "publisher": "제이펍",
         "imageUrl": "img/9791191600704.jpg",
-        "sub_category_id": 118
+        "sub_category_id": 119
     },
     {
-        "id": 592,
+        "id": 593,
         "title": "엑셀마왕의 엑셀 이럴 땐, 이렇게!",
         "price": 20000.0,
         "publishDate": "20240320",
@@ -6405,10 +6405,10 @@
         "sales": 295,
         "publisher": "길벗",
         "imageUrl": "img/9791140708895.jpg",
-        "sub_category_id": 118
+        "sub_category_id": 119
     },
     {
-        "id": 593,
+        "id": 594,
         "title": "보고 혁명: 현직 팀장들이 검증하는 실무 보고서 작성법",
         "price": 18000.0,
         "publishDate": "20240614",
@@ -6417,10 +6417,10 @@
         "sales": 22,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212236.jpg",
-        "sub_category_id": 118
+        "sub_category_id": 119
     },
     {
-        "id": 594,
+        "id": 595,
         "title": "된다! 실무 엑셀 파워포인트 워드&한글",
         "price": 30000.0,
         "publishDate": "20221012",
@@ -6429,10 +6429,10 @@
         "sales": 23,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163034094.jpg",
-        "sub_category_id": 118
+        "sub_category_id": 119
     },
     {
-        "id": 595,
+        "id": 596,
         "title": "제품의 탄생",
         "price": 25000.0,
         "publishDate": "20221208",
@@ -6441,10 +6441,10 @@
         "sales": 122,
         "publisher": "책만",
         "imageUrl": "img/9791189909499.jpg",
-        "sub_category_id": 113
+        "sub_category_id": 114
     },
     {
-        "id": 596,
+        "id": 597,
         "title": "네이버 스마트스토어 시작하기",
         "price": 19800.0,
         "publishDate": "20240430",
@@ -6453,10 +6453,10 @@
         "sales": 149,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212434.jpg",
-        "sub_category_id": 119
+        "sub_category_id": 120
     },
     {
-        "id": 597,
+        "id": 598,
         "title": "업무에 바로 쓰는 AWS 입문",
         "price": 27000.0,
         "publishDate": "20230110",
@@ -6465,10 +6465,10 @@
         "sales": 547,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169210652.jpg",
-        "sub_category_id": 119
+        "sub_category_id": 120
     },
     {
-        "id": 598,
+        "id": 599,
         "title": "퇴근 후 스마트스토어로 투잡하기",
         "price": 29500.0,
         "publishDate": "20231020",
@@ -6477,10 +6477,10 @@
         "sales": 906,
         "publisher": "비제이퍼블릭",
         "imageUrl": "img/9791165922467.jpg",
-        "sub_category_id": 119
+        "sub_category_id": 120
     },
     {
-        "id": 600,
+        "id": 601,
         "title": "혼자 해도 프로처럼 잘 만드는 굿즈 제작 비법",
         "price": 22000.0,
         "publishDate": "20240624",
@@ -6489,10 +6489,10 @@
         "sales": 214,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212441.jpg",
-        "sub_category_id": 120
+        "sub_category_id": 121
     },
     {
-        "id": 601,
+        "id": 602,
         "title": "진짜 쓰는 프리미어 프로 영상 편집",
         "price": 24000.0,
         "publishDate": "20230703",
@@ -6501,10 +6501,10 @@
         "sales": 346,
         "publisher": "제이펍",
         "imageUrl": "img/9791192987170.jpg",
-        "sub_category_id": 121
+        "sub_category_id": 122
     },
     {
-        "id": 602,
+        "id": 603,
         "title": "맛있는 디자인 포토샵&일러스트레이터 CC 2024",
         "price": 26000.0,
         "publishDate": "20240131",
@@ -6513,10 +6513,10 @@
         "sales": 992,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169211987.jpg",
-        "sub_category_id": 120
+        "sub_category_id": 121
     },
     {
-        "id": 603,
+        "id": 604,
         "title": "누구나 쉽게 캔바 Canva로 끝내는 콘텐츠 디자인",
         "price": 20000.0,
         "publishDate": "20240306",
@@ -6525,10 +6525,10 @@
         "sales": 668,
         "publisher": "제이펍",
         "imageUrl": "img/9791192987903.jpg",
-        "sub_category_id": 120
+        "sub_category_id": 121
     },
     {
-        "id": 604,
+        "id": 605,
         "title": "Do it! 스케치업 with 엔스케이프",
         "price": 23000.0,
         "publishDate": "20240617",
@@ -6537,10 +6537,10 @@
         "sales": 838,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163036043.jpg",
-        "sub_category_id": 120
+        "sub_category_id": 121
     },
     {
-        "id": 605,
+        "id": 606,
         "title": "진짜 쓰는 프리미어 프로 영상 편집",
         "price": 24000.0,
         "publishDate": "20230703",
@@ -6549,10 +6549,10 @@
         "sales": 514,
         "publisher": "제이펍",
         "imageUrl": "img/9791192987170.jpg",
-        "sub_category_id": 121
+        "sub_category_id": 122
     },
     {
-        "id": 606,
+        "id": 607,
         "title": "맛있는 디자인 프리미어 프로 CC 2024",
         "price": 27000.0,
         "publishDate": "20240322",
@@ -6561,10 +6561,10 @@
         "sales": 780,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169212212.jpg",
-        "sub_category_id": 121
+        "sub_category_id": 122
     },
     {
-        "id": 607,
+        "id": 608,
         "title": "혼자 해도 프로 작가처럼 잘 그리는 아이패드 드로잉 with 프로크리에이트",
         "price": 22000.0,
         "publishDate": "20220627",
@@ -6573,10 +6573,10 @@
         "sales": 265,
         "publisher": "한빛미디어",
         "imageUrl": "img/9791169210003.jpg",
-        "sub_category_id": 121
+        "sub_category_id": 122
     },
     {
-        "id": 608,
+        "id": 609,
         "title": "아이패드 Re:드로잉 with 프로크리에이트",
         "price": 23000.0,
         "publishDate": "20240615",
@@ -6585,10 +6585,10 @@
         "sales": 849,
         "publisher": "앤제이BOOKS",
         "imageUrl": "img/9791190279208.jpg",
-        "sub_category_id": 121
+        "sub_category_id": 122
     },
     {
-        "id": 609,
+        "id": 610,
         "title": "된다! 김메주의 유튜브 채널&영상 만들기",
         "price": 19000.0,
         "publishDate": "20240422",
@@ -6597,10 +6597,10 @@
         "sales": 980,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163035756.jpg",
-        "sub_category_id": 121
+        "sub_category_id": 122
     },
     {
-        "id": 610,
+        "id": 611,
         "title": "Do it! 오토캐드 2025",
         "price": 28000.0,
         "publishDate": "20240617",
@@ -6609,10 +6609,10 @@
         "sales": 666,
         "publisher": "이지스퍼블리싱",
         "imageUrl": "img/9791163036050.jpg",
-        "sub_category_id": 122
+        "sub_category_id": 123
     },
     {
-        "id": 615,
+        "id": 616,
         "title": "2024 이지패스 ADsP 데이터분석 준전문가",
         "price": 28000.0,
         "publishDate": "20240112",
@@ -6621,10 +6621,10 @@
         "sales": 801,
         "publisher": "위키북스",
         "imageUrl": "img/9791158394837.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     },
     {
-        "id": 616,
+        "id": 617,
         "title": "ADsP 데이터 분석 준전문가(2024)",
         "price": 31000.0,
         "publishDate": "20231229",
@@ -6633,10 +6633,10 @@
         "sales": 261,
         "publisher": "데이터에듀",
         "imageUrl": "img/9791193672006.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     },
     {
-        "id": 617,
+        "id": 618,
         "title": "2024 이기적 컴퓨터활용능력 2급 필기 기본서",
         "price": 21000.0,
         "publishDate": "20230908",
@@ -6645,10 +6645,10 @@
         "sales": 900,
         "publisher": "영진닷컴",
         "imageUrl": "img/9788931468182.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     },
     {
-        "id": 618,
+        "id": 619,
         "title": "SQL 자격검정 실전문제",
         "price": 18000.0,
         "publishDate": "20231229",
@@ -6657,10 +6657,10 @@
         "sales": 780,
         "publisher": "한국데이터산업진흥원",
         "imageUrl": "img/9788988474914.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     },
     {
-        "id": 619,
+        "id": 620,
         "title": "2024 수제비 정보처리기사 실기 세트",
         "price": 40000.0,
         "publishDate": "20240315",
@@ -6669,6 +6669,6 @@
         "sales": 181,
         "publisher": "건기원",
         "imageUrl": "img/9791157678181.jpg",
-        "sub_category_id": 123
+        "sub_category_id": 124
     }
 ]

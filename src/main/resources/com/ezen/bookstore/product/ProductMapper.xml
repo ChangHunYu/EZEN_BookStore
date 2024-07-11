@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ezen.bookstore.product.ProductMapper">
+    <insert id="insertProduct" parameterType="com.ezen.bookstore.uitls.ProductJsonDTO">
+        INSERT INTO product (id, title, price, publish_date, author, contents_info, sales, publisher, image_url, sub_category_id)
+        VALUES (#{id}, #{title}, #{price}, #{publishDate}, #{author}, #{contentsInfo}, #{sales}, #{publisher}, #{imageUrl}, #{sub_category_id})
+    </insert>
+</mapper>

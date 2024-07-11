@@ -1,746 +1,746 @@
 [
     {
-        "id": 0,
+        "id": 1,
         "saleCmdtClstCode": "0101",
         "name": "한국소설",
-        "maincategoryId": 0
-    },
-    {
-        "id": 1,
-        "saleCmdtClstCode": "0103",
-        "name": "영미소설",
-        "maincategoryId": 0
+        "main_category_id": 1
     },
     {
         "id": 2,
-        "saleCmdtClstCode": "0105",
-        "name": "일본소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0103",
+        "name": "영미소설",
+        "main_category_id": 1
     },
     {
         "id": 3,
-        "saleCmdtClstCode": "0107",
-        "name": "중국소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0105",
+        "name": "일본소설",
+        "main_category_id": 1
     },
     {
         "id": 4,
-        "saleCmdtClstCode": "0109",
-        "name": "러시아소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0107",
+        "name": "중국소설",
+        "main_category_id": 1
     },
     {
         "id": 5,
-        "saleCmdtClstCode": "0111",
-        "name": "프랑스소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0109",
+        "name": "러시아소설",
+        "main_category_id": 1
     },
     {
         "id": 6,
-        "saleCmdtClstCode": "0112",
-        "name": "독일소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0111",
+        "name": "프랑스소설",
+        "main_category_id": 1
     },
     {
         "id": 7,
-        "saleCmdtClstCode": "0115",
-        "name": "북유럽소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0112",
+        "name": "독일소설",
+        "main_category_id": 1
     },
     {
         "id": 8,
-        "saleCmdtClstCode": "0116",
-        "name": "그외유럽소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0115",
+        "name": "북유럽소설",
+        "main_category_id": 1
     },
     {
         "id": 9,
-        "saleCmdtClstCode": "0117",
-        "name": "기타나라소설",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0116",
+        "name": "그외유럽소설",
+        "main_category_id": 1
     },
     {
         "id": 10,
-        "saleCmdtClstCode": "0121",
-        "name": "고전소설/문학선",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0117",
+        "name": "기타나라소설",
+        "main_category_id": 1
     },
     {
         "id": 11,
-        "saleCmdtClstCode": "0124",
-        "name": "세계문학전집",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0121",
+        "name": "고전소설/문학선",
+        "main_category_id": 1
     },
     {
         "id": 12,
-        "saleCmdtClstCode": "0126",
-        "name": "라이트노벨",
-        "maincategoryId": 0
+        "saleCmdtClstCode": "0124",
+        "name": "세계문학전집",
+        "main_category_id": 1
     },
     {
         "id": 13,
-        "saleCmdtClstCode": "3201",
-        "name": "국내여행",
-        "maincategoryId": 1
+        "saleCmdtClstCode": "0126",
+        "name": "라이트노벨",
+        "main_category_id": 1
     },
     {
         "id": 14,
-        "saleCmdtClstCode": "3203",
-        "name": "해외여행",
-        "maincategoryId": 1
+        "saleCmdtClstCode": "3201",
+        "name": "국내여행",
+        "main_category_id": 2
     },
     {
         "id": 15,
-        "saleCmdtClstCode": "3204",
-        "name": "여행에세이",
-        "maincategoryId": 1
+        "saleCmdtClstCode": "3203",
+        "name": "해외여행",
+        "main_category_id": 2
     },
     {
         "id": 16,
-        "saleCmdtClstCode": "3205",
-        "name": "테마여행",
-        "maincategoryId": 1
+        "saleCmdtClstCode": "3204",
+        "name": "여행에세이",
+        "main_category_id": 2
     },
     {
         "id": 17,
-        "saleCmdtClstCode": "3206",
-        "name": "인기지역",
-        "maincategoryId": 1
+        "saleCmdtClstCode": "3205",
+        "name": "테마여행",
+        "main_category_id": 2
     },
     {
         "id": 18,
-        "saleCmdtClstCode": "2901",
-        "name": "과학이론",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "3206",
+        "name": "인기지역",
+        "main_category_id": 2
     },
     {
         "id": 19,
-        "saleCmdtClstCode": "2903",
-        "name": "도감",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2901",
+        "name": "과학이론",
+        "main_category_id": 3
     },
     {
         "id": 20,
-        "saleCmdtClstCode": "2905",
-        "name": "교양과학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2903",
+        "name": "도감",
+        "main_category_id": 3
     },
     {
         "id": 21,
-        "saleCmdtClstCode": "2907",
-        "name": "수학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2905",
+        "name": "교양과학",
+        "main_category_id": 3
     },
     {
         "id": 22,
-        "saleCmdtClstCode": "2909",
-        "name": "물리학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2907",
+        "name": "수학",
+        "main_category_id": 3
     },
     {
         "id": 23,
-        "saleCmdtClstCode": "2911",
-        "name": "화학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2909",
+        "name": "물리학",
+        "main_category_id": 3
     },
     {
         "id": 24,
-        "saleCmdtClstCode": "2913",
-        "name": "생물학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2911",
+        "name": "화학",
+        "main_category_id": 3
     },
     {
         "id": 25,
-        "saleCmdtClstCode": "2915",
-        "name": "지구과학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2913",
+        "name": "생물학",
+        "main_category_id": 3
     },
     {
         "id": 26,
-        "saleCmdtClstCode": "2917",
-        "name": "천문학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2915",
+        "name": "지구과학",
+        "main_category_id": 3
     },
     {
         "id": 27,
-        "saleCmdtClstCode": "2918",
-        "name": "청소년 교양과학",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2917",
+        "name": "천문학",
+        "main_category_id": 3
     },
     {
         "id": 28,
-        "saleCmdtClstCode": "2919",
-        "name": "과학문고",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2918",
+        "name": "청소년 교양과학",
+        "main_category_id": 3
     },
     {
         "id": 29,
-        "saleCmdtClstCode": "2921",
-        "name": "대학교재",
-        "maincategoryId": 2
+        "saleCmdtClstCode": "2919",
+        "name": "과학문고",
+        "main_category_id": 3
     },
     {
         "id": 30,
-        "saleCmdtClstCode": "1101",
-        "name": "가정원예",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "2921",
+        "name": "대학교재",
+        "main_category_id": 3
     },
     {
         "id": 31,
-        "saleCmdtClstCode": "1102",
-        "name": "홈인테리어/수납",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1101",
+        "name": "가정원예",
+        "main_category_id": 4
     },
     {
         "id": 32,
-        "saleCmdtClstCode": "1103",
-        "name": "생활공예/DIY",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1102",
+        "name": "홈인테리어/수납",
+        "main_category_id": 4
     },
     {
         "id": 33,
-        "saleCmdtClstCode": "1104",
-        "name": "살림의지혜",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1103",
+        "name": "생활공예/DIY",
+        "main_category_id": 4
     },
     {
         "id": 34,
-        "saleCmdtClstCode": "1105",
-        "name": "반려동물",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1104",
+        "name": "살림의지혜",
+        "main_category_id": 4
     },
     {
         "id": 35,
-        "saleCmdtClstCode": "1107",
-        "name": "등산/낚시",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1105",
+        "name": "반려동물",
+        "main_category_id": 4
     },
     {
         "id": 36,
-        "saleCmdtClstCode": "1109",
-        "name": "바둑/골프",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1107",
+        "name": "등산/낚시",
+        "main_category_id": 4
     },
     {
         "id": 37,
-        "saleCmdtClstCode": "1113",
-        "name": "무술",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1109",
+        "name": "바둑/골프",
+        "main_category_id": 4
     },
     {
         "id": 38,
-        "saleCmdtClstCode": "1115",
-        "name": "스포츠",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1113",
+        "name": "무술",
+        "main_category_id": 4
     },
     {
         "id": 39,
-        "saleCmdtClstCode": "1117",
-        "name": "레크레이션/게임",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1115",
+        "name": "스포츠",
+        "main_category_id": 4
     },
     {
         "id": 40,
-        "saleCmdtClstCode": "1118",
-        "name": "퀴즈/퍼즐/스도쿠",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1117",
+        "name": "레크레이션/게임",
+        "main_category_id": 4
     },
     {
         "id": 41,
-        "saleCmdtClstCode": "1119",
-        "name": "무용",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1118",
+        "name": "퀴즈/퍼즐/스도쿠",
+        "main_category_id": 4
     },
     {
         "id": 42,
-        "saleCmdtClstCode": "1121",
-        "name": "체육",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1119",
+        "name": "무용",
+        "main_category_id": 4
     },
     {
         "id": 43,
-        "saleCmdtClstCode": "1124",
-        "name": "취미일반",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1121",
+        "name": "체육",
+        "main_category_id": 4
     },
     {
         "id": 44,
-        "saleCmdtClstCode": "1125",
-        "name": "취미관련상품",
-        "maincategoryId": 3
+        "saleCmdtClstCode": "1124",
+        "name": "취미일반",
+        "main_category_id": 4
     },
     {
         "id": 45,
-        "saleCmdtClstCode": "1901",
-        "name": "역사일반",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1125",
+        "name": "취미관련상품",
+        "main_category_id": 4
     },
     {
         "id": 46,
-        "saleCmdtClstCode": "1903",
-        "name": "세계사",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1901",
+        "name": "역사일반",
+        "main_category_id": 5
     },
     {
         "id": 47,
-        "saleCmdtClstCode": "1905",
-        "name": "서양사",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1903",
+        "name": "세계사",
+        "main_category_id": 5
     },
     {
         "id": 48,
-        "saleCmdtClstCode": "1907",
-        "name": "동양사",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1905",
+        "name": "서양사",
+        "main_category_id": 5
     },
     {
         "id": 49,
-        "saleCmdtClstCode": "1909",
-        "name": "한국사",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1907",
+        "name": "동양사",
+        "main_category_id": 5
     },
     {
         "id": 50,
-        "saleCmdtClstCode": "1911",
-        "name": "신화",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1909",
+        "name": "한국사",
+        "main_category_id": 5
     },
     {
         "id": 51,
-        "saleCmdtClstCode": "1912",
-        "name": "민속학",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1911",
+        "name": "신화",
+        "main_category_id": 5
     },
     {
         "id": 52,
-        "saleCmdtClstCode": "1913",
-        "name": "문화일반",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1912",
+        "name": "민속학",
+        "main_category_id": 5
     },
     {
         "id": 53,
-        "saleCmdtClstCode": "1915",
-        "name": "문화사",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1913",
+        "name": "문화일반",
+        "main_category_id": 5
     },
     {
         "id": 54,
-        "saleCmdtClstCode": "1917",
-        "name": "역사인물",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1915",
+        "name": "문화사",
+        "main_category_id": 5
     },
     {
         "id": 55,
-        "saleCmdtClstCode": "1918",
-        "name": "역사기행",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1917",
+        "name": "역사인물",
+        "main_category_id": 5
     },
     {
         "id": 56,
-        "saleCmdtClstCode": "1919",
-        "name": "청소년 역사",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1918",
+        "name": "역사기행",
+        "main_category_id": 5
     },
     {
         "id": 57,
-        "saleCmdtClstCode": "1920",
-        "name": "지리학",
-        "maincategoryId": 4
+        "saleCmdtClstCode": "1919",
+        "name": "청소년 역사",
+        "main_category_id": 5
     },
     {
         "id": 58,
-        "saleCmdtClstCode": "0901",
-        "name": "건강일반",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "1920",
+        "name": "지리학",
+        "main_category_id": 5
     },
     {
         "id": 59,
-        "saleCmdtClstCode": "0903",
-        "name": "뇌건강",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0901",
+        "name": "건강일반",
+        "main_category_id": 6
     },
     {
         "id": 60,
-        "saleCmdtClstCode": "0905",
-        "name": "한방치료",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0903",
+        "name": "뇌건강",
+        "main_category_id": 6
     },
     {
         "id": 61,
-        "saleCmdtClstCode": "0907",
-        "name": "자연건강",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0905",
+        "name": "한방치료",
+        "main_category_id": 6
     },
     {
         "id": 62,
-        "saleCmdtClstCode": "0908",
-        "name": "건강식사",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0907",
+        "name": "자연건강",
+        "main_category_id": 6
     },
     {
         "id": 63,
-        "saleCmdtClstCode": "0909",
-        "name": "질병치료/예방",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0908",
+        "name": "건강식사",
+        "main_category_id": 6
     },
     {
         "id": 64,
-        "saleCmdtClstCode": "0911",
-        "name": "다이어트",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0909",
+        "name": "질병치료/예방",
+        "main_category_id": 6
     },
     {
         "id": 65,
-        "saleCmdtClstCode": "0913",
-        "name": "운동/트레이닝",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0911",
+        "name": "다이어트",
+        "main_category_id": 6
     },
     {
         "id": 66,
-        "saleCmdtClstCode": "0915",
-        "name": "피부관리/메이크업",
-        "maincategoryId": 5
+        "saleCmdtClstCode": "0913",
+        "name": "운동/트레이닝",
+        "main_category_id": 6
     },
     {
         "id": 67,
-        "saleCmdtClstCode": "3801",
-        "name": "청소년 논술",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "0915",
+        "name": "피부관리/메이크업",
+        "main_category_id": 6
     },
     {
         "id": 68,
-        "saleCmdtClstCode": "3802",
-        "name": "청소년 공부/학습법",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3801",
+        "name": "청소년 논술",
+        "main_category_id": 7
     },
     {
         "id": 69,
-        "saleCmdtClstCode": "3803",
-        "name": "청소년 진로/직업",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3802",
+        "name": "청소년 공부/학습법",
+        "main_category_id": 7
     },
     {
         "id": 70,
-        "saleCmdtClstCode": "3804",
-        "name": "청소년 유학/진학",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3803",
+        "name": "청소년 진로/직업",
+        "main_category_id": 7
     },
     {
         "id": 71,
-        "saleCmdtClstCode": "3805",
-        "name": "청소년 건강/성교육",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3804",
+        "name": "청소년 유학/진학",
+        "main_category_id": 7
     },
     {
         "id": 72,
-        "saleCmdtClstCode": "3809",
-        "name": "청소년 자기계발",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3805",
+        "name": "청소년 건강/성교육",
+        "main_category_id": 7
     },
     {
         "id": 73,
-        "saleCmdtClstCode": "3811",
-        "name": "청소년 에세이",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3809",
+        "name": "청소년 자기계발",
+        "main_category_id": 7
     },
     {
         "id": 74,
-        "saleCmdtClstCode": "3813",
-        "name": "청소년 소설",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3811",
+        "name": "청소년 에세이",
+        "main_category_id": 7
     },
     {
         "id": 75,
-        "saleCmdtClstCode": "3815",
-        "name": "청소년 시",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3813",
+        "name": "청소년 소설",
+        "main_category_id": 7
     },
     {
         "id": 76,
-        "saleCmdtClstCode": "3817",
-        "name": "청소년 고전",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3815",
+        "name": "청소년 시",
+        "main_category_id": 7
     },
     {
         "id": 77,
-        "saleCmdtClstCode": "3821",
-        "name": "청소년 철학/심리",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3817",
+        "name": "청소년 고전",
+        "main_category_id": 7
     },
     {
         "id": 78,
-        "saleCmdtClstCode": "3823",
-        "name": "청소년 역사",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3821",
+        "name": "청소년 철학/심리",
+        "main_category_id": 7
     },
     {
         "id": 79,
-        "saleCmdtClstCode": "3825",
-        "name": "청소년 예술/문화",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3823",
+        "name": "청소년 역사",
+        "main_category_id": 7
     },
     {
         "id": 80,
-        "saleCmdtClstCode": "3827",
-        "name": "청소년 인문교양",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3825",
+        "name": "청소년 예술/문화",
+        "main_category_id": 7
     },
     {
         "id": 81,
-        "saleCmdtClstCode": "3829",
-        "name": "청소년 경제",
-        "maincategoryId": 6
+        "saleCmdtClstCode": "3827",
+        "name": "청소년 인문교양",
+        "main_category_id": 7
     },
     {
         "id": 82,
-        "saleCmdtClstCode": "4701",
-        "name": "교양만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "3829",
+        "name": "청소년 경제",
+        "main_category_id": 7
     },
     {
         "id": 83,
-        "saleCmdtClstCode": "4702",
-        "name": "역사만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4701",
+        "name": "교양만화",
+        "main_category_id": 8
     },
     {
         "id": 84,
-        "saleCmdtClstCode": "4703",
-        "name": "직업만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4702",
+        "name": "역사만화",
+        "main_category_id": 8
     },
     {
         "id": 85,
-        "saleCmdtClstCode": "4704",
-        "name": "일상생활/드라마/가족만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4703",
+        "name": "직업만화",
+        "main_category_id": 8
     },
     {
         "id": 86,
-        "saleCmdtClstCode": "4705",
-        "name": "동물등장만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4704",
+        "name": "일상생활/드라마/가족만화",
+        "main_category_id": 8
     },
     {
         "id": 87,
-        "saleCmdtClstCode": "4706",
-        "name": "요리만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4705",
+        "name": "동물등장만화",
+        "main_category_id": 8
     },
     {
         "id": 88,
-        "saleCmdtClstCode": "4707",
-        "name": "도박만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4706",
+        "name": "요리만화",
+        "main_category_id": 8
     },
     {
         "id": 89,
-        "saleCmdtClstCode": "4708",
-        "name": "고전/문학작품만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4707",
+        "name": "도박만화",
+        "main_category_id": 8
     },
     {
         "id": 90,
-        "saleCmdtClstCode": "4711",
-        "name": "성인만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4708",
+        "name": "고전/문학작품만화",
+        "main_category_id": 8
     },
     {
         "id": 91,
-        "saleCmdtClstCode": "4712",
-        "name": "BL만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4711",
+        "name": "성인만화",
+        "main_category_id": 8
     },
     {
         "id": 92,
-        "saleCmdtClstCode": "4713",
-        "name": "로맨스만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4712",
+        "name": "BL만화",
+        "main_category_id": 8
     },
     {
         "id": 93,
-        "saleCmdtClstCode": "4715",
-        "name": "스포츠만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4713",
+        "name": "로맨스만화",
+        "main_category_id": 8
     },
     {
         "id": 94,
-        "saleCmdtClstCode": "4717",
-        "name": "SF/판타지",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4715",
+        "name": "스포츠만화",
+        "main_category_id": 8
     },
     {
         "id": 95,
-        "saleCmdtClstCode": "4718",
-        "name": "액션/무협만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4717",
+        "name": "SF/판타지",
+        "main_category_id": 8
     },
     {
         "id": 96,
-        "saleCmdtClstCode": "4719",
-        "name": "명랑/코믹만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4718",
+        "name": "액션/무협만화",
+        "main_category_id": 8
     },
     {
         "id": 97,
-        "saleCmdtClstCode": "4720",
-        "name": "탐정/추리",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4719",
+        "name": "명랑/코믹만화",
+        "main_category_id": 8
     },
     {
         "id": 98,
-        "saleCmdtClstCode": "4721",
-        "name": "공포/스릴러",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4720",
+        "name": "탐정/추리",
+        "main_category_id": 8
     },
     {
         "id": 99,
-        "saleCmdtClstCode": "4722",
-        "name": "학원만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4721",
+        "name": "공포/스릴러",
+        "main_category_id": 8
     },
     {
         "id": 100,
-        "saleCmdtClstCode": "4723",
-        "name": "기타만화",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4722",
+        "name": "학원만화",
+        "main_category_id": 8
     },
     {
         "id": 101,
-        "saleCmdtClstCode": "4724",
-        "name": "웹툰/카툰에세이",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4723",
+        "name": "기타만화",
+        "main_category_id": 8
     },
     {
         "id": 102,
-        "saleCmdtClstCode": "4726",
-        "name": "그래픽노블",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4724",
+        "name": "웹툰/카툰에세이",
+        "main_category_id": 8
     },
     {
         "id": 103,
-        "saleCmdtClstCode": "4728",
-        "name": "캐릭터상품",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4726",
+        "name": "그래픽노블",
+        "main_category_id": 8
     },
     {
         "id": 104,
-        "saleCmdtClstCode": "4730",
-        "name": "일러스트/작법",
-        "maincategoryId": 7
+        "saleCmdtClstCode": "4728",
+        "name": "캐릭터상품",
+        "main_category_id": 8
     },
     {
         "id": 105,
-        "saleCmdtClstCode": "3301",
-        "name": "컴퓨터공학",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "4730",
+        "name": "일러스트/작법",
+        "main_category_id": 8
     },
     {
         "id": 106,
-        "saleCmdtClstCode": "3302",
-        "name": "IT일반",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3301",
+        "name": "컴퓨터공학",
+        "main_category_id": 9
     },
     {
         "id": 107,
-        "saleCmdtClstCode": "3303",
-        "name": "컴퓨터입문/활용",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3302",
+        "name": "IT일반",
+        "main_category_id": 9
     },
     {
         "id": 108,
-        "saleCmdtClstCode": "3305",
-        "name": "전산통계/해석",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3303",
+        "name": "컴퓨터입문/활용",
+        "main_category_id": 9
     },
     {
         "id": 109,
-        "saleCmdtClstCode": "3307",
-        "name": "OS",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3305",
+        "name": "전산통계/해석",
+        "main_category_id": 9
     },
     {
         "id": 110,
-        "saleCmdtClstCode": "3309",
-        "name": "네트워크",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3307",
+        "name": "OS",
+        "main_category_id": 9
     },
     {
         "id": 111,
-        "saleCmdtClstCode": "3310",
-        "name": "보안/해킹",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3309",
+        "name": "네트워크",
+        "main_category_id": 9
     },
     {
         "id": 112,
-        "saleCmdtClstCode": "3311",
-        "name": "데이터베이스",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3310",
+        "name": "보안/해킹",
+        "main_category_id": 9
     },
     {
         "id": 113,
-        "saleCmdtClstCode": "3312",
-        "name": "개발방법론",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3311",
+        "name": "데이터베이스",
+        "main_category_id": 9
     },
     {
         "id": 114,
-        "saleCmdtClstCode": "3313",
-        "name": "게임",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3312",
+        "name": "개발방법론",
+        "main_category_id": 9
     },
     {
         "id": 115,
-        "saleCmdtClstCode": "3314",
-        "name": "웹프로그래밍",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3313",
+        "name": "게임",
+        "main_category_id": 9
     },
     {
         "id": 116,
-        "saleCmdtClstCode": "3315",
-        "name": "프로그래밍 언어",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3314",
+        "name": "웹프로그래밍",
+        "main_category_id": 9
     },
     {
         "id": 117,
-        "saleCmdtClstCode": "3316",
-        "name": "모바일프로그래밍",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3315",
+        "name": "프로그래밍 언어",
+        "main_category_id": 9
     },
     {
         "id": 118,
-        "saleCmdtClstCode": "3317",
-        "name": "OA/사무자동화",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3316",
+        "name": "모바일프로그래밍",
+        "main_category_id": 9
     },
     {
         "id": 119,
-        "saleCmdtClstCode": "3319",
-        "name": "웹사이트",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3317",
+        "name": "OA/사무자동화",
+        "main_category_id": 9
     },
     {
         "id": 120,
-        "saleCmdtClstCode": "3321",
-        "name": "그래픽",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3319",
+        "name": "웹사이트",
+        "main_category_id": 9
     },
     {
         "id": 121,
-        "saleCmdtClstCode": "3323",
-        "name": "멀티미디어",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3321",
+        "name": "그래픽",
+        "main_category_id": 9
     },
     {
         "id": 122,
-        "saleCmdtClstCode": "3325",
-        "name": "CAD",
-        "maincategoryId": 8
+        "saleCmdtClstCode": "3323",
+        "name": "멀티미디어",
+        "main_category_id": 9
     },
     {
         "id": 123,
+        "saleCmdtClstCode": "3325",
+        "name": "CAD",
+        "main_category_id": 9
+    },
+    {
+        "id": 124,
         "saleCmdtClstCode": "3328",
         "name": "자격증/수험서",
-        "maincategoryId": 8
+        "main_category_id": 9
     }
 ]

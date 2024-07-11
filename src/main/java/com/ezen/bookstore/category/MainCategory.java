@@ -12,12 +12,4 @@ public class MainCategory {
     private String name;
 
     protected MainCategory() {}
-
-    public Long getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
 }
