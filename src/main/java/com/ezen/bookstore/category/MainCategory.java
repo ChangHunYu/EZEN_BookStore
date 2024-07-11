@@ -22,6 +22,7 @@ public class MainCategory {
     public String getName() {
         return name;
     }
+
     
     // Setter
 }
