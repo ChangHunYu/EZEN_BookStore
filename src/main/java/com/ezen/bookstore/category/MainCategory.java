@@ -12,4 +12,7 @@ public class MainCategory {
     private String name;
 
     protected MainCategory() {}
+
+
+
 }
