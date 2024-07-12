@@ -43,4 +43,19 @@ class RestAssuredApiTest {
         // 특정 값이 포함되어 있는지 확인 (예시)
         assertThat(categories).contains("소설", "여행", "과학");
     }
+
+    @Test
+    void 서브카테고리_메인카테고리ID_조회_테스트() {
+
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+                .contentType(MediaType.APPLICATION_JSON_VALUE)
+                .when().get("/subcategory/1")
+                .then().log().all()
+                .statusCode(HttpStatus.OK.value())
+                .extract();
+
+        List<String> categories = response.jsonPath().getList("name", String.class);
+        assertThat(categories).isNotEmpty();
+
+    }
 }
