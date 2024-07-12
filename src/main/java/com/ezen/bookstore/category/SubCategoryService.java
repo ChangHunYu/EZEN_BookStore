@@ -13,11 +13,11 @@ public class SubCategoryService {
         this.subCategoryRepository = subCategoryRepository;
     }
 
-    public List<SubCategory> getAllSubCategories(Long mainCategoryId) {
+    public List<SubCategoryResponse> getAllSubCategories(Long mainCategoryId) {
         List<SubCategory> allByMainCategoryId = subCategoryRepository.findAllByMainCategoryId(mainCategoryId);
         if (allByMainCategoryId.isEmpty()) {
             throw new NoSuchElementException("서브 카테고리가 존재하지 않습니다.");
         }
-        return allByMainCategoryId;
+        return allByMainCategoryId.stream().map(SubCategoryResponse::of).toList();
     }
 }

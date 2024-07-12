@@ -21,8 +21,8 @@ public class MainCategoryController {
     }
 
     @GetMapping
-    public ResponseEntity<List<MainCategory>> getAll() {
-        List<MainCategory> mainCategories = mainCategoryService.findAll();
+    public ResponseEntity<List<MainCategoryResponse>> getAll() {
+        List<MainCategoryResponse> mainCategories = mainCategoryService.findAll();
         return new ResponseEntity<>(mainCategories, HttpStatus.OK);
     }
 }

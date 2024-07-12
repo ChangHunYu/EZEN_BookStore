@@ -19,8 +19,8 @@ public class SubCategoryController {
     }
 
     @GetMapping("/{mainCategoryId}")
-    public ResponseEntity<List<SubCategory>> getAllByMaincategoryId(@PathVariable Long mainCategoryId) {
-        List<SubCategory> subCategories = subCategoryService.getAllSubCategories(mainCategoryId);
+    public ResponseEntity<List<SubCategoryResponse>> getAllByMaincategoryId(@PathVariable Long mainCategoryId) {
+        List<SubCategoryResponse> subCategories = subCategoryService.getAllSubCategories(mainCategoryId);
         return new ResponseEntity<>(subCategories, HttpStatus.OK);
     }
 }
