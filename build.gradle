@@ -29,6 +29,7 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	testImplementation 'io.rest-assured:rest-assured:5.4.0'
 	implementation 'com.fasterxml.jackson.core:jackson-databind'
+	testImplementation 'io.rest-assured:rest-assured:5.4.0'
 }
 
 tasks.named('test') {

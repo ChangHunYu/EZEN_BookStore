@@ -14,5 +14,11 @@ public class MainCategory {
     protected MainCategory() {}
 
 
+    public Long getId() {
+        return id;
+    }
 
+    public String getName() {
+        return name;
+    }
 }

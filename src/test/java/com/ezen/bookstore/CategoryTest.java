@@ -17,9 +17,17 @@ public class CategoryTest {
     }
 
     @Test
-    void 상품목록조회() {
+    void 메인카테고리조회() {
         RestAssured.when()
                 .get("/maincategory")
+                .then()
+                .statusCode(200);
+    }
+
+    @Test
+    void 서브카테고리조회() {
+        RestAssured.when()
+                .get("/subcategory")
                 .then()
                 .statusCode(200);
     }
