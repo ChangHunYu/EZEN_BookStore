@@ -1,7 +1,7 @@
 package com.ezen.bookstore.category;
 
 public record SubCategoryResponse(
-        Long SubCategoryId,
+        Long subCategoryId,
         String name
 ) {
     public static SubCategoryResponse of(SubCategory subCategory) {

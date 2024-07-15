@@ -58,4 +58,17 @@ class RestAssuredApiTest {
         assertThat(categories).isNotEmpty();
 
     }
+
+    @Test
+    void 메인카테고리_ID_조회_테스트() {
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+                .contentType(MediaType.APPLICATION_JSON_VALUE)
+                .when().get("maincategory/1")
+                .then().log().all()
+                .statusCode(HttpStatus.OK.value())
+                .extract();
+
+        String category = response.jsonPath().getObject("name", String.class);
+        assertThat(category).isEqualTo("소설");
+    }
 }

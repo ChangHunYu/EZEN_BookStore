@@ -1,7 +1,7 @@
 package com.ezen.bookstore.category;
 
 public record MainCategoryResponse(
-        Long MainCategoryId,
+        Long mainCategoryId,
         String name
 ) {
     public static MainCategoryResponse of(MainCategory mainCategory) {
