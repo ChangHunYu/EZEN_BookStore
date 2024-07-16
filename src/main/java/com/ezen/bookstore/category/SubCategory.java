@@ -11,4 +11,16 @@ public class SubCategory {
     private MainCategory mainCategory;
 
     protected SubCategory() {}
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public MainCategory getMainCategory() {
+        return mainCategory;
+    }
 }
