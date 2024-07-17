@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.List;
+
 @RestController
 @RequestMapping("/product")
 public class ProductController {
@@ -21,5 +23,12 @@ public class ProductController {
         ProductDetailResponse product = productService.findById(id);
 
         return new ResponseEntity<>(product, HttpStatus.OK);
+    }
+
+    @GetMapping
+    public ResponseEntity<List<ProductListResponse>> getAll() {
+        List<ProductListResponse> products = productService.findAll();
+
+        return new ResponseEntity<>(products, HttpStatus.OK);
     }
 }

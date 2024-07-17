@@ -84,4 +84,19 @@ class RestAssuredApiTest {
         String product = response.jsonPath().getObject("title", String.class);
         assertThat(product).isEqualTo("모순");
     }
+
+    @Test
+    void 상품_목록_조회_테스트() {
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+            .contentType(MediaType.APPLICATION_JSON_VALUE)
+            .when().get("product")
+            .then().log().all()
+            .statusCode(HttpStatus.OK.value())
+            .extract();
+
+
+        List<String> products = response.jsonPath().getList("title", String.class);
+        assertThat(products).isNotEmpty();
+    }
+
 }
