@@ -22,4 +22,44 @@ public class Product {
     private SubCategory subCategory;
 
     protected Product() {}
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public Long getPrice() {
+        return price;
+    }
+
+    public LocalDate getPublishDate() {
+        return publishDate;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public String getContentsInfo() {
+        return contentsInfo;
+    }
+
+    public Long getSales() {
+        return sales;
+    }
+
+    public String getPublisher() {
+        return publisher;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public SubCategory getSubCategory() {
+        return subCategory;
+    }
 }
