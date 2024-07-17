@@ -8,9 +8,11 @@ import java.util.NoSuchElementException;
 @Service
 public class ProductService {
     private final ProductRepository productRepository;
+    private final ProductMapper productMapper;
 
-    public ProductService(ProductRepository productRepository) {
+    public ProductService(ProductRepository productRepository, ProductMapper productMapper) {
         this.productRepository = productRepository;
+        this.productMapper = productMapper;
     }
 
     public ProductDetailResponse findById(Long id) {
@@ -22,7 +24,6 @@ public class ProductService {
     }
 
     public List<ProductListResponse> findAll() {
-        List<Product> products = productRepository.findAll();
-        return products.stream().map(ProductListResponse::of).toList();
+        return productMapper.findAll();
     }
 }
