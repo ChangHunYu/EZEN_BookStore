@@ -19,7 +19,7 @@ public record ProductDetailResponse(
                 product.getPrice(),
                 product.getPublishDate(),
                 product.getAuthor(),
-                product.getAuthor(),
+                product.getContentsInfo(),
                 product.getPublisher(),
                 product.getImageUrl()
         );
