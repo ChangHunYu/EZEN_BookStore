@@ -21,12 +21,14 @@ public class MainCategoryController {
         this.mainCategoryService = mainCategoryService;
     }
 
+    // 전체 목록 조회
     @GetMapping
     public ResponseEntity<List<MainCategoryResponse>> getAll() {
         List<MainCategoryResponse> mainCategories = mainCategoryService.findAll();
         return new ResponseEntity<>(mainCategories, HttpStatus.OK);
     }
 
+    // id로 조회
     @GetMapping("/{id}")
     public ResponseEntity<MainCategoryResponse> getById(@PathVariable Long id) {
         MainCategoryResponse maincategory = mainCategoryService.findById(id);

@@ -16,6 +16,13 @@ public class MainCategoryService {
 
     public List<MainCategoryResponse> findAll() {
         List<MainCategory> mainCategories = mainCategoryRepository.findAll();
+
+//        List<MainCategoryResponse> list = mainCategories.stream().map(mainCategory
+//                -> new MainCategoryResponse(mainCategory.getId(), mainCategory.getName())).toList();
+
+//        List<MainCategoryResponse> list2 = mainCategories.stream().map(mainCategory
+//                -> MainCategoryResponse.of(mainCategory)).toList();
+
         return mainCategories.stream().map(MainCategoryResponse::of).toList();
     }
 

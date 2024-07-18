@@ -49,7 +49,7 @@ class RestAssuredApiTest {
 
         final ExtractableResponse<Response> response = RestAssured.given().log().all()
                 .contentType(MediaType.APPLICATION_JSON_VALUE)
-                .when().get("/subcategory/1")
+                .when().get("/subcategory?mainCategoryId=1")
                 .then().log().all()
                 .statusCode(HttpStatus.OK.value())
                 .extract();

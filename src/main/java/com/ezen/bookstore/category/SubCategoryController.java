@@ -2,10 +2,7 @@ package com.ezen.bookstore.category;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -18,8 +15,9 @@ public class SubCategoryController {
         this.subCategoryService = subCategoryService;
     }
 
-    @GetMapping("/{mainCategoryId}")
-    public ResponseEntity<List<SubCategoryResponse>> getAllByMaincategoryId(@PathVariable Long mainCategoryId) {
+    // 서브카테고리 목록 조회 by 메인카테고리 ID
+    @GetMapping
+    public ResponseEntity<List<SubCategoryResponse>> getAllByMaincategoryId(@RequestParam Long mainCategoryId) {
         List<SubCategoryResponse> subCategories = subCategoryService.getAllSubCategories(mainCategoryId);
         return new ResponseEntity<>(subCategories, HttpStatus.OK);
     }
