@@ -5,4 +5,27 @@
         INSERT INTO product (id, title, price, publish_date, author, contents_info, sales, publisher, image_url, sub_category_id)
         VALUES (#{id}, #{title}, #{price}, #{publishDate}, #{author}, #{contentsInfo}, #{sales}, #{publisher}, #{imageUrl}, #{sub_category_id})
     </insert>
+
+    <resultMap id="productListMap" type="com.ezen.bookstore.product.ProductListResponse">
+        <constructor>
+            <idArg column="id" javaType="java.lang.Long"/>
+            <arg column="title" javaType="java.lang.String"/>
+            <arg column="price" javaType="java.lang.Long"/>
+            <arg column="publish_date" javaType="java.time.LocalDate"/>
+            <arg column="author" javaType="java.lang.String"/>
+            <arg column="publisher" javaType="java.lang.String"/>
+            <arg column="image_url" javaType="java.lang.String"/>
+        </constructor>
+    </resultMap>
+    <select id="findAll" resultMap="productListMap">
+        SELECT * from product p
+        <choose>
+            <when test="sort.toUpperCase() == 'RECENT'">
+                ORDER BY p.publish_date DESC
+            </when>
+            <when test="sort.toUpperCase() == 'POPULAR'">
+                ORDER BY p.sales DESC
+            </when>
+        </choose>
+    </select>
 </mapper>

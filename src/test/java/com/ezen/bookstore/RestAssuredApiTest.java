@@ -49,7 +49,7 @@ class RestAssuredApiTest {
 
         final ExtractableResponse<Response> response = RestAssured.given().log().all()
                 .contentType(MediaType.APPLICATION_JSON_VALUE)
-                .when().get("/subcategory/1")
+                .when().get("/subcategory?mainCategoryId=1")
                 .then().log().all()
                 .statusCode(HttpStatus.OK.value())
                 .extract();
@@ -71,4 +71,32 @@ class RestAssuredApiTest {
         String category = response.jsonPath().getObject("name", String.class);
         assertThat(category).isEqualTo("소설");
     }
+
+    @Test
+    void 상품_ID_조회_테스트() {
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+                .contentType(MediaType.APPLICATION_JSON_VALUE)
+                .when().get("product/1")
+                .then().log().all()
+                .statusCode(HttpStatus.OK.value())
+                .extract();
+
+        String product = response.jsonPath().getObject("title", String.class);
+        assertThat(product).isEqualTo("모순");
+    }
+
+    @Test
+    void 상품_목록_조회_테스트() {
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+            .contentType(MediaType.APPLICATION_JSON_VALUE)
+            .when().get("product")
+            .then().log().all()
+            .statusCode(HttpStatus.OK.value())
+            .extract();
+
+
+        List<String> products = response.jsonPath().getList("title", String.class);
+        assertThat(products).isNotEmpty();
+    }
+
 }
