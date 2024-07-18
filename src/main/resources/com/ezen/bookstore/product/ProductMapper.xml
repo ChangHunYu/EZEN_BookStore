@@ -18,6 +18,14 @@
         </constructor>
     </resultMap>
     <select id="findAll" resultMap="productListMap">
-        SELECT * from product
+        SELECT * from product p
+        <choose>
+            <when test="sort.toUpperCase() == 'RECENT'">
+                ORDER BY p.publish_date DESC
+            </when>
+            <when test="sort.toUpperCase() == 'POPULAR'">
+                ORDER BY p.sales DESC
+            </when>
+        </choose>
     </select>
 </mapper>

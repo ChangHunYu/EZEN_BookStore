@@ -8,5 +8,5 @@ import java.util.List;
 @Mapper
 public interface ProductMapper {
     void insertProduct(ProductJsonDTO productJsonDTO);
-    List<ProductListResponse> findAll();
+    List<ProductListResponse> findAll(String sort); // 상품 전체 조회
 }

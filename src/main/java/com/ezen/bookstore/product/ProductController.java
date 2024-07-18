@@ -2,10 +2,7 @@ package com.ezen.bookstore.product;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -18,6 +15,7 @@ public class ProductController {
         this.productService = productService;
     }
 
+    // 상품 상세 조회
     @GetMapping("/{id}")
     public ResponseEntity<ProductDetailResponse> getById(@PathVariable Long id) {
         ProductDetailResponse product = productService.findById(id);
@@ -25,9 +23,10 @@ public class ProductController {
         return new ResponseEntity<>(product, HttpStatus.OK);
     }
 
+    // 상품 목록 조회
     @GetMapping
-    public ResponseEntity<List<ProductListResponse>> getAll() {
-        List<ProductListResponse> products = productService.findAll();
+    public ResponseEntity<List<ProductListResponse>> getAll(@RequestParam(defaultValue = "recent") String sort) {
+        List<ProductListResponse> products = productService.findAll(sort);
 
         return new ResponseEntity<>(products, HttpStatus.OK);
     }
