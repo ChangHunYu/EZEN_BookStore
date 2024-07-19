@@ -25,8 +25,8 @@ public class ProductController {
 
     // 상품 목록 조회
     @GetMapping
-    public ResponseEntity<List<ProductListResponse>> getAll(@RequestParam(defaultValue = "recent") String sort) {
-        List<ProductListResponse> products = productService.findAll(sort);
+    public ResponseEntity<PagedProductResponse> getAll(ProductListSearchParams params) {
+        PagedProductResponse products = productService.findAllWithPagination(params);
 
         return new ResponseEntity<>(products, HttpStatus.OK);
     }

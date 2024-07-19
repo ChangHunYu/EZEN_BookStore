@@ -27,5 +27,12 @@
                 ORDER BY p.sales DESC
             </when>
         </choose>
+        LIMIT #{pageSize} OFFSET #{offset}
     </select>
+
+    <select id="countAllWithParams" resultType="int">
+        SELECT COUNT(*)
+        FROM product p
+    </select>
+
 </mapper>
