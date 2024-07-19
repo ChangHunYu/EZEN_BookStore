@@ -18,10 +18,18 @@
         </constructor>
     </resultMap>
     <select id="findAll" resultMap="productListMap">
-        SELECT * from product p
+        SELECT p.id, p.title, p.price, p.publish_date, p.author, p.publisher, p.image_url
+        FROM product p
+        JOIN sub_category sc ON p.sub_category_id = sc.id
+        <if test="mainCategoryId != null and mainCategoryId !=''">
+            JOIN main_category mc ON sc.main_category_id = mc.id
+        </if>
         <where>
             <if test="subCategoryId != null and subCategoryId != ''">
                 p.sub_category_id = #{subCategoryId}
+            </if>
+            <if test="mainCategoryId != null and mainCategoryId != ''">
+                mc.id = #{mainCategoryId}
             </if>
         </where>
         <choose>
@@ -38,9 +46,16 @@
     <select id="countAllWithParams" resultType="int">
         SELECT COUNT(*)
         FROM product p
+        JOIN sub_category sc ON p.sub_category_id = sc.id
+        <if test="mainCategoryId != null and mainCategoryId !=''">
+            JOIN main_category mc ON sc.main_category_id = #{mainCategoryId}
+        </if>
         <where>
             <if test="subCategoryId != null and subCategoryId != ''">
                 p.sub_category_id = #{subCategoryId}
+            </if>
+            <if test="mainCategoryId != null and mainCategoryId != ''">
+                mc.id = #{mainCategoryId}
             </if>
         </where>
     </select>
