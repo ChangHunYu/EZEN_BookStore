@@ -1,5 +1,7 @@
 package com.ezen.bookstore;
 
+import com.ezen.bookstore.product.PagedProductResponse;
+import com.ezen.bookstore.product.ProductListResponse;
 import io.restassured.RestAssured;
 import io.restassured.response.ExtractableResponse;
 import io.restassured.response.Response;
@@ -105,5 +107,21 @@ class RestAssuredApiTest {
         assertThat(totalCount).isGreaterThan(1);
         assertThat(pageNumber).isEqualTo(1);
         assertThat(pageSize).isEqualTo(10);
+    }
+
+    @Test
+    void 상품_목록_조회_테스트_서브카테고리로_검색() {
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+                .contentType(MediaType.APPLICATION_JSON_VALUE)
+                .when().get("product?subCategoryId=1")
+                .then().log().all()
+                .statusCode(HttpStatus.OK.value())
+                .extract();
+
+
+        List<ProductListResponse> products = response.jsonPath().getList("items", ProductListResponse.class);
+
+        assertThat(products).isNotEmpty();
+
     }
 }

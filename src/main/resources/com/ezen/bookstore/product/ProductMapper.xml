@@ -19,6 +19,11 @@
     </resultMap>
     <select id="findAll" resultMap="productListMap">
         SELECT * from product p
+        <where>
+            <if test="subCategoryId != null and subCategoryId != ''">
+                p.sub_category_id = #{subCategoryId}
+            </if>
+        </where>
         <choose>
             <when test="sort.toUpperCase() == 'RECENT'">
                 ORDER BY p.publish_date DESC
@@ -33,6 +38,11 @@
     <select id="countAllWithParams" resultType="int">
         SELECT COUNT(*)
         FROM product p
+        <where>
+            <if test="subCategoryId != null and subCategoryId != ''">
+                p.sub_category_id = #{subCategoryId}
+            </if>
+        </where>
     </select>
 
 </mapper>
