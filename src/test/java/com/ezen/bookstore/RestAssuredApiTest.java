@@ -110,7 +110,7 @@ class RestAssuredApiTest {
     }
 
     @Test
-    void 상품_목록_조회_테스트_서브카테고리로_검색() {
+    void 상품_목록_조회_테스트_서브카테고리ID로_검색() {
         final ExtractableResponse<Response> response = RestAssured.given().log().all()
                 .contentType(MediaType.APPLICATION_JSON_VALUE)
                 .when().get("product?subCategoryId=1")
@@ -122,6 +122,5 @@ class RestAssuredApiTest {
         List<ProductListResponse> products = response.jsonPath().getList("items", ProductListResponse.class);
 
         assertThat(products).isNotEmpty();
-
     }
 }
