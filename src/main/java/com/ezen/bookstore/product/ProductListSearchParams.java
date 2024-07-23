@@ -4,6 +4,7 @@ public record ProductListSearchParams(
         String sort,
         String mainCategoryId,
         String subCategoryId,
+        String subCategoryName,
         Integer pageNumber,
         Integer pageSize) {
 

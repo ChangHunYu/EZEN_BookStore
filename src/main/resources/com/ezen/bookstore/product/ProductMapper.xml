@@ -28,8 +28,14 @@
             <if test="subCategoryId != null and subCategoryId != ''">
                 p.sub_category_id = #{subCategoryId}
             </if>
+            <if test="subCategoryId != null and subCategoryId != ''">
+                p.sub_category_id = #{subCategoryId}
+            </if>
             <if test="mainCategoryId != null and mainCategoryId != ''">
                 mc.id = #{mainCategoryId}
+            </if>
+            <if test="subCategoryName != null and subCategoryName != ''">
+                sc.name = #{subCategoryName}
             </if>
         </where>
         <choose>
