@@ -18,7 +18,24 @@
         </constructor>
     </resultMap>
     <select id="findAll" resultMap="productListMap">
-        SELECT * from product p
+        SELECT p.id, p.title, p.price, p.publish_date, p.author, p.publisher, p.image_url
+        FROM product p
+        JOIN sub_category sc ON p.sub_category_id = sc.id
+        JOIN main_category mc ON sc.main_category_id = mc.id
+        <where>
+            <if test="subCategoryId != null and subCategoryId != ''">
+                p.sub_category_id = #{subCategoryId}
+            </if>
+            <if test="mainCategoryId != null and mainCategoryId != ''">
+                mc.id = #{mainCategoryId}
+            </if>
+            <if test="subCategoryName != null and subCategoryName != ''">
+                sc.name = #{subCategoryName}
+            </if>
+            <if test="mainCategoryName != null and mainCategoryName != ''">
+                mc.name = #{mainCategoryName}
+            </if>
+        </where>
         <choose>
             <when test="sort.toUpperCase() == 'RECENT'">
                 ORDER BY p.publish_date DESC
@@ -27,5 +44,24 @@
                 ORDER BY p.sales DESC
             </when>
         </choose>
+        LIMIT #{pageSize} OFFSET #{offset}
     </select>
+
+    <select id="countAllWithParams" resultType="int">
+        SELECT COUNT(*)
+        FROM product p
+        JOIN sub_category sc ON p.sub_category_id = sc.id
+        <if test="mainCategoryId != null and mainCategoryId !=''">
+            JOIN main_category mc ON sc.main_category_id = #{mainCategoryId}
+        </if>
+        <where>
+            <if test="subCategoryId != null and subCategoryId != ''">
+                p.sub_category_id = #{subCategoryId}
+            </if>
+            <if test="mainCategoryId != null and mainCategoryId != ''">
+                mc.id = #{mainCategoryId}
+            </if>
+        </where>
+    </select>
+
 </mapper>

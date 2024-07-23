@@ -35,7 +35,24 @@ public class ProductService {
         return ProductDetailResponse.of(product);
     }
 
-    public List<ProductListResponse> findAll(String sort) {
-        return productMapper.findAll(sort);
+    public List<ProductListResponse> findAll(ProductListSearchParams params) {
+        return productMapper.findAll(params);
     }
+
+    public PagedProductResponse findAllWithPagination(ProductListSearchParams params) {
+        int totalCount = productMapper.countAllWithParams(params);;
+        List<ProductListResponse> items =productMapper.findAll(params);
+
+        int totalPage =  totalCount / params.pageSize() + 1;
+
+        return new PagedProductResponse(
+                (int) totalPage,
+                totalCount,
+                params.pageNumber(),
+                params.pageSize(),
+                items
+        );
+    }
+
+
 }
