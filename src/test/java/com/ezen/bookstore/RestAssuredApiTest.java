@@ -154,4 +154,19 @@ class RestAssuredApiTest {
 
         assertThat(products).isNotEmpty();
     }
+
+    @Test
+    void 상품_목록_조회_테스트_메인카테고리Name으로_검색() {
+        final ExtractableResponse<Response> response = RestAssured.given().log().all()
+                .contentType(MediaType.APPLICATION_JSON_VALUE)
+                .when().get("product?mainCategoryName=여행")
+                .then().log().all()
+                .statusCode(HttpStatus.OK.value())
+                .extract();
+
+
+        List<ProductListResponse> products = response.jsonPath().getList("items", ProductListResponse.class);
+
+        assertThat(products).isNotEmpty();
+    }
 }

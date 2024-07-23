@@ -21,9 +21,7 @@
         SELECT p.id, p.title, p.price, p.publish_date, p.author, p.publisher, p.image_url
         FROM product p
         JOIN sub_category sc ON p.sub_category_id = sc.id
-        <if test="mainCategoryId != null and mainCategoryId !=''">
-            JOIN main_category mc ON sc.main_category_id = mc.id
-        </if>
+        JOIN main_category mc ON sc.main_category_id = mc.id
         <where>
             <if test="subCategoryId != null and subCategoryId != ''">
                 p.sub_category_id = #{subCategoryId}
@@ -33,6 +31,9 @@
             </if>
             <if test="subCategoryName != null and subCategoryName != ''">
                 sc.name = #{subCategoryName}
+            </if>
+            <if test="mainCategoryName != null and mainCategoryName != ''">
+                mc.name = #{mainCategoryName}
             </if>
         </where>
         <choose>

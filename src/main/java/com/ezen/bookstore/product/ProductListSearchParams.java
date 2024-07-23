@@ -3,6 +3,7 @@ package com.ezen.bookstore.product;
 public record ProductListSearchParams(
         String sort,
         String mainCategoryId,
+        String mainCategoryName,
         String subCategoryId,
         String subCategoryName,
         Integer pageNumber,
