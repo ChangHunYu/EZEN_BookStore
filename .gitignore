@@ -1,10 +1,4 @@
-HELP.md
-.gradle
-build/
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
-
+# Ignore general IDE files
 ### STS ###
 .apt_generated
 .classpath
@@ -35,3 +29,43 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Ignore build outputs and temporary files
+/build
+/out/
+/.next/
+*.tsbuildinfo
+next-env.d.ts
+
+# Ignore local development files
+.DS_Store
+*.pem
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env*.local
+.vercel
+
+# Ignore dependencies and testing artifacts
+/node_modules
+/.pnp
+.pnp.js
+/coverage
+
+# Specific exclusions and inclusions for EZEN_BookStore
+/EZEN_BookStore/.gitignore
+HELP.md
+.gradle
+
+# Backend specific exclusions and inclusions
+/EZEN_BookStore/Backend/build/
+!/EZEN_BookStore/Backend/gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+/EZEN_BookStore/Backend/bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# Frontend specific exclusions and inclusions
+/EZEN_BookStore/Frontend/.next/
+/EZEN_BookStore/Frontend/out/
